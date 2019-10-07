@@ -1,5 +1,5 @@
 # wlhistory
-WikiLeaks: A True History
+= WikiLeaks: A True History
 By Gary Lord
 
 Copyright Gary Lord 2019
@@ -34,5 +34,8 @@ Patreon: https://patreon.com/jaraparilla
 
 Paypal: https://paypal.me/jaraparilla
  
+You can support the writing of this book here: https://www.gofundme.com/f/wikileaks-true-history-book
+
+Thank you.
 
 * 
