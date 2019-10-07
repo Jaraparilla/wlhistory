@@ -1,0 +1,37 @@
+= WikiLeaks: a True History
+
+by Gary Lord aka @Jaraparilla
+
+This book is a crowdfunded project that aims to establish a true and lasting record of the WikiLeaks organisation. The Author's Note explains why this book is necessary. First four chapters now available FREE. Read, enjoy, learn and share! 
+
+=== Contents
+
+- link:ch0.html[Author's Note] 
+- link:ch1.html[Chapter One: Genesis] 
+- link:ch2.html[Chapter Two: 2007 - 08] 
+- link:ch3.html[Chapter Three: 2008 - 09]
+- link:ch4.html[Chapter Four: 2009 - 10]
+
+=== Support
+
+You can link:https://www.gofundme.com/f/wikileaks-true-history-book[support the writing of this book here]!
+
+=== About
+
+The author of this book can be found at: 
+
+Twitter: https://twitter.com/jaraparilla
+
+Blog: https://jaraparilla.blogspot.com
+
+Patreon: https://patreon.com/jaraparilla
+
+Paypal: https://paypal.me/jaraparilla
+ 
+Thank you. 
+
+* 
+
+All material copyright Gary Lord 2019
+
+

@@ -550,18 +550,10 @@ Manning uploaded the compressed data files along with a text file that she had p
 
 *
 
-The author of this book has been an active supporter of WikiLeaks since at least 2010. He can be found at: 
+Return link:index.html[Home]. 
 
-Twitter: https://twitter.com/jaraparilla
-
-Blog: https://jaraparilla.blogspot.com
-
-Patreon: https://patreon.com/jaraparilla
-
-Paypal: https://paypal.me/jaraparilla
- 
-You can support the writing of this book here: https://www.gofundme.com/f/wikileaks-true-history-book
-
-Thank you.
+Please link:https://www.gofundme.com/f/wikileaks-true-history-book[support the writing of this book]. Thank you.
 
 * 
+
+Copyright Gary Lord 2019

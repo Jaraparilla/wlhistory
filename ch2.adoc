@@ -405,21 +405,14 @@ It is not within the scope of this book to list or describe all the millions of 
 
 - An investigation of link:https://wikileaks.org/wiki/Internet_Censorship_in_Thailand[Internet Censorship in Thailand] where WikiLeaks has been link:https://ooni.torproject.org/post/thailand-internet-censorship/[repeatedly] censored.
 
+
 *
 
-The author of this book has been an active supporter of WikiLeaks since at least 2010. He can be found at: 
+Continue to link:ch3.html[Chapter Three] or return link:index.html[Home]. 
 
-Twitter: https://twitter.com/jaraparilla
-
-Blog: https://jaraparilla.blogspot.com
-
-Patreon: https://patreon.com/jaraparilla
-
-Paypal: https://paypal.me/jaraparilla
- 
-You can support the writing of this book here: https://www.gofundme.com/f/wikileaks-true-history-book
-
-Thank you.
+Please link:https://www.gofundme.com/f/wikileaks-true-history-book[support the writing of this book]. Thank you.
 
 * 
+
+Copyright Gary Lord 2019
 
