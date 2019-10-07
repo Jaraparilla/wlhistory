@@ -1,0 +1,411 @@
+
+
+== Chapter Two
+
+
+WikiLeaks published its first leaked document link:http://wikileaks.org/wiki/Inside_Somalia_and_the_Union_of_Islamic_Courts[Inside Somalia and the Union of Islamic Courts] on 26 December 2006. The leak was described as "a secret Islamic order, purportedly written by the most important man in the Union, Sheik Aweys, [which] proclaims an Islamic Republic of Somalia." The final line of the leaked document stated: 
+
+> "Whosoever leaks this information and is found guilty should be shot".
+
+WikiLeaks provided extensive analysis to support the publication, including detailed speculation about whether it was genuine. WikiLeaks later called it "a play for Chinese support" but said "our Chinese source gives us little on the credibility". The document, which received limited media attention, was originally posted online as a .zip file because the WikiLeaks.org site was still not live. It was later described as a "Sample Document".
+
+=== Early Media Coverage
+
+On January 11 2007 AFP published an article titled link:https://web.archive.org/web/20071211081113/http://www.wikileaks.org/wiki/Media/Chinese_WikiLeaks_Aids_Whistleblowers[Chinese cyber-dissidents launch WikiLeaks, a site for whistleblowers]. It was the first time Julian Assange, who described himself as "a cryptographer and member of the advisory board", was publicly linked with the new organisation:  
+
+> "Our primary interests are oppressive regimes in Asia, the former Soviet bloc, sub-Saharan Africa and the Middle East, but we also expect to be of assistance to those in the West who wish to reveal unethical behaviour in their own governments and corporations," says the site WikiLeaks (www.wikileaks.org).
+
+> An official for WikiLeaks in Washington, identifying himself as Julian Assange, told AFP on Wednesday that the group hoped to go online from March but had been "discovered" before its launch and was not fully prepared for the publicity it was now receiving. 
+
+The New Scientist article link:https://www.sciencedirect.com/science/article/pii/S0262407907601006[How to leak a secret and not get caught] was published in their monthly print edition two days later. The online version remains paywalled but a free version can be link:https://wikileaks.org/wiki/Media/How_to_leak_a_secret_and_not_get_caught[found] on wikileaks.org. Author Paul Marks was intrigued by the new organisation's security technology: 
+
+> Normally an email or a document posted to a website can be traced back to its source because each data packet carries the IP address of the last server that it passed through. To prevent this, WikiLeaks will exploit an anonymising protocol known as The Onion Router (Tor), which routes data through a network of servers that use cryptography to hide the path that the packets took.
+
+In fact the ingenious WikiLeaks "anonymous drop box" would utilize more encryption security than just link:torproject.org[Tor], and would be regularly upgraded (or even taken offline) to protect sources. The unique and original concept behind this technology, which guaranteed anonymity to people on both sides of the submission system, was in many ways the key to WikiLeaks' success. Eventually it became a submissions model copied by major news organisations worldwide. 
+
+WikiLeaks boasted that they had already received "over 1.1 million documents so far from dissident communities and anonymous sources." Some people speculated that these documents were merely encrypted files copied from a server on the Tor network and this was more evidence of "Splendide Mendax" at work. As mentioned in the New Scientist article, Tor network security had been breached a few times (leading to improvements) so WikiLeaks may have been able to decrypt or otherwise acquire the contents. But their claim certainly helped get media attention and build support. 
+
+With the benefit of hindsight, the New Scientist article shows how many tough editorial decisions Assange and his team still had to make: 
+
+> The WikiLeaks team do not plan to control what is disclosed on the site, raising fears that the anonymity it offers could be misused. "The initiative could drown in fabricated documents, pornographic records or become hijacked to serve vendettas," warns Steven Aftergood of the Federation of American Scientists in Washington DC.
+
+> The safeguard against this, according to the WikiLeaks team, is that false postings will be sniffed out by users, who will be free to comment on what is posted. This is what happens with Wikipedia, which although unconnected to WikiLeaks is based on the same open-source software. "WikiLeaks will provide a forum for the entire global community to examine any document relentlessly for credibility," the site claims.
+
+> WikiLeaks is raising funds and testing its software. It hopes to launch in February.  
+
+A flurry of other news stories followed in multiple languages from media sites around the world. Even the link:https://web.archive.org/web/20071211125150/http://www.wikileaks.org/wiki/Media/Freedom_of_Information_the_Wiki_Way[Washington Post] was interested:
+
+> Organizer James Chen said that while its creators tried to keep the site under wraps until its launch, Google references to it have soared in recent days from about eight to more than 20,000. 
+
+> "Wikileaks is becoming, as planned, although unexpectedly early, an international movement of people who facilitate ethical leaking and open government," he said. 
+
+> The thought that a nation's defense plans could turn up as "you've got mail" across the globe is a chilling one. So, too, is the potential for a miscreant to sow mayhem by "leaking" documents, real or fake. 
+
+The general media consensus was cautiously optimistic. But critical comments from Cryptome's John Young, who had helped Assange secure the WikiLeaks.org domain, were a regular feature.  As mentioned in the previous chapter, Young decided WikiLeaks was moving too fast, asking for too much money, and maybe even a CIA front. Others began speculating that Mossad, Russia, or some other state actor could be involved. Young wrote to Assange: 
+
+> "Fuck your cute hustle and disinformation campaign. Same old shit, working for the enemy... Fuck ’em all.”
+
+Assange replied cryptically: 
+
+> “We are going to fuck them all. Chinese mostly but not entirely a feint.” 
+
+Young disassociated himself from the project and link:https://cryptome.org/wikileaks/wikileaks-leak.htm[posted] on his website all the WikiLeaks correspondence he could find, from December 2006 and to early January 2007. In 2010, he also link:https://marc.info/?a=90366091900010[published] Assange’s contributions to the Cypherpunks mailing list between 1995 and 2002. 
+
+On January 22 2007 TIME magazine famously link:https://web.archive.org/web/20071212140735/http://www.wikileaks.org/wiki/Media/A_Wiki_for_Whistle-Blowers[stated] that WikiLeaks "could become as important a journalistic tool as the Freedom of Information Act". But they warned readers to remains sceptical and even hoped that someone might "find the smoking gun that reveals what shadowy organization is behind Wikileaks". Hardened cynics in the media and intelligence communities struggled to accept the simple truth: WikiLeaks was Julian Assange's invention. 
+
+The WikiLeaks team originally tried to keep track of link:https://web.archive.org/web/20071211082105/http://www.wikileaks.org/wiki/Wikileaks:Recent_Media[new media articles] but soon gave up due to limited resources and overwhelming global interest. 
+
+=== Early Website Versions
+
+Online archives reveal what various early versions of the wikieaks.org site looked like. A snapshot was first archived on link:https://web.archive.org/web/20070117001606/wikileaks.org[January 17 2007]. It shows the WikiLeaks title with a single quote from Daniel Ellsberg: "We were young, we were foolish, we were arrogant, but we were right."
+
+PIC wikileaks ellsberg
+
+A link:https://web.archive.org/web/20070202025339/wikileaks.org[February 2 2007] snapshot shows a whole page of text, with numerous useful links, and a new Ellsberg quote at the top: "Your concept looks terrific and I wish you the best of luck with it." 
+
+PIC wayback wl2
+
+For anyone interested in the history of WikiLeaks, the original version of the link:https://web.archive.org/web/20070202031222/http://wikileaks.org/faq.html[Frequently Asked Questions] (FAQ) page is worth reading in its entirety. Wikileaks is described as "an uncensorable version of Wikipedia for untraceable mass document leaking and analysis [which] combines the protection and anonymity of cutting-edge cryptographic technologies with the transparency and simplicity of a wiki interface."
+
+There is a clear intention to revolutionize journalism and change the world for the better: 
+
+> What official will chance a secret, corrupt transaction when the public is likely to find out? What repressive plan will be carried out when it is revealed to the citizenry, not just of its own country, but the world? When the risks of embarrassment through openness and honesty increase, the tables are turned against conspiracy, corruption, exploitation and oppression...
+
+> Wikileaks reduces the risk to potential leakers and improves the analysis and dissemination of leaked documents.
+
+> Wikileaks provides simple and straightforward means for anonymous and untraceable leaking of documents.
+
+> At the same time, Wikileaks opens leaked documents up to a much more exacting scrutiny than any media organization or intelligence agency could provide: the scrutiny of a worldwide community of informed wiki editors.
+
+There was also a clear intention to challenge and compete with corrupt intelligence agencies worldwide:
+
+> Wikileaks may become the most powerful "intelligence agency" on earth -- an intelligence agency of the people. It will be an open source, democratic intelligence agency. But it will be far more principled, and far less parochial than any governmental intelligence agency; consequently, it will be more accurate, and more relevant. It will have no commercial or national interests at heart; its only interests will be truth and freedom of information. Unlike the covert activities of state intelligence agencies, Wikileaks will rely upon the power of overt fact to inform citizens about the truths of their world.
+
+> Wikileaks will be the outlet for every government official, every bureaucrat, every corporate worker, who becomes privy to embarrassing information which the institution wants to hide but the public needs to know. What conscience cannot contain, and institutional secrecy unjustly conceals, Wikileaks can broadcast to the world.
+
+The original vision for the website was very much based on the "wiki" software developed in the mid 1990s. Organisations around the world were actively embracing it but Wikipedia was by far the most successful and publicly recognisable model. The WikiLeaks FAQ declared: "What Wikipedia is to the encyclopedia, Wikileaks will be to leaks." And even more ambitiously: "We plan to numerically eclipse the content of the English Wikipedia with leaked documents."
+
+> To the user, Wikileaks will look very much like Wikipedia. Anybody can post to it, anybody can edit it. No technical knowledge is required. Leakers can post documents anonymously and untraceably. Users can publicly discuss documents and analyze their credibility and veracity. Users can discuss interpretations and context and collaboratively formulate collective publications. Users can read and write explanatory articles on leaks along with background material and context. The political relevance of documents and their verisimilitude will be revealed by a cast of thousands.
+
+> Wikileaks will also incorporate advanced cryptographic technologies for anonymity and untraceability. Those who provide leaked information may face severe risks, whether of political repercussions, legal sanctions or physical violence. Accordingly, extremely sophisticated mathematical and cryptographic techniques will be used to secure privacy, anonymity and untraceability.
+
+> For the technically minded, Wikileaks integrates technologies including modified versions of FreeNet, Tor, PGP and software of our own design.
+
+> Wikileaks will be deployed in a way that makes it impervious to political and legal attacks. In this sense it is uncensorable.
+
+The WikiLeaks FAQ said 22 people were "currently directly involved in the project". A prototype submissions system had been successfully tested but was not ready for a full public deployment: they hoped to go live in February or March 2007. They called for additional funding and support, including "volunteer editors/analysts and server operators." 
+
+> *Couldn't leaking involve invasions of privacy? Couldn't mass leaking of documents be irresponsible? Aren't some leaks deliberately false and misleading?*
+
+> Providing a forum for freely posting information involves the potential for abuse, but measures can be taken to minimize any potential harm. The simplest and most effective countermeasure is a worldwide community of informed users and editors who can scrutinize and discuss leaked documents.
+
+> Concerns about privacy, irresponsibility and false information also arise with Wikipedia. On Wikipedia, irresponsible posting or editing of material, or posting of false material, can be reversed by other users, and the results have been extremely satisfying and reassuring. There is no reason to expect any different from Wikileaks. Indeed, as discovered with Wikipedia to the surprise of many, the collective wisdom of an informed community of users may provide rapid and accurate dissemination, verification and analysis.
+
+> Furthermore, misleading leaks and misinformation are already well placed in the mainstream media, as recent history shows, an obvious example being the lead-up to the Iraq war. Peddlers of misinformation will find themselves undone by Wikileaks, equipped as it is to scrutinize leaked documents in a way that no mainstream media outlet is capable of. An analogus example is this excellent unweaving of the British government's politically motivated additions to an intelligence dossier on Iraq. The dossier was cited by Colin Powell in his address to the United Nations the same month to justify the pending US invasion of Iraq.
+
+> In any case, our overarching goal is to provide a forum where embarrassing information can expose injustice. All policy will be formulated with this goal in mind.
+
+> *Is Wikileaks concerned about any legal consequences?*
+
+> Our roots are in dissident communities and our focus is on non-western authoritarian regimes. Consequently we believe a politically motivated legal attack on us would be seen as a grave error in western administrations. However, we are prepared, structurally and technically, to deal with all legal attacks. We design the software, and promote its human rights agenda, but the servers are run by anonymous volunteers. Because we have no commercial interest in the software, there is no need to restrict its distribution. In the very unlikely event that we were to face coercion to make the software censorship friendly, there are many others who will continue the work in other jurisdictions.
+
+> *Is leaking ethical?*
+
+> We favour, and uphold, ethical behavior in all circumstances. Every person is the ultimate arbiter of justice in their own conscience. Where there is a lack of freedom and injustice is enshrined in law, there is a place for principled civil disobedience. Where the simple act of distributing information may embarrass a regime or expose crime, we recognize a right, indeed a duty, to perform that act. Such whistleblowing normally involves major personal risk. Just like whistleblower protection laws in some jurisdictions, Wikileaks provides means and opportunity to minimize such risks.
+
+> We propose that every authoritarian government, every oppressive institution, and even every corrupt corporation, be subject to the pressure, not merely of international diplomacy or freedom of information laws, not even of quadrennial elections, but of something far stronger: the individual consciences of the people within them.
+
+* 
+
+The original members of the link:https://wikileaks.org/wiki/Advisory_Board[WikiLeaks Advisory Board] are still listed at wikileaks.org. 
+
+    1 Phillip Adams, writer, broadcaster & film maker
+    2 Julian Assange, investigative journalist, programmer and activist
+    3 Wang Dan, leading Tiananmen dissident & historian
+    4 CJ Hinke, Writer, Academic, Activist
+    5 Ben Laurie, internet security expert 
+    6 Tashi Namgyal Khamsitsang, Tibetan exile & activist
+    7 Xiao Qiang, Chinese human rights activist
+    8 Chico Whitaker, Brazilian social justice advocate
+
+While some lent their name to the project but had no further public involvement, that didn't stop later calls for them all to be link:https://www.theaustralian.com.au/news/nation/wikileaks-advisory-board-pretty-clearly-window-dressing/news-story/4a4f5c7bc8c50389cd131d92de99ed01[assassinated]. 
+
+NOTE: China was the first country to link:https://twitter.com/wikileaks/status/343852511314202624?s=20[ban WikiLeaks], in January 2007. 
+
+A page listing early link:https://wikileaks.org/wiki/Category:User_profiles[User Profiles] is also still online, with basic introductory descriptions. These users (some pseudonymous) would have had varying degrees of influence and involvement. For example link:https://original.antiwar.com/simon_floth/2018/06/15/assanges-ecuadorian-cave/[Simon Floth], described as a "Philosophy PhD Candidate at Uni NSW", was a customer of Assange’s Melbourne ISP who got an early email asking for support. He later told a 2018 online rally that he had helped create email lists, provided input for the website's "About" page, experimented with document analysis, and discussed how best to pitch the organisation to the public. 
+
+> “I got an email, sent it back sort of thing. Really I can’t spill a lot of beans on the inside stuff.” 
+
+By September 2007 WikiLeaks claimed to have over 1,200 registered volunteers. The link:https://web.archive.org/web/20070911185155/http://wikileaks.org:80/wiki/Wikileaks[home page] included four separate portals" "Truth Tellers, Editors and Writers, Volunteers and Activists, Visitors". There was a regular section titled "Today's featured truth teller" with the latest major release featured below that. 
+
+PIC
+
+It was by now an extensive website with dozens of links down the right side menu, including regional and country links, 28 separate language links, featured media and analysis, latest leaks, biographies, media and articles, a search field and newsletter signup options. The original FAQ had evolved into an extensive link:https://web.archive.org/web/20070928101508/http://wikileaks.org/wiki/Wikileaks:About[About] page with prosaic language that reflected the organisation's lofty ambitions.
+
+> There can be no democracy without open government and a free press. It is only when the people know the true plans and behavior of government can they meaningfully choose to support them. Historically, the most resilient forms of democracy are those where publication and revelation are protected. Where that protection does not exist, it is our mission to provide it.
+
+> Wikileaks is the strongest way we have of generating the true democracy and good governance on which all mankind's dreams depend. 
+
+The menu at the bottom of the screen included a "Media Kit" and "Writers Kit" with guidelines on how volunteers could help analyse documents. 
+
+> Have fun! After all, everybody wants to be an intelligence analyst. What more could you want, but interesting, empowering, creative work to make the world a better place, all from the comfort of your own home? 
+
+=== WikiLeaks v. Wikipedia
+
+WikiLeaks was clearly inspired by Wikipedia and initially encouraged comparisons as a way to generate interest and quickly communicate a global vision for the site. As the original New Scientist article suggested, and as the original website clearly stated, Julian Assange's original plan was to create an “uncensorable version of Wikipedia” where users could investigate leaked documents and publish the results with a minimum of editorial overview. The original "About" page (above) mentioned Wikipedia over a dozen times including this: 
+
+> *What is your relationship to Wikipedia?* For legal reasons, Wikileaks has no formal relationship to Wikipedia. However both employ the same wiki interface and technology. Both share the same radically democratic philosophy which holds that allowing anyone to be an author or editor leads to a vast and accurate collective intelligence and knowledge. Both place their trust in an informed community of citizens. What Wikipedia is to the encyclopedia, Wikileaks is to leaks. Wikipedia provides a positive example on which Wikileaks is based. 
+
+[NOTE]
+====
+The "legal reasons" quote drew some curious responses and may have been just a decoy to help maintain anonymity. There was never any legal relationship between WikiLeaks and Wikipedia. 
+====
+
+Julian Assange soon discovered that productively harnessing and directing the energy of hundreds of eager online users was no easy feat, especially when any hostile actor could open an account and sow disharmony. The forum areas gradually degenerated into confused discussion of side issues and unproductive slanging matches. A year after going live, the core team was still doing all the hard yards. And despite a steady stream of news-worthy output, mainstream media interest was waning. 
+
+In April 2008, Assange wrote an angry article titled link:https://www.guernicamag.com/the_hidden_curse_of_thomas_pai/[The Hidden Curse of Thomas Paine], complaining that major newspapers were not investigating and publishing WikiLeaks material due to insufficient economic incentive. He called them "fresh-faced coquettes with too many suitors [who] long ago stopped cooking their own food and now expect everything to be lovingly presented on a silver platter." He also took a swipe at independent media sites whose "primary motivation is to demonstrate in-group loyalties on the issue du jour". 
+
+> "What does it mean when only those facts about the world with economic powers behind them can be heard, when the truth lays naked before the world and no one will be the first to speak without payment or subsidy?" 
+
+The article included a link to an link:https://wikileaks.org/wiki/Wikileaks:Analysis_requested[Analysis Requested] page on wikileaks.org with dozens of leaked documents still awaiting review and analysis. It's no longer possible to post comments on those articles, the latest of which are dated June 2009, because soon afterwards, the WikiLeaks site underwent a major transformation. Public forums had already been closed down but by May 2010 even the comment sections were completely gone. The site now stated simply: 
+
+> “WikiLeaks is not like Wikipedia.” 
+
+This gradual shift away from the "wiki" model angered some users who had dedicated time and effort to the cause. Critics claimed that Assange had sold out and WikiLeaks could no longer be trusted. One person angrily link:https://www.motherjones.com/politics/2010/05/wikileaks-assange-returns/[complained]: “There is no wiki in WikiLeaks.org.” 
+
+It wasn’t the last time Julian Assange would be frustrated in his efforts to harvest free public input. But the new format also had clear benefits. In 2008, the website was still asserting that “Wikileaks does not pass judgement on the authenticity of documents.” By 2010 it was proudly boasting that “we have yet to make a mistake.” Assange and his editorial team were now taking full ownership of their material. 
+
+Over the years, public confusion between WikiLeaks and Wikipedia has persisted, while Wikipedia pages about Assange and WikiLeaks have remained full of errors. It seems to be another case of "economic incentive": WikiLeaks has not had the resources to constantly monitor their Wikipedia pages, while many of their enemies have no lack of funding and are highly skilled at manipulating public opinion. 
+
+[NOTE]
+====
+Authors Note: Personal experience showed certain Wikipedia editors repeatedly posting anti-WikiLeaks content while censoring favourable text. Attempts to correct the record were repeatedly blocked until my editing rights were suspended. It's one of the reasons I decided to write this book.
+====
+
+*
+
+== Release: The Looting of Kenya Under President Moi 
+
+https://www.wikileaks.org/wiki/The_looting_of_Kenya_under_President_Moi 
+
+A 2006 email from Julian Assange stated: 
+
+> "I've registered us to present WL at the World Social Forum in Nairobi Jan 20-25th 2007." 
+
+He must have made some good contacts in the Kenyan capital, because for the next three years WikiLeaks would post numerous explosive leaks about the country. This was the first.
+
+On August 30 2007, WikiLeaks published a 2004 UK auditor's report detailing how an estimated USD$3 billion in Kenyan state finances were laundered across the world by ex-President Daniel Arap Moi and his close associates. The Kroll Report was commissioned by Moi's successor, President Kibaki, after his 2002 election victory on an anti-corruption platform. But the 106 page report, which forensically investigated corrupt transactions and holdings by powerful members of the Kenyan elite, was suppressed for over three years until it was published by WikiLeaks. Moi was still a key player in political life and a strong supporter of his successor, President Kibaki, who had become embroiled in his own corruption scandal. 
+
+> The leak which emanated from within high levels of the Kenyan Government is motivated by the desire to demonstrate that President Kibaki has clear-cut evidence of his predecessor's corruption and complicity in corruption, and has chosen to suppress the evidence and worse still has gone into a political and economic alliance with the Moi group. 
+
+A Kenyan Government spokesman link:https://www.nation.co.ke/news/politics/1064-1070892-fuabcw/index.html[responded] by saying the “report was based on a lot of hearsay.” Kroll refused to confirm or deny the authenticity of their report. But all politicians named in the leaked document were subsequently defeated at the polls. 
+
+The UK Guardian newspaper's 2007 link:https://www.theguardian.com/world/2007/aug/31/kenya.topstories3[report of this leak] only mentioned their source, WikiLeaks, once, in the 12th paragraph. But in December 2010 the Guardian hosted a live link:https://www.theguardian.com/world/blog/2010/dec/03/julian-assange-wikileaks[Q and A] with readers where Julian Assange stated:
+
+> I always believed that WikiLeaks as a concept would perform a global role and to some degree it was clear that is was doing that as far back as 2007 when it changed the result of the Kenyan general election. 
+
+In the following months, WikiLeaks published more leaks relating to link:https://www.wikileaks.org/wiki/Category:Kenya[Kenya], including two cases before the High Court: 
+
+- On September 25 2007, WikiLeaks link:https://theworldtomorrow.wikileaks.org/wiki/Egerton_University_payroll_scandal[exposed] the cover up of payroll fraud at Kenya's Egerton University, where 1 in 4 university employees didn't exist. 
+
+- On 28 September 2007, WikiLeaks link:https://theworldtomorrow.wikileaks.org/wiki/A_US$1.5_billion_Charter_House_of_horrors[exposed] a USD$1.5 billion money laundering fraud by Kenya's Charter House Bank. 
+
+WikiLeaks also link:http://www.wikileaks.org/wiki/World_Bank_report_on_the_Government_of_Kenya[published] a confidential World Bank investigation of its road projects in Kenya and secret political party link:http://www.wikileaks.org/wiki/Kibaki_Kenyan_Presidential_Campaign_Communications_Directorate_organization_chart[documents] from the 2007 Presidential election. And there were more leaks about Kenya to come in 2008. 
+
+* 
+
+WikiLeaks released four more bombshells in the latter part of 2007. They caught the attention of global media and intelligence agencies but arguably had an even bigger impact with the online community. It's important to put them in historical context. 
+
+2007 marked the beginning of the end for world leaders who had helped US President George W. Bush start the wars in Afghanistan and Iraq. There was growing public resentment about the waste of money and the mis-use of intelligence that had been used to justify these invasions, which had quickly turned into Vietnam-style quagmires. Secret CIA torture sites and the USA's Guantanamo Bay prison gulag were also provoking global outrage, with alleged terrorists being tortured and detained indefinitely without trial.
+
+In February 2007, a junior Senator from Illinois named Barak Obama announced his intention to run for the White House. In June 2007, the deeply unpopular Tony Blair resigned as Britain's Prime Minister, with his Labour Party deputy Gordon Brown taking over. In Australia, the eleven year reign of conservative Prime Minister John Howard came to a merciful end, with Labor's Kevin Rudd sweeping to a landslide victory in December 2007.
+
+In May 2007, after a phone call from John Howard to US Vice President Dick Cheney, Australian prisoner David Hicks was released from Guantanamo Bay, where he had spent five long years. Hicks, who was link:https://www.greenleft.org.au/content/david-hicks-charged-%C3%A2%C2%80%C2%98favour%C3%A2%C2%80%C2%99-australia-says-former-guantanamo-prosecutor[falsely smeared] as one of the "worst of the worst" terrorists, later became a strong supporter of Julian Assange, speaking at several protest rallies. 
+
+In July 2007, two Reuters war correspondents in Iraq, Saeed Chmagh and Namir Noor-Eldeen, were among a dozen or more civilians killed in a US Apache helicopter airstike in Baghdad. Reuters submitted a Freedom of Information link:https://www.democracynow.org/2010/4/6/massacre_caught_on_tape_us_military[request] for the US military video of the attack but it seems they never got an official response. A US military investigation absolved all troops involved of any wrong-doing. 
+
+* 
+
+== Release: US Military Equipment & Army Units in Afghanistan 
+
+https://wikileaks.org/wiki/US_Military_Equipment_in_Afghanistan 
+
+On 9 September 2007 WikiLeaks published the complete equipment register for all units managed by the US Army in Afghanistan. Two months later, WikiLeaks published a similar list of equipment for the US Army in Iraq (see below). These were the first of many leaks relating to the wars in Afghanistan and Iraq, which would culminate with the 2010 release of the Afghan War Logs and Iraq War Logs. 
+
+> Funding for the wars in Iraq and Afghanistan is currently a critical issue in the US. A majority of Democratic party candidates was elected to both houses of the US Congress in 2006 on an anti-war platform. Under the US Constitution, Congress has the 'power of the purse' to cut off funding for war, but Democrats have not yet sought to use this power. In late April, Congress passed a bill, HR 1591, which did not cut off funding, but instead authorized war funding through 2008 and into 2009. However, the bill was vetoed by President Bush on 1 May because it contained a non-binding timetable for withdrawal of US forces. With pressure building in Washington, further cracks are appearing within the US government itself. Some within the government appear to believe enough is enough. They have leaked several confidential military documents to Wikileaks. 
+
+> War always involves a tragic human cost, in lives, emotions, and failure of the human spirit. The leaked documents help us to understand how war money is being spent and the nature of operations in Afghanistan. They provide a completely objective window into the functioning of various US units from PsyOps (psychological operations) to Kabul headquarters. Wikileaks is now releasing the first of these documents, which details each unit's computer-registered theatre-supplied arms and support equipment, from missile launchers to paper shredders.
+
+> The list does not include weapons and equipment "organic" to a military unit (brought with them from the United States at the time of their deployment, for units not created in Afghanistan), or expendables, such as ammunition or fuel. That said it is a significant document. 
+
+> The document includes no prices but by writing a program to cross-reference each item in the leaked document with NATO Stock Number records from public US logistics equipment price catalogs, we have discovered that there is at least $1,112,765,572 worth of US Army managed military equipment in Afghanistan (the actual value is likely to be two or three times higher).
+
+WikiLeaks noted how the list reflected a "decisive shift in military purchasing priorities" with "half of all equipment purchases diverted to dealing with homemade mobile phone and radio bombs." The list also included potentially illegal chemical weapons: gas grenade launchers and riot guns "which can fire pepper-spray impregnated projectiles". 
+
+A New York Sun link:https://www.nysun.com/foreign/wikileaks-releases-secret-report-on-military/62236/[article] quoted a US Department of Defence official saying "We were unaware of the Web site posting." 
+
+> "Wikileaks has not yet publicly ‘launched,'" the site's staff wrote in a press release sent by e-mail. "However, we feel we would be remiss in our obligations to our source to sit on this material any longer."
+
+Supporters were encouraged to examine the leaked documents, with a list of Further Research Tasks and Questions at the bottom of the wikileaks.org page. WikiLeaks also provided Tools For Analysis and explained in detail how they had created databases to analyze the data: "a full dump of the SQL database is available for your enjoyment".
+
+* 
+
+On 4 October 2007 WikiLeaks published a German government report (link:https://wikileaks.org/wiki/Stasi-in-bstu.pdf[PDF]) on the employment of former members of the Ministry of State Security (East Germany's MFS, commonly known as “Stasi“) by the Federal Commissioner for Stasi Files. The accompanying analysis by "Julian Assange, Christopher Findlay & staff" was titled link:https://wikileaks.org/wiki/Stasi_still_in_charge_of_Stasi_files[Stasi still in charge of Stasi files]: 
+
+> From November 2006 allegations started to circulate, most notably in the German news paper Die Welt that the BStU, tasked to guard the Stasi files, had been infiltrated by a number of former Stasi officers and informers. In response the German government commissioned an investigation.
+
+> By June 2007, the investigative team, led by Prof. Hans Hugo Klien, a former judge of the German Federal Constitution Court and CDU politician, had completed its confidential report into the infiltration.
+
+> The report has been obtained by Wikileaks and is the subject of this analysis. 
+
+The analysis showed that the Stasi files commission (BStU) had secretively employed at least 79 former Stasi members, and German government investigations (including investigations of Stasi support for terrorist groups) had been corrupted as a result. The BStU had actively hindered the report investigators and refused them access to files. The agency's internal security services were dominated by former Stasi staff, who remained hostile to former East German civil-rights activists.
+
+Following public outcry over the leaked report, the German Parliament link:https://en.wikipedia.org/wiki/Stasi_Records_Agency#cite_ref-21[investigated] the BStU and eventually merged it with the national archives. Former Stasi officers were forbidden from entering the Stasi Archives by themselves.
+
+* 
+
+On 7 October 2007 Julian Assange published an article titled link:https://wikileaks.org/wiki/On_the_take_and_loving_it[On the take and loving it: Academic recipients of the U.S. intelligence budget.]. 
+
+> This article reveals over 3,000 National Security Agency and over 100 Defense Intelligence Agency funded papers and draws attention to recent unreported revelations of CIA funding for torture research. 
+
+In the 1960s some academics had expressed "deep dismay" after discovering that their work was secretly funded by covert CIA grants. But Assange's article showed modern academic recipients of the intelligence budget were "on the take and loving it". Referring back to his own 2006 research, Assange claimed the NSA had now found their "holy grail" for intelligence gathering, thanks largely to morally bankrupt academics. US intelligence agencies now barely bothered trying to hide their involvement 
+
+> Educated, intelligent people have many opportunities in life. Those who out-source their minds to secretive and abusive organizations demonstrate to us either a lack of intellectual ability or an impoverished moral standard. They do not earn my respect as scholars or as human beings. 
+
+*
+
+== Release:  Camp Delta Standard Operating Procedure (SOP) 
+
+https://theworldtomorrow.wikileaks.org/wiki/Camp_Delta_Standard_Operating_Procedure
+
+On November 7 2007 WikiLeaks published the Joint Task Force Guantanamo (JTF-GTMO) standard operating procedures (SOP) for Camp Delta  at Guantanamo Bay prison. 
+
+The 238-page document was dated 28 March 2003 and signed by Major General Geoffrey D. Miller, who reportedly introduced harsh interrogation methods to Guantánamo, including shackling detainees into stress positions and intimidating them with guard dogs. Secretary of State Donald Rumsfeld later transferred Miller to the notorious Abu Ghraib prison in Iraq with instructions to "Gitmoize it". The infamous Abu Ghraib torture photos were taken soon after Miller's first visit. 
+
+> This is the primary document for the operation of Guantanamo bay, including the securing and treatment of detainees... The document exposes, among other matters, systematic methods to prevent prisoners meeting with the Red Cross and the use of extreme psychological stress as torture.
+
+Camp Delta, which replaced the previous Camp X-Ray in 2002, was the prison's primary facility, housing 612 units in six detention camps plus Camp Echo, which was used for "pre-commissions". The SOP document included checklists of "comfort items" that could be used to reward detainees (e.g. extra toilet paper) plus detailed instructions on how to psychologically manipulate them. There were also extensive rules for processing new detainees and dealing with hunger strikes. 
+
+WikiLeaks also published a 209-page document titled link:https://theworldtomorrow.wikileaks.org/wiki/Detainee_Operations_in_a_Joint_Environment[Detainee Operations in a Joint Environment] which described detainee operations, including the handling of detainees on rendition flights. 
+
+The American Civil Liberties Union (ACLU) had been unsuccessfully trying to obtain these operating procedures, which were unclassified but designated "For Official Use Only", from the US Department of Defense. Jamil Dakwar, an ACLU advocacy director, link:https://web.archive.org/web/20080918051302/http://www.wired.com/politics/onlinerights/news/2007/11/gitmo[said] he was struck by "the level of detail for handling all kind of situations." He was also concerned that detainees were classified according to how much access the Red Cross would be allowed to them, including a "No Access" level. The US military had previously promised the Red Cross would be allowed full access to all detainees. 
+
+A Reuters report said that new detainees were "held in near-isolation for the first two weeks to foster dependence on interrogators and `enhance and exploit the disorientation and disorganization felt by a newly arrived detainee in the interrogation process.'" But WikiLeaks' link:https://theworldtomorrow.wikileaks.org/wiki/Guantanamo_document_confirms_psychological_torture[analysis] noted that Reuters got it wrong: "the 'near-isolation' was to last at least four weeks, not two, and it could be continued indefinitely."
+
+> The Guantanmo SOP now provides official documentation that, at the time of the Rumsfeld memo and despite its warnings regarding the techniques' potential illegality and physical and psychological dangers, isolation was routinely used by the Defense Department at Guantanamo on all new detainees. The Rumsfeld memo complements the SOP in that it documents the central role of "medical and psychological review," and, thus, medical and psychological personnel in the administration of this technique. 
+
+A week after the release of the document by Wikileaks, the Pentagon sent Wikileaks a very polite request: "Good afternoon... Is it possible to have the document removed from your site? Thank you." Of course WikiLeaks did not comply. 
+
+PIC gitmo SOP letter
+
+A Guantanamo Bay spokesman link:https://www.reuters.com/article/us-guantanamo-manual/guantanamo-operating-manual-posted-on-internet-idUSN1424207020071114?pageNumber=1[told media] that operating procedures had "evolved significantly" since the 2003 document was written. But a month later WikiLeaks released an updated link:https://wikileaks.org/wiki/Camp_Delta_Standard_Operating_Procedure_%282004%29[2004 version] of the same Camp Delta operating procedures document. Wikileaks journalists and leading Habeas Corpus lawyers from the Center for Constitutional Rights compared the two documents and link:https://wikileaks.org/wiki/Changes_in_Guantanamo_Bay_SOP_manual_(2003-2004)[published] their findings. They said non-compliance with the Geneva Conventions remained official US Policy, there was an extraordinary increase in petty restrictions, and increased hostility towards chaplains and the Red Cross. The "medium security” Camp 4 was exposed as a "media sideshow", rules seemed to have changed for no good reason, and Orwellian terms were being used to cover up harsh realities (e.g. 'hunger strike' becomes VTF - 'voluntary total fasting'). The use of guard dogs and self-harm attempts by prisoners remained at alarming levels.
+
+The Center for the Study of Human Rights in the Americas extracted detailed evidence of prisoner abuse found in the SOP releases. Their findings for the link:https://theworldtomorrow.wikileaks.org/wiki/Testimony_of_Guantanamo_SOP_manual_(2003)[2003] and link:https://theworldtomorrow.wikileaks.org/wiki/Testimony_of_Guantanamo_SOP_manual_(2004)[2004] documents are still posted on WikiLeaks. 
+
+In the weeks after these releases, WikiLeaks tracked down and exposed military personnel at Guantanamo Bay link:https://theworldtomorrow.wikileaks.org/wiki/Wikileaks_busts_Gitmo_propaganda_team[tampering with Wikipedia pages] about the release. The Gitmo staff deleted information such as prisoner numbers - e.g. Prisoner No. 766, Canadian-born Omar Khadr - and edited other Wikipedia pages such as Cuban leader Fidel Castro's, who they labeled an "admitted transsexual". The New York Times link:https://thelede.blogs.nytimes.com/2007/12/14/of-orwell-wikipedia-and-guantanamo-bay/?mtrref=duckduckgo.com&gwh=49F9EB2473CD0EF0E3CDBF63698A7243&gwt=pay&assetType=REGIWALL[compared] this activity to the job of rewriting history which was assigned to Winston Smith, the hero of George Orwell's 1984. A Guantanamo Bay officer denied any of his sailors would do such a thing because "that would be unethical". But he admitted that he could not be sure, because anyone can edit Wikipedia pages anonymously. 
+
+> He also blasted Wikipedia [Ed: not WikiLeaks] for identifying one sailor in his office by name, who has since received death threats for simply doing his job – posting positive comments on the Internet about Gitmo.
+
+These were the first of several WikiLeaks releases about Guantanamo Bay prison: in 2011 they also released Detainee Assessment Briefs (case files) of prisoners; in 2012 they released the rules and procedures covering detainees. 
+
+In December 2007 WikiLeaks also released the 2004 version of the link:https://theworldtomorrow.wikileaks.org/wiki/Camp_Bucca_Standard_Operating_Procedure_(2004)[Camp Bucca Standard Operating Procedures]. Camp Bucca was the biggest prison in Iraq, holding 20,000 prisoners at the time (later expanded to 30,000) including detainees moved from the torture-plagued Abu Ghraib prison. WikiLeaks analysis suggested "the Camp Bucca SOP seems to be an improvement over the March 1 manual for Camp Delta (Guantanamo)":
+
+> However some troubling features remain, including detention of juveniles, use of tasers, extensive use of dogs and conspicuously little detail on interrogations and military intelligence operations within the camp. 
+
+*
+
+== Release: US Military Equipment & Units in Iraq 
+
+https://wikileaks.org//wiki/US_Military_Equipment_in_Iraq_(2007) 
+
+On 8 November 2007 WikiLeaks followed up their Afghan War equipment leak (above) with a similar list of US Army equipment in Iraq. The leak revealed the structure of US forces in Iraq, including previously secret units, and at least 2,386 "non-lethal" chemical weapons. 
+
+> This spectacular 2,000 page US military leak consists of the names, group structure and theatre equipment registers of all units in Iraq with US army equipment. It exposes secretive document exploitation centers, detainee operations, elements of the State Department, Air Force, Navy and Marines units, the Iraqi police and coalition forces from Poland, Denmark, Ukraine, Latvia, Slovakia, Romania, Armenia, Kazakhstan and El Salvador. The material represents nearly the entire order of battle for US forces in Iraq and is the first public revelation of many of the military units described. Among other matters it shows that the United States may have violated the United Nations Chemical Weapons Convention.
+
+WikiLeaks analysis revealed at least $6,601,015,731 worth of US Army managed military equipment in Iraq, with half of all equipment purchases again diverted to dealing with home made mobile phone and radio bombs. Other expenditure included portable mobile chemical and biological laboratories, cryptographic and communications security equipment, 114 drone aircraft, 400 military robots and 446,476 items of body armor. There were also 39 automatic cash counting machines and 1,056 US military safes, because post-invasion Iraq had no functional banking network. This had opened the door to widespread corruption: 
+
+> From the invasion of Iraq in April 2003 until June 2004, the US Army shipped nearly US$12,000,000,000 in cash, weighing 363 tonnes, to Baghdad for disbursement to Iraqi ministries and US contractors. Of this over $9,000,000,000 went missing. The funds were drawn from the Iraq Development Fund, which had been formed from US seized Iraqi assets. 
+
+Julian Assange also published a separate article titled link:https://theworldtomorrow.wikileaks.org/wiki/US_violates_chemical_weapons_convention[US violates chemical weapons convention] which concluded that "extensive provisioning of CS gas by the United State to troops in Iraq appears appears to undermine the Chemical Weapons Convention". Assange detailed the chemical weapons in use and the units where they were deployed, with lengthy tables linking to the inventory database. He even wrote a long section titled "story development notes for journalists". To help readers analyze the data, WikiLeaks also published the link:https://wikileaks.org//wiki/Dictionary_of_Military_and_Associated_Terms[US Department of Defense's Dictionary of Military and Associated Terms].
+
+But as Assange later told link:https://www.newyorker.com/magazine/2010/06/07/no-secrets[Raffi Khatchadourian], the lack of media interest in this huge leak left him fuming: 
+
+> Assange hoped that journalists would pore through it, but barely any did. “I am so angry,” he said. “This was such a fucking fantastic leak: the Army’s force structure of Afghanistan and Iraq, down to the last chair, and nothing.”
+
+Two months later, however, the New York Times published a widely discussed story by James Risen titled link:http://www.nytimes.com/2008/01/10/world/middleeast/10blackwater.html?ref=world[2005 Use of Gas by Blackwater leaves questions]. It covered the possibly accidental use of a single canister of tear gas by the private military firm Blackwater. Guernica magazine link:https://www.guernicamag.com/leak_blackwater_tear_gas_and_o/[noted] the odd lack of interest in WikiLeaks' far more recent and important revelations. 
+
+> The Wikileaks report came out in a busy news week and was not picked up by the angle press, the issue probably being considered too technical. However we believe the material is very strong. 
+
+NOTE: The "link:https://wikileaks.org/wiki/Talk:US_Military_Equipment_in_Iraq_(2007)[talk page]" for this leak is still available on the old WikiLeaks wiki pages. It's a curious mixture of useful feedback and angry abuse from people claiming to be US soldiers.
+
+*
+
+=== Release: Bermuda Housing Corporation Scandal 
+
+In 2002 the Bermuda police investigated allegations of corruption at the Bermuda Housing Corporation (BHC) following the loss of $8 million. In 2006, comments from the Attorney General suggested a total of $792 million had gone missing from various projects due to government "leakage". In May 2007, media reports describe a huge police investigation with a dossier comprising thousands of pages. A senior officer described it as “an investigation of what undoubtedly remains the largest and most serious crimes of conspiracy, drug trafficking, and money laundering ever conducted in the Bermuda Police Service." 
+
+The head of police initially said the huge police dossier was "missing" but it was later described as "stolen". The British island nation's leader was apparently implicated but never questioned by police. In early June 2007 two of Bermuda's local news agencies reported that a source had sent them a letter containing important facts about the police dossier. Bermuda's Attorney General immediately slapped a gag order on further reporting. A local political commentator posted the letter (not the full police dossier) online but link:http://www.politics.bm/archives/2007/06/13_001364.html[removed] it after being placed under injuction. 
+
+On 3 October 2007 WikiLeaks published the letter provided to the media (link:https://theworldtomorrow.wikileaks.org/wiki/Son-of-the-soil.pdf[PDF]) along with an additional note from the source, who called himself "Son of the soil": 
+
+> The Police dossier did not exonerate the Premier, as you will see on review of the attached document. The Premier's hostile outburst towards the Governor was nothing but a smoke screen, design to divert the public attention of his wrongdoing in the BHC scandal... However, thanks to the advent of the "internet"; the story of his wrongdoing will be told and the people will then decide knowing the real truth, as oppose to the Premier's truth.
+
+Local press appealed the gag order all the way to London's Privy Council, which is Bermuda's highest court of appeal. On 29 October 2007 the Privy Council link:https://uk.reuters.com/article/uk-bermuda-press-idUKNAT41107820071030[ruled] in favour of the media. But Bermuda had already called in Scotland Yard to hunt for the whistle-blower and three people had been arrested. Businessman Harold Darrell link:https://wikileaks.org/wiki/Media/I_am_%27Son_of_the_Soil%27:_Harold_Darell[admitted] being the source and accused the Premier of a cover-up. The case link:https://wikileaks.org/wiki/Category:Bermuda[appears] to have gone no further. 
+
+WikiLeaks link:https://theworldtomorrow.wikileaks.org/wiki/Bermuda_Housing_Corporation_Scandal[noted] that Bermuda is a tax haven for billionaires and one of the few western hemisphere countries without Freedom of Information legislation. 
+
+* 
+
+=== Release: Classified U.S report into the Fallujah assault 
+
+https://wikileaks.org/wiki/Complex_Environments:_Battle_of_Fallujah_I,_April_2004
+
+The 2004 attack on the Iraqi town of Fallujah was a decisive moment in the Iraq War, revealing how media coverage played a decisive role in the conflict. Fallujah was first bombed by US forces in April 2003, and there were repeated incidents of US troops opening fire on protestors in the following weeks. A year later US Marines were still fighting running battles with insurgents in the streets and "shooting their way out of trouble". On 31 March 2004, four Blackwater private military contractors were killed and their burned bodies were filmed hanging from a bridge. Global media coverage prompted calls from Washington for a rapid response. 
+
+Local US Marines planned raids to target those responsible but Joint Task Force commanders ordered a full-scale siege instead. Despite overwhelming military superiority, US forces were forced into an embarrassing cease-fire after just five days of combat operations, followed by a full withdrawal on 1 May 2004. A detailed US Army report into the fiasco was ordered. It was classified "SECRET/NOFORN" so US allies in Iraq could not read it.  
+
+On 25 December 2007 Wikileaks published the full 16-page report (link:https://file.wikileaks.org/file/fallujah.pdf[PDF]) plus link:https://theworldtomorrow.wikileaks.org/wiki/Al_Jazeera_and_Abu_Ghraib_scuttled_US_war_in_Fallujah[analysis] from Julian Assange.  
+
+> Former U.S. Secretary of Defense Donald Rumsfeld launched the failed April 2004 assault on the Iraqi town of Fallujah before marines were ready because it had become "a symbol of resistance that dominated international headlines" and similar considerations eventually destroyed the operation — both according to a highly classified U.S. intelligence report into the defeat. 
+
+> Coalition air strikes were conducted during the three week cease-fire, which was a "bit of a misnomer" and the Abu Ghraib prisoner abuse scandal contributed to the politically driven final peace settlement. The settlement left Coalition Provisional Authority chief Paul Bremer "furious".
+
+> By the end of April, 600-700 Iraqis and 18 marines had been killed inside the town with 62 marines killed in the broader operational area and 565 wounded in action.
+
+> Fallujah's defenders were diverse but united to oppose the U.S. offensive. They included former regime soldiers, "nationalists, local Islamic extremists, foreign fighters and criminals" together comprising not so much a military organization, but "an evil Rotary club". 
+
+Stephen Soldz published an even link:https://www.counterpunch.org/2007/12/27/fallujah-the-information-war-and-u-s-propaganda/[more detailed analysis] at Counterpunch two days later. United Press International's Shaun Waterman link:https://wikileaks.org/wiki/U.S_lost_Fallujah%27s_info_war[reported] on the leak after the Christmas-New Year break: 
+
+> A secret intelligence assessment of the first battle of Fallujah shows the U.S. military believes it lost control over information about what was happening in the town, leading to political pressure that ended its April 2004 offensive with control being handed to Sunni insurgents. 
+
+> "The outcome of a purely military contest in Fallujah was always a foregone conclusion -- coalition victory," reads the assessment, prepared by analysts at the U.S. Army's National Ground Intelligence Center.
+
+> "But Fallujah was not simply a military action, it was a political and informational battle. … The effects of media coverage, enemy information operations, and the fragility of the political environment conspired to force a halt to U.S. military operations," concludes the assessment. 
+
+In November 2004 US forces re-siezed town of Fallujah in an attack that has been described as a massacre, with reports of numerous war crimes including use of chemical weapons, cluster bombs and attacks on the local hospital. Children born in Fallujah since the attacks have suffered abnormally high rates of deformities. 
+
+The WikiLeaks 2007 release helped re-focus attention on the situation in Fallujah. Two months after the report was leaked, independent journalist Michael Totten reported that a jail built to hold 120 prisoners was housing 900 without even minimal provision for sanitation or hygiene. Major General John Kelly, the new commander of US forces in western Iraq, visited the city to investigate. A month later, WikiLeaks released his link:https://wikileaks.org/wiki/Classified_memo_from_US_Maj._Gen._Kelly_confirms_Fallujah_Gulag[classified memo]: it revealed horrific conditions: "unbelievable over crowding, total lack of anything approaching even minimal levels of hygiene for human beings, no food, little water, no ventilation." 
+
+PIC Fallujah jails
+
+UPI's Shaun Waterman link:https://wikileaks.org/wiki/Fallujah_jail_challenges_US[reported] that US forces did not deny the veracity of the memo and were now taking steps to improve conditions. 
+
+* 
+
+It is not within the scope of this book to list or describe all the millions of documents and files hosted by WikiLeaks. Major leaks are described here at length but there are also many smaller leaks which had less impact, along with important but non-secret documents which were discovered and posted online, plus analysis and other articles from Julian Assange and other WikiLeaks staff or volunteers, etc. For example, the following items were all posted on wikileaks.org in 2007: 
+
+- link:https://theworldtomorrow.wikileaks.org/wiki/International_Police_Policy_and_Procedure_Manual_-_Iraq[International Police Policy and Procedure Manual for DynCorp staff in Iraq].
+
+- Abu Ghraib SECRET link:https://theworldtomorrow.wikileaks.org/wiki/Abu_Ghraib_SECRET_camp_Ganci_oblique_(2003)[camp Ganci oblique] and link:https://theworldtomorrow.wikileaks.org/wiki/Abu_Ghraib_map_(2003)[camp map]. 
+
+- link:https://theworldtomorrow.wikileaks.org/wiki/A_Cat_May_Look_Upon_a_King,_but_Not_at_Gitmo[A Cat May Look Upon a King, but Not at Gitmo] - analysis by Julian Assange and Dan Matthews. 
+
+- An investigation of link:https://wikileaks.org/wiki/Internet_Censorship_in_Thailand[Internet Censorship in Thailand] where WikiLeaks has been link:https://ooni.torproject.org/post/thailand-internet-censorship/[repeatedly] censored.
+
+* 
+
+Copyright 2019 Gary Lord
+
+*
+
+
