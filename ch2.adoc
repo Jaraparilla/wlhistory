@@ -4,9 +4,7 @@ By Gary Lord
 
 Copyright Gary Lord 2019
 
-
 == Chapter Two
-
 
 WikiLeaks published its first leaked document link:http://wikileaks.org/wiki/Inside_Somalia_and_the_Union_of_Islamic_Courts[Inside Somalia and the Union of Islamic Courts] on 26 December 2006. The leak was described as "a secret Islamic order, purportedly written by the most important man in the Union, Sheik Aweys, [which] proclaims an Islamic Republic of Somalia." The final line of the leaked document stated: 
 
@@ -407,10 +405,21 @@ It is not within the scope of this book to list or describe all the millions of 
 
 - An investigation of link:https://wikileaks.org/wiki/Internet_Censorship_in_Thailand[Internet Censorship in Thailand] where WikiLeaks has been link:https://ooni.torproject.org/post/thailand-internet-censorship/[repeatedly] censored.
 
-* 
-
-Copyright 2019 Gary Lord
-
 *
 
+The author of this book has been an active supporter of WikiLeaks since at least 2010. He can be found at: 
+
+Twitter: https://twitter.com/jaraparilla
+
+Blog: https://jaraparilla.blogspot.com
+
+Patreon: https://patreon.com/jaraparilla
+
+Paypal: https://paypal.me/jaraparilla
+ 
+You can support the writing of this book here: https://www.gofundme.com/f/wikileaks-true-history-book
+
+Thank you.
+
+* 
 
