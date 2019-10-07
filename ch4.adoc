@@ -1,0 +1,567 @@
+= WikiLeaks: a True History
+
+by Gary Lord 
+
+Copyright Gary Lord 2019
+
+== Chapter Four
+
+On his second day in office, 22 January 2009, US President Barack Obama signed an Executive Order to close the Guantanamo Bay prison gulag within a year. 
+
+> I can say, without exception or without equivocation, that America will not torture.
+
+Ten years later, Guantanamo Bay remains open. The head of the CIA is nicknamed "Bloody Gina" for her role in torturing prisoners. And the only person Obama ever prosecuted for the CIA's torture program was the former agent who revealed it in December 2007, link:https://web.archive.org/web/20180316140152/https://www.washingtonpost.com/outlook/i-went-to-prison-for-disclosing-the-cias-torture-gina-haspel-helped-cover-it-up/2018/03/15/9507884e-27f8-11e8-874b-d517e912f125_story.html[John Kiriakou].
+
+On 27 February 2009, Obama told a cheering crowd of US Marines in North Carolina:
+
+> Let me say this as plainly as I can: by August 31, 2010, our combat mission in Iraq will end.
+
+But the official end of "combat operations" just signalled a new phase in the war. 50,000 troops remained to train Iraqis to do the same job they were doing: protecting the oil wells and the unpopular US-backed government. 
+
+Obama's vacuous promises won the approval of many who should have known better. On 9 October 2009 he was link:https://www.nobelprize.org/prizes/peace/2009/press-release/[awarded] the Nobel Peace Prize. Committee members later link:https://www.bbc.com/news/world-europe-34277960[admitted] it was their worst decision ever. Obama's embarrassed staff asked if he could skip the official ceremony in Oslo.  
+
+*
+
+=== Counterinsurgency
+
+On 28 January 2009 WikiLeaks link:https://theworldtomorrow.wikileaks.org/wiki/Counterinsurgency[released] "thousands of pages of active insurgency and counterinsurgency doctrine from the US, UK and Indian military". This was a compilation of dozens of documents, some previously released and some just released a day earlier, with a common theme of counterinsurgency. The documents detailed not only "how to overtly or covertly supress insurgencies or popular revolts" but also the reverse: "how to infiltrate a country, and stoke an insurgency to overthrow a foreign government". 
+
+Highlighting numerous quotes from the US Special Forces doctrines, the release pushed back against recent media coverage where US hawks had sought to define "an expanded role for the US forces, and of course themselves".
+
+> Journalists should remember that documents designed to be public, such as the so-called "Petraeus doctrine" published by Chicago University Press in 2007, and publicly promoted by the Pentagon, are sanitized and should be preferentially ignored lest journalists find themselves pushing propaganda onto an unsuspecting public.
+
+Three months later, WikiLeaks published the link:https://wikileaks.org/wiki/US_Army:_Tactics_in_Counterinsurgency,_FMI_3-24.2,_Mar_2009[March 2009 US Army counterinsurgency manual], which was "removed from the US Army's website for unknown reasons within a few weeks of its release". In 2014 WikiLeaks also published a link:https://wikileaks.org/cia-hvt-counterinsurgency/WikiLeaks_Secret_CIA_review_of_HVT_Operations.pdf[CIA Best Practices in Counterinsurgency] document, dated July 2009. 
+
+> The  document, which is "pro-assassination", was completed in July 2009 and coincides with the first year of the Obama administration and  Leon Panetta's directorship of the CIA during which the United States very significantly increased its CIA assassination program at the expense of capture operations.
+
+PIC: CIA Counterinsurgency 2009
+
+*
+
+On the same day, 28 January 2009, WikiLeaks released link:https://wikileaks.org/wiki/86_interceptaciones_telefonicas_a_politicos_y_autoridades_peruanos,_m%C3%A1s_del_caso_Petrogate,_transcripci%C3%B3nes,_2008[86 intercepted telephone recordings] of Peruvian politicians and businessmen who were involved in Peru's long-running link:https://en.wikipedia.org/wiki/2008_Peru_oil_scandal[Petrogate] oil scandal. The recordings were released online after being handed to a judge in Lima. 
+
+While the government of Jorge de Castillo had already resigned over the scandal in October 2008, the new recordings link:https://wikileaks.org/wiki/Nuevos_audios_ilegales_quedan_en_poder_de_juez_Anticorrupci%C3%B3n[showed] the scandal was broader than suspected, with new names involved. Peruvian journalists later voted this leak one the year's link:https://utero.pe/2009/12/14/votacion-top-ten-momentos-20-del-2009/[highlights]. 
+
+* 
+
+=== Hello @wikileaks
+
+WikiLeaks joined Twitter in October 2008 but apparently didn't start tweeting till 2009. Twitter became a major communication platform for the organisation and another key to their enduring popular success. Ten years later, after more than fifty thousand tweets, link:https://twitter.com/wikileaks[@wikileaks] has over 5.5 million followers. 
+
+The link:https://twitter.com/wikileaks/status/1200091642[first tweet] from @wikileaks on February 11 2009 got straight down to business:
+
+PIC: 2009 first tweet
+
+> #wikileaks #maine http://tinyurl.com/bp29od FBI intel report shows 'Dirty bomb' parts found in slain man's home in Maine. GOV wont comment.
+2 replies 3 retweets 6 likes
+
+The tweet linked to a link:http://www.bangornews.com/detail/99263.html[news story] that had been link:https://wikileaks.org/wiki/Parts_for_%27dirty_bomb%27_found_in_slain_US_man%27s_home[copied] to the wikileaks.org website: "Parts for 'dirty bomb' found in slain US man's home". 
+
+The WikiLeaks page also linked to a source document which was available to download: link:https://wikileaks.org/wiki/Washington_DC_Regional_Threat_and_Analysis_Center_report_re_Inauguration,_16_Jan_2009[Washington DC Regional Threat and Analysis Center report re Inauguration, 16 Jan 2009]. 
+
+With many of the world's journalists and politicians online, and even with the original 140 character limitation, Twitter was obviously a great way for WikiLeaks to quickly communicate with the public. In April 2010 WikiLeaks also created a link:https://www.facebook.com/wikileaks[Facebook page], which ten years later has over 3.6 million likes. 
+
+* 
+
+=== Congressional Research Service Reports
+
+On 8 February 2009 WikiLeaks released link:https://wikileaks.org/wiki/Change_you_can_download:_a_billion_in_secret_Congressional_reports[Change you can download]: "nearly a billion dollars worth of quasi-secret reports commissioned by the United States Congress". 
+
+The taxpayer-funded reports were produced by the Congressional Research Service (CRS) but almost always remained secret unless a politician wanted to exploit them for political purposes. Despite calls from many quarters for over a decade to make their publication fully public, CRS reports were available only to members of Congress, Congressional committees and select sister agencies such as the GAO. WikiLeaks said a grey market had formed around the documents: 
+
+> Opportunists smuggle out nearly all reports and sell them to cashed up special interests--lobbyists, law firms, multi-nationals, and presumably, foreign governments.
+
+WikiLeaks said that most of the reports had not been seen before: 
+
+> We have sent the reports to link:http://opencrs.com[OpenCRS], a great service run by the Center for Democracy and Technology which collects released CRS reports.
+
+> Of the 6,731 reports we sent to OpenCRS, 6,284 were new to the OpenCRS collection. 
+
+The OpenCRS website no longer link:https://twitter.com/opencrs/status/520340857455910912?s=20[exists]. But nine years after the WikiLeaks release, with the link:https://web.archive.org/web/20151104200836/https://www.washingtonpost.com/news/federal-eye/wp/2015/10/29/a-confidential-arm-of-congress-gets-more-secretive/[help] of link:https://www.everycrsreport.com/about.html[many] other activists, most CRS reports were made publicly available. Congress still has access to all reports via www.crs.gov but as of 18 September 2018, non-confidential reports are publicly available at crsreports.congress.gov.
+
+Interestingly, a search for "wikileaks" now shows link:https://crsreports.congress.gov/search/#/?termsToSearch=wikileaks&orderBy=Relevance[six CRS documents] dating back to 2010, including a report titled link:https://crsreports.congress.gov/product/pdf/LSB/LSB10291[Frequently Asked Questions about the Julian Assange Charges] (updated 7 June 2019). It's a detailed but predictably biased report that omits many important facts, such as the United Nations binding rulings on Assange's asylum and the UK Crown Prosecutor's role in delaying Sweden's investigation. There's also a link:https://crsreports.congress.gov/product/pdf/R/R41528[2010 report] on the Obama administration's classified information policy, which was prompted by a review following WikiLeaks releases.
+
+*
+
+=== Afghan Civilian Casualties
+
+On 12 February 2009 WikiLeaks link:https://www.wikileaks.org/wiki/ISAF:_Afghanistan_civilian_deaths_rises_and_other_statistics,_14_Jan_2009[published] an unseen NATO report, dated 14 Jan 2009, showing that civilians casualties in Afghanistan had jumped 46% in the previous year. The report included 12 slides with detailed maps, graphs and statistics. 
+
+> The report shows a dramatic escalation of the war and civil disorder. Coalition deaths increased by 35%, assassinations and kidnappings by 50% and attacks on the Kabul based Government of Hamid Karzai also more than doubled, rising a massive 119%.
+
+> The report highlights huge increases on attacks aimed at Coalition forces, including a 27 % increase in IED attacks, a 40%. rise in rifle and rocket fire and an increase in surface to air fire of 67%.
+
+> According to the report, outside of the capital Kabul only one in two families had access to even the most basic health care, and only one in two children had access to a school. 
+
+WikiLeaks "legal spokesman Jay Lim" noted that a British Army Colonel had recently been arrested for passing civilian death toll figures to Human Rights Watch. He praised the Colonel's actions but said this new data was unrelated, and from another source who had been "encouraged to step forth". 
+
+Polls at the time link:https://wikileaks.org/wiki/Costs_of_war:_The_civilian_casualty_issue[showed] Afghan "support for US and international forces had plummeted - with civilian casualties a key cause". 
+
+> The number of Afghans who believe US forces have performed well in their country has more than halved since 2005, from 68 percent to 32 percent. Confidence in NATO forces is little better. Just 37 percent of Afghans now say most people in their area support NATO’s International Security Assistance Force (ISAF), down from 67 percent in 2006. And 25 percent now say attacks on western forces can be justified - nearly double the 13 percent who believed that in 2006. 
+
+A few weeks later, WikiLeaks released NATO's link:https://wikileaks.org/wiki/NATO_Media_Operations_Centre:_NATO_in_Afghanistan:_Master_Narrative%2C_6_Oct_2008[Master Narrative] of media talking points for the International Security Assistance Force (ISAF) mission in Afghanistan. Among them:
+
+> ISAF takes all possible measure [sic] to protect innocent civilians and their property.
+
+*
+
+=== RAND Report on Iraq and Afghanistan
+
+On 2 March 2009 WikiLeaks published a major link:https://en.wikipedia.org/wiki/RAND_Corporation[RAND] study with military, diplomatic and intelligence officials providing some 300 candid interviews: link:https://wikileaks.org/wiki/Major_RAND_study_with_300_interviews:_Intelligence_Operations_and_Metrics_in_Iraq_and_Afghanistan,_Nov_2008[Intelligence Operations and Metrics in Iraq and Afghanistan], dated November 2008. 
+ 
+> The 318 page document could be described as part of the "Pentagon Papers" for Iraq and Afghanistan. It was confidentially prepared for the Pentagon's Joint Forces Command and focuses on intelligence and counterinsurgency operations.
+
+Marked "For Official Use Only" the study was only distributed to a select group of Coalition war partners, plus Israel. It showed wisespread pessimism about combat operations in both countries, and a clear lack of confidence in the intelligence provided by the CIA, local militia or other sources. RAND said intelligence was not being properly shared, indicators of "success" were not meaningful, and once again civilian concerns were being ignored: 
+
+> Those interviewed in support of this research noted with no little frustration that coalition forces themselves too frequently neglect to treat local community members properly. 
+
+Official processes often bordered on the absurd. For example, US commanders ordered Dutch pilots to bomb targets in Afghanistan, but then refused to share damage assessments with them because the Dutch did not have adequate security clearances. 
+
+WikiLeaks provided selected quotes and asked readers "to go through the document to extract key quotes for their communities". New Zealand media link:http://www.stuff.co.nz/dominion-post/news/2007214/NZ-plugs-into-secret-Pentagon-intranet[discovered] that their country was now part of the US military's secret link:https://en.wikipedia.org/wiki/SIPRNet[SIPRNET] network.
+
+> New Zealand's high level of trust contrasts with the official political line that it is a friend but not an ally of the US as a result of its ban on nuclear weapons. 
+
+* 
+
+=== WikiLeaks Donors Leaked
+ 
+WikiLeaks was established organisationally as "a project of the Sunshine Press". On 14 February 2009, someone from "the Sunshine Press editorial team" accidentally revealed a list of 58 WikiLeaks donors. Wikileaks called it a link:https://wikileaks.org/wiki/Wikileaks_partial_donors_list,_14_Feb_2009[partial donors list]. 
+
+With the subject line "Wikileaks important news", the email updated supporters on recent news, thanked them for their support and included some confidential news on funding: 
+
+> Although the project is more successful than ever, it is, as a result more expensive than ever to run, and in fact, ran out of formal funding four months ago. Since that time our staff and lawyers have run the entire organization from their personal savings. 
+
+> We expect to receive substantial additional funding late this year, but in the mean time, your support, and that of your friends and collegues, will mean the difference between us staying on line and closing for a period until the end of the year!
+
+Unfortunately the email was sent out with all the donors' email addresses in the "TO" field, rather than blind carbon-copying their addresses in the "BCC" field, which meant that everyone on the list could see all the other email addresses.
+
+> A prankster, apparently connected to one of the donors, then submitted this list to Wikileaks, possibly to test the project's principles of complete impartiality when dealing with whistleblowers. 
+
+One of the email addresses - adrianl@realityplanning.com - belonged to a convicted former hacker named Adrian Lamo. He claimed to be a genuine early supporter of WikiLeaks but may have simply been keeping tabs on the group. Many in the hacking community suspected he had "flipped" after being arrested by the FBI in 2003. 
+
+PIC 2009 Lamo tweet
+
+*
+
+=== The Big Bad Database of Senator Norm Coleman 
+
+On 11 March 2009 WikiLeaks link:https://wikileaks.org/wiki/Senator_Norm_Coleman:_detailed_list_of_4%2C721_contributions%2C_28_Jan_2009[published] a list, dated 28 January 2009, of 4,721 financial contributions to the campaign of US Republican Senator Norm Coleman. At the time, Coleman was still contesting his loss to comedian Al Franken in a 2008 Minnesota election that was riddled with corruption allegations. Apparently an I.T. consultant found a 4.3 Gigabyte database that was link:https://www.computerworld.com/article/2531922/former-minnesota-sen--norm-coleman-s-donor-database-exposed-on-wikileaks.html[sitting unprotected] in a public directory on the Coleman campaign's website. The database also included details of 51,000 campaign supporters and web-site users, which WikiLeaks also link:https://wikileaks.org/wiki/Senator_Norm_Coleman:_detailed_list_of_51,641_supporters_and_web-site_users,_28_Jan_2009[published].
+
+While the donations list contained credit card numbers, security numbers and personal details, Wikileaks explained that they had only released "the last 4 digits and the security numbers... after notifying those concerned". WikiLeaks published the letter they had sent to donors, along with a letter from their source with links proving that the data was improperly exposed by Norm Coleman's own staff. The source also noted that credit card security numbers should never be stored, and the Coleman campaign had broken Minnesota law by failing to report the leak. 
+
+WikiLeaks link:https://wikileaks.org/wiki/The_Big_Bad_Database_of_Senator_Norm_Coleman[explained] that the material had been "floating around" the Internet for at least six weeks but the Coleman campaign had ignored people who tried to raise the issue. While Coleman supporters insisted the data had been hacked, WikiLeaks showed the leak was "clearly due to sloppy handling by the Coleman Campaign". 
+
+> Please try to avoid the quite natural desire to shoot the messenger.
+
+> Coleman supporters only know about the issue because of our work. Had it been up to Senator Coleman, they would never have known. 
+
+Norm Coleman's term as Senator expired on 3 January 2009 but it was not until until 13 April 2009 that Al Franken was declared the winner (by a mere 312 votes). Coleman then appealed to the Supreme Court and only conceded defeat after they ruled against him on 30 June 2009. In December 2010, Coleman published an link:https://www.americanactionforum.org/insight/norm-coleman-obama-must-move-against-wikileaks-now/[angry article] in the Washington Examiner encouraging President Obama to "throw the book at Assange." 
+
+> Let there be no mistake: The Wikileaks are an act of terrorism. 
+
+*
+
+=== Barclays Bank Gags The Gaurdian 
+
+On 16 March 2009, the Guardian newspaper published an link:https://www.theguardian.com/business/2009/mar/17/barclays-guardian-injunction-tax[article] with a series of leaked internal memos from "a former employee" of Barclays bank. The memos showed Barclays executives "seeking approval for a 2007 plan to sink more than $16bn (£11.4bn) into US loans".
+
+> Tax benefits were to be generated by an elaborate circuit of Cayman islands companies, US partnerships and Luxembourg subsidiaries.
+
+By the next morning, the documents were gone from the Guardian's web archive. 
+
+> The Guardian's solicitor, Geraldine Proudler, was woken by the judge at 2am and asked to argue the Guardian's case by telephone. Around 2.31am, Mr Justice Ouseley issued an order for the documents to be removed from the Guardian's website.
+
+That same day, 17 March 2009, WikiLeaks link:https://wikileaks.org/wiki/Barclays_Bank_gags_Guardian_over_leaked_memos_detailing_offshore_tax_scam,_16_Mar_2009[published the memos] on their website. 
+
+The Guardian's link:https://www.theguardian.com/commentisfree/2009/mar/17/barclays-tax-secret-documents[editorial] that morning lamented that due to a "mismatch of resources... tax-collectors in several countries have to rely on moles tipping off websites such as Wikileaks" in order to obtain such critical documents. 
+
+Another whistle-blower came forward three days later, link:https://www.theguardian.com/business/2009/mar/19/new-barclays-tax-whistleblower-claims[revealing] that Barclays avoided up to £1 billion in tax every year with such schemes.
+
+A week later, Lord Oakeshott used parliamentary privilege to link:https://www.theguardian.com/business/2009/mar/26/barclays-tax-avoidance-gag-order[announce] that the memos were available on WikiLeaks and other sites.
+
+> It's a sad day for democracy if a judge sitting in secret can stifle this essential public debate. 
+
+In February 2012, after the British government introduced retrospective legislation to end "aggressive tax avoidance" by financial institutions, Barclays was link:https://www.bbc.com/news/business-17181213[ordered] to pay just £500 million in back taxes. 
+
+*
+
+=== Landmark "Cult" Exposed
+
+On 15 April 2009 WikiLeaks published a link:https://www.wikileaks.org/wiki/US_Department_of_Labor_investigation_into_Landmark_Education,_2006[2006 investigative report] by the US Department of Labor into a San Francisco based "personal development" group called link:https://en.wikipedia.org/wiki/Landmark_Worldwide[Landmark Education]. WikiLeaks also published a note from their source: 
+
+> Landmark Education is an international cult, with 55 offices worldwide, that offers seminars and has widely been described by journalists and participants as a cult. Landmark is the direct decendant of EST, which was created in the 1970's using "technology" heavily borrowed from Scientology.    
+
+The source said Landmark had suppressed original copies of the report from the Internet and sued people who hosted it online. The source claimed the 6 page report showed Landmark's "exploitation of volunteers" violated US labor laws. 
+
+On 27 August 2009 WikiLeaks also link:https://wikileaks.org/wiki/Suppressed_CBS_News_60_Minutes_on_Landmark_cult_leader_Werner_Erhard,_3_Mar_1991[published] the video and transcript of a 1991 60 Minutes investigation of Landmark founder Werner Erhard. Once again, WikiLeaks said, the material was being publicly suppressed "due to legal threats against publishers from Werner Erhard".
+
+> The material contains interviews with friends, business associates and family of Werner Erhard making serious claims against him. Erhard is accused by family members of beating his wife and children, and raping a daughter, while still giving seminars on how to have relationships that work. 
+
+The BoingBoing website link:https://boingboing.net/2009/08/31/suppressed-60-minute.html[reported] on this leak and noted that several San Francisco businesses were aligned with Landmark: 
+
+> Some former employees at both companies have stated publicly that if you want to become a manager or keep your job, you'd pretty much better be prepared to join Landmark.
+
+A few weeks later BoingBoing received a letter from a Landmark attorney and changed the title of their post so that it no longer described the 60 Minutes video as "suppressed". 
+
+* 
+
+=== Bilderberg Group
+
+The secretive Bilderberg Group held their annual meeting at the Astir Palace in Athens on link:https://wikileaks.org/wiki/Bilderberg_Group_Meets_In_Athens_Amid_Tight_Security[15 May 2009]. A week earlier, WikiLeaks published link:https://wikileaks.org/wiki/Category:Bilderberg_Group[seven reports of their meetings], from 1955 to 1980, along with a link:https://wikileaks.org/wiki/Bilderberg_Group_History,_1956[short history] of the group written by a founding member and permanent secretary Joseph Retinger.
+
+The meeting reports were previously housed by Dynbase, "a subscription only biographical, genealogical, and organizational database, which became defunct in 2006".
+
+WikiLeaks also re-published a link:https://wikileaks.org/wiki/Guardian_journalist_arrested_for_trying_to_penetrate_secret_Bilderberg_meet[series of articles] by a Guardian journalist who was arrested for trying to penetrate the 2009 Bilderberg meetings.  
+
+* 
+
+On 3 June 2009 (as mentioned in Chapter Three) WikiLeaks editor Julian Assange won link:https://wikileaks.org/wiki/WikiLeaks_wins_Amnesty_International_2009_Media_Award[Amnesty International's New Media Award] for work exposing extrajudicial assassinations in Kenya.  
+
+* 
+
+=== Iranian Nuclear Accidents and Stuxnet
+
+On 16 July 2009 Julian Assange published a link:https://wikileaks.org/wiki/Serious_nuclear_accident_may_lay_behind_Iranian_nuke_chief%27s_mystery_resignation[short note] on the WikiLeaks site:
+
+> Two weeks ago, a source associated with Iran's nuclear program confidentially told WikiLeaks of a serious, recent, nuclear accident at Natanz. Natanz is the primary location of Iran's nuclear enrichment program.
+
+> WikiLeaks had reason to believe the source was credible however contact with this source was lost.
+
+> WikiLeaks would not normally mention such an incident without additional confirmation, however according to Iranian media and link:http://news.bbc.co.uk/2/hi/8153775.stm[the BBC], today the head of Iran's Atomic Energy Organization, Gholam Reza Aghazadeh, has resigned under mysterious circumstances. According to these reports, the resignation was tendered around 20 days ago. 
+
+Later analysis showed that Iran's centrifuge operational capacity dropped significantly at this time after a series of "accidents". The damage was almost certainly inflicted by the malicious https://en.wikipedia.org/wiki/Stuxnet#Natanz_nuclear_facilities[Stuxnet computer worm], a highly sophisticated cyber weapon which exploited four zero-day flaws and was most likely designed by the USA and/or Israel specifically to cripple Iran's Natanz facilities. 
+
+On the same day, WikiLeaks advised that it had been link:https://wikileaks.org/wiki/Iran_blocks_WikiLeaks[blocked] in Iran. WikiLeaks said Iran had "crossed an important human rights line" and called it a "Berlin Wall moment". 
+
+> Iran has not blocked WikiLeaks to stop foreign influence pouring into the country. It has blocked WikiLeaks to try and prevent Iranian whistleblowers getting the truth out. 
+
+On 22 September 2009, WikiLeaks link:https://twitter.com/wikileaks/status/4170632954?s=20[tweeted] that they were no longer blocked in Iran. Six days later, just before a new round of Iranian nuclear talks, WikiLeaks published the link:https://wikileaks.org/wiki/Negotiation_advice_on_Iranian_nuclear_talks_for_EU_Foreign_Policy_chief_Javier_Solana,_June_2008[negotiating advice] that was provided to EU Foreign Policy chief Javier Solana ahead of talks with Iran in 2008. 
+
+> Our source states it was left behind at a negotiation venue.
+
+Iran blocked WikiLeaks again in August 2010. 
+
+*
+
+=== Turks and Caicos Islands 
+
+PIC 2009 Turks
+
+The Turks and Caicos Islands have mostly been an autonomous British Overseas Territory since 1973, with residents of the Carribbean islands holding full British citizenship. By 2008, corruption was getting out of hand and the British government designated Sir Robin Auld to run a Commission of Inquiry. 
+
+An interim report was released in March 2008 but the Commission was promptly sued and an injunction was imposed. On 18 July 2009 the Commission published a redacted version of its final report on its website, but it was removed within hours. WikiLeaks then link:https://wikileaks.org/wiki/Turks_and_Caicos_Islands_Commission_of_Inquiry_into_grand_corruption,_Final_Report,_unredacted,_18_Jul_2009[published] the full unredacted report. 
+
+Julian Assange link:https://wikileaks.org/wiki/Big_Trouble_in_Little_Paradise:_the_Turks_and_Caicos_Islands_takeover[wrote] that "there does appear to be genuine grounds for the corruption allegations" but the report was "at the center of UK plans to take control of the Turks & Caicos Islands" and a British warship was "in a position to support the takeover". 
+
+On 20 July 2009 a blanket suppression order was imposed on local media organisations so that details of the report could not be made public. 
+
+> WikiLeaks was not named, but referred to instead using Orwellian terms such as 'a multi-jurisdictional website'. 
+
+On the following day, the injuncted media companies successfully argued before the territory's Supreme Court that the popularity of WikiLeaks meant that the corruption report was already in the public domain. The gag order was lifted and WikiLeaks link:https://wikileaks.org/wiki/WikiLeaks_victorious_over_corruption_report_gag_order[declared victory]. Assange also clarified his earlier comments about a UK takeover. 
+
+> According to statements made to the London Times earlier this month, the UK intends to suspend the Islands' constitution and take direct rule--with the support of British Navy--something that has the press of other British colonies in the Caribbean and Atlantic, such as Bermuda, aghast.  
+
+This is effectively what happened. Premier Michael Misick, who had received a $500,000 secret bank transfer and married a Hollywood actress, resigned. Britain took direct control of the government until the November 2012 elections, when a new constitution was promulgated and full local administration of the islands was returned. 
+
+*
+
+=== Iceland's Kaupthing Bank
+
+Iceland suffered the lagest per capita losses of of any western country hit by the 2008 Global Financial Crisis. But unlike other nations, Iceland link:https://www.theguardian.com/world/2013/oct/06/iceland-financial-recovery-banking-collapse[refused] to appease foreign creditors by bailing out banks with public funds. It became the only nation that put senior finance executives behind bars after the crisis. 
+
+PIC: 2009 Iceland x 2
+
+On 30 July 2009 WikiLeaks link:https://wikileaks.org/wiki/Financial_collapse:_Confidential_exposure_analysis_of_205_companies_each_owing_above_EUR45M_to_Icelandic_bank_Kaupthing,_26_Sep_2008[published] a confidential report from Iceland's Kaupthing bank, with analysis of 205 companies each owing from 45 million to 1.25 billion euros to the bank. The report was dated 26 September 2008, just days before the bank collapsed. It showed that many of the bank's loans were to insiders and unsecured: the highest loans were given to companies connected to just six clients, four of whom were major Kaupthing shareholders. 
+
+On 1 August 2009 Iceland's national broadcaster received an injunction just five minutes before their evening news went to air, so they showed a link to the WikiLeaks release page instead. WikiLeaks also received a link:https://wikileaks.org/wiki/Icelandic_bank_Kaupthing_threat_to_WikiLeaks_over_confidential_large_exposure_report,_31_Jul_2009[legal threat] from Kaupthing's lawyers, to which they replied: "We will not assist the remains of Kaupthing, or its clients, to hide its dirty laundry from the global community."
+
+The leaked report eventually lead to "hundreds of newspaper articles worldwide" and bolstered claims of criminally irresponsible lending. On 4 December 2009 WikiLeaks also published link:https://wikileaks.org/wiki/SMS_messages_to_former_Kaupthing_owner_Finnur_Ing%C3%B3lfsson,_2009[SMS messages] from an Icelandic businessman to Kaupthing bank's former owner. On 9 December 2009, Kaupthing bank's former asset manager and former stock broker were each sentenced to eight months prison.
+
+Julian Assange spent the next few months in Iceland, at times working with parliamentarians and others on a proposal to turn the island nation into an international "haven" for journalists. On 15 February 2010 he published an article in the Guardian titled link:https://www.theguardian.com/media/organgrinder/2010/feb/15/wikileaks-editor-excited-iceland-journalism[why I'm excited about Iceland's plans for journalism]. 
+
+> In my role as WikiLeaks editor, I've been involved in fighting off more than 100 legal attacks over the past three years. To do that, and keep our sources safe, we have had to spread assets, encrypt everything, and move telecommunications and people around the world to activate protective laws in different national jurisdictions.
+
+> We've become good at it, and never lost a case, or a source, but we can't expect everyone to make such extraordinary efforts. Large newspapers, including the Guardian, are forced to remove or water down investigative stories rather than risk legal costs. Even internet-only publishers writing about corruption find themselves disconnected by their ISPs after legal threats.
+
+Assange urged Iceland to adopt "the strongest press and source protection laws from around the world" so that it could become a "jurisdiction designed to attract organisations into publishing online". He said the banking sector meltdown had convinced Icelanders that fundamental changes were needed.
+
+> Those changes include not just better regulation of banks, but better media oversight of dirty deals between banks and politicians.
+
+The Icelandic Modern Media Initiative proposal was adopted unanimously by parliament on the following day, but the process of reviewing and updating related laws has been repeately delayed by political instability. The current Prime Minister of Iceland link:https://en.immi.is/2019/06/28/immi-at-the-cusp-of-implementation/[aims] to have all the laws finalized and submitted to Parliament before the end of 2019.
+
+*
+
+=== Trafigura Super-injuction
+
+In 2006, seventeen people died, thirty thousand were injured, and a hundred thousand sought medical help after toxic chemicals were dumped at a dozen sites around the Ivory Coast port of Abidjan. The waste came from a ship named the Probo Koala, chartered by multinational trading company Trafigura, which had been turned away by several countries after Trifagura refused to pay disposal fees in Amsterdam. Trifagura claimed the waste was only "slops" from cleaning the boat's tanks, but a Dutch inquiry later found the waste was a toxic mix of fuel, hydrogen sulfide, and sodium hydroxide. 
+
+On 14 September 2009 WikiLeaks published the link:https://wikileaks.org/wiki/Minton_report:_Trafigura_toxic_dumping_along_the_Ivory_Coast_broke_EU_regulations,_14_Sep_2006[Minton Report], an 8-page internal investigation into the spill, commissioned by Trifagura in September 2006, which revealed the waste compounds on the ship were "capable of causing severe human health effects [including] headaches, breathing difficulties, nausea, eye irritation, skin ulceration, unconsciousness and death". 
+
+The British media did not report this important leak because three days earlier, on 11 September 2009, Trifagura lawyers got an injunction which not only gagged media coverage of the report, or its contents, but also made it illegal to disclose the existence of the injunction itself. WikiLeaks link:https://wikileaks.org/wiki/Minton_report_secret_injunction_gagging_The_Guardian_on_Trafigura,_11_Sep_2009[published] this "super-injunction" after it was leaked by a reporter at Norwegian Broadcasting Corporation NRK, who Trifagura was also link:https://wikileaks.org/wiki/Trafigura_threats_to_Norwegian_press_over_Minton_report_exposing_toxic_dumping,_Sep_2009[threatening] with legal action. 
+
+On 12 October 2009 the Guardian link:http://www.guardian.co.uk/media/2009/oct/12/guardian-gagged-from-reporting-parliament[reported] that they were being banned from covering parliament.
+
+> Today's published Commons order papers contain a question to be answered by a minister later this week. The Guardian is prevented from identifying the MP who has asked the question, what the question is, which minister might answer it, or where the question is to be found.
+
+> The Guardian is also forbidden from telling its readers why the paper is prevented – for the first time in memory – from reporting parliament. Legal obstacles, which cannot be identified, involve proceedings, which cannot be mentioned, on behalf of a client who must remain secret.
+
+This created a public outcry on Twitter and it was soon revealed that Labour MP Paul Farrelly, a former editor of the Observer, was planning to ask a question about the Guardian being gagged, thus revealing the existence of the super-injunction under Parliamentary privilege. 
+
+Julian Assange link:https://wikileaks.org/wiki/Ivory_Coast_toxic_dumping_report_behind_secret_Guardian_gag[said] it was extraordinary that Trafigura's lawyers felt they could silence reporting of parliament. He called it "a bold and dangerous move towards the total privatization of censorship". 
+
+> Is a multi-billion pound commodities trader a truer expression of the national will than the House of Commons? The question is no longer rhetorical.
+
+WikiLeaks also published an link:https://wikileaks.org/wiki/The_Independent:_Toxic_Shame:_Thousands_injured_in_African_city,_17_Sep_2009[investigation] from the Independent newspaper, titled "Toxic Shame" and dated 17 September, which had no mention of the Minton report and was taken offline without explanation. 
+
+> As for other papers, no one has any idea, because it is the habit now in the UK to secretly remove articles from newspaper archives and their indexes. 
+
+The next day, shortly before a court showdown with UK media organisations, Trifigura's lawyers bowed to public pressure and allowed reporting of the MP's question. But the media was still not allowed to report on the Minton report, or its contents, or its location. 
+
+The Guardian was link:https://www.theguardian.com/media/2009/oct/13/trafigura-drops-gag-guardian-oil[not impressed]. 
+
+> In today's edition, the Guardian was prevented from identifying Farrelly, reporting the nature of his question, where the question could be found, which company had sought the gag, or even which order was constraining its coverage. 
+
+On 15 October WikiLeaks posted an update on their original release page, encouraging readers to share their link: 
+
+> The UK media is currently unable to mention the URL "http://wikileaks.org/wiki/Minton" or anything else that would direct people towards the report. 
+
+On 16 October 2009 WikiLeaks published an link:https://wikileaks.org/wiki/Updated_secret_gag_on_UK_Times_preventing_publication_of_Minton_report_into_toxic_waste_dumping,_16_Oct_2009[udpated version] of the super-injunction "as sent confidentially to the editor of the UK Times newspaper". 
+
+Until December 2009 the BBC was locked in a legal battle with Trifagura, but it conceded defeat and settled out of court amid reports that the case could cost up to 3 million pounds. WikiLeaks re-published a slew of articles and news programs that were taken down: 
+
+- A deleted BBC Newsnight story link:https://wikileaks.org/wiki/BBC_deletes_important_story_on_toxic_waste_dumping_in_the_Ivory_Coast_after_legal_threats,_12_Dec_2009[Dirty tricks and toxic waste in Ivory Coast]. Plus a link:https://wikileaks.org/wiki/BBC_Newsnight%27s_%22Dirty_tricks_and_toxic_waste_in_Ivory_Coast%22,_15min_video,_13_May_2009[flash video file].
+
+- A story published by the Times on July 18th 2009 and later removed, link:https://wikileaks.org/wiki/Removed_Times_UK_story_on_Trafigura:_Big_profits_from_a_very_dirty_business_encourages_corruption_and_broken_treaties,_18_Jul_2009[Big profits from a very dirty business encourages corruption]. 
+
+- An MP3 file of a deleted link:https://wikileaks.org/wiki/Censored_BBC_World_Service_radio_broadcast_%22Killer_toxic_waste%22_on_the_Trafigura_scandal,_14_May_2009[BBC World Service radio broadcast].
+
+On 15 March 2010 WikiLeaks also published the BBC's link:https://wikileaks.org/wiki/BBC_High_Court_Defence_against_Trafigura_libel_suit,_11_Sep_2009[High Court Defence] against Trafigura's libel suit, which was dated the same day as the original injunction (11 September 2009). They said readers could judge for themselves if the case was worth pursuing. 
+
+> This Defence, which has never been previously published online, outlines in detail the evidence which the BBC believed justified its coverage... The detailed claims contained in this document were never aired publicly, and never had a chance to be tested in court. 
+
+WikiLeaks quoted John Kampfner, CEO of Index on Censorship: 
+
+> Sadly, the BBC has once again buckled in the face of authority or wealthy corporate interests. It has cut a secret deal. This is a black day for British journalism and once more strengthens our resolve to reform our unjust libel laws.
+
+And Jonathan Heawood, Director of English PEN: 
+
+> Forced to choose between a responsible broadcaster and an oil company which shipped hundreds of tons of toxic waste to a developing country, English libel law has once again allowed the wrong side to claim victory. The law is an ass and needs urgent reform.
+
+*
+
+=== Joint Services Protocol 440
+
+On 4 October 2009, having already published numerous restricted UK military documents, including evidence that a Royal Air Force unit was actively monitoring WikiLeaks from a base in Lincolnshire (see Chapter 3), WikiLeaks published the UK military's link:https://wikileaks.org/wiki/UK_MoD_Manual_of_Security_Volumes_1,_2_and_3_Issue_2,_JSP-440,_RESTRICTED,_2389_pages,_2001[Joint Services Protocol 440], a restricted 2,389 page manual which provided instructions for UK security services on how to avoid leaks. 
+
+Even the UK Telegraph had to link:https://www.telegraph.co.uk/news/uknews/defence/6261756/MoD-how-to-stop-leaks-document-is-leaked.html[acknowledge] the irony. 
+
+> As Wikileaks notes, it is the document that is used as justification for the monitoring of certain websites, including Wikileaks itself. 
+
+> The document is particularly keen to avoid the attentions of journalists, noting them as "threats" alongside foreign intelligence services, criminals, terrorist groups and disaffected staff. 
+
+The volume of UK military documents that WikiLeaks had already released indicates either very poor security or a serious morale problem, an issue to which many of the documents themselves refer. WikiLeaks posted numerous key passages from the JSP 440 document, highlighting problematic terminology including at least a dozen references to "investigative journalists". 
+
+*
+
+=== Student Loan Scandal
+
+On 15 October 2009 WikiLeaks link:https://www.wikileaks.org/wiki/Sealed_complaint_against_JP_Morgan_Chase,_Citigroup_and_Nelnet_for_defrauding_the_United_States_government,_19_May_2008[published] a sealed complaint (dated 19 May 2008) against JP Morgan Chase, Citigroup, and student loan servicer Nelnet, for defrauding the United States government.
+
+link:https://www.zerohedge.com/article/nelnet-whistleblower-scandal-hits-wikileaks-jpm-citi-and-nelnet-implicated-massive-conspirat[Zerohedge] said "this could be one of the biggest student loan fraud/abuse scandals in the history of the US". 
+
+> In essence the mortgage fraud that everyone knows was encouraged by each and every subprime (and otherwise) lender, in order to maximize the number of loans issued without regard for underlying credit quality of the debtor during the credit bubble, was taking place in the student loan arena, courtesy of Nelnet, JP Morgan and Citigroup... 
+
+> This will undoubtedly become a major topic in the coming weeks, especially with the student loan market still nowhere close to being rebubbled by Bernanke et al., and taxpayers starting to get very angry at big banks who have consistently taken advantage of their gullibility, even as they consider paying themselves record bonuses in 2009.
+
+In 2010 Nelnet link:https://www.chronicle.com/article/Nelnet-to-Pay-55-Million-to/123912[agreed to pay $55 million] to settle its share of the whistle-blower lawsuit. Seven other student-loan companies were also ordered to participate in the settlement conference, including Sallie Mae, the USA's largest student-loan company. 
+
+*
+
+
+=== Climate Change and Copenhagen
+
+On 21 November 2009 WikiLeaks link:https://wikileaks.org/wiki/Climatic_Research_Unit_emails,_data,_models,_1996-2009[published] over 60MB of emails, documents, code and models from the Climatic Research Unit (CRU) at the University of East Anglia. The material, written between 1996 and 2009, was posted on a Russian server by a hacker a few days earlier and mirrored on several other sites. 
+
+The release triggered a worldwide debate about climate science, with the Copenhagen Climate Change Summit just weeks away. Climate change denialists hand-picked certain phrases, often totally out of context, and claimed they were hard proof that man-made global warming was a scientific hoax. For example, one email using the words "hide the decline" was cited by denialists, including US Senator Jim Inhofe and former Governor of Alaska Sarah Palin, as proof of a cover up. In fact it was referring to a "decline" in data from tree-ring analyses. 
+
+Examination by the link:https://web.archive.org/web/20140219051546/https://www.theguardian.com/environment/blog/2010/feb/05/cru-climate-change-hacker[Guardian] showed the hacker had filtered data by searching for certain key words and almost all the emails were related to only four climatologists.  An editorial in link:https://ui.adsabs.harvard.edu/abs/2009Natur.462..545.[Nature magazine] concluded "A fair reading of the e-mails reveals nothing to support the denialists' conspiracy theories." Numerous inquiries were conducted: the hacker was never found but the CRU and the scientists involved were absolved of any misconduct, aside from some rude language. 
+
+While the "Climategate" debate was raging online and in the media, the World Meteorological Organization link:https://abcnews.go.com/Technology/Decade/climate-2009-caps-hottest-decade-record/story?id=9283733[announced] that the decade ending on 31 December 2009 would likely be the warmest on record, and 2009 was set to be the fifth warmest year ever recorded. More recent years have been even hotter. 
+
+PIC: climate hotest
+
+On 9 December 2009 WikiLeaks published a link:https://wikileaks.org/wiki/Draft_Copenhagen_climate_change_agreement,_8_Dec_2009[draft version] of the Copenhagen climate change agreement, which nations at the climate summit were still working to finalise. This early draft version, dubbed the "Dutch Text", was authored by nations in a "circle of commitment" including the UK, US and Denmark. They planned to abandon the Kyoto Protocol, sideline the United Nations, and hand control of climate change finance to the World Bank. Rich nations would be allowed almost twice as much carbon emissions per capita than poorer nations. The released draft caused an link:https://www.theguardian.com/environment/2009/dec/08/copenhagen-climate-summit-disarray-danish-text[uproar]. 
+
+> "It is being done in secret. Clearly the intention is to get [Barack] Obama and the leaders of other rich countries to muscle it through when they arrive next week. It effectively is the end of the UN process," said one diplomat, who asked to remain nameless.
+
+On 18 December 2009 WikiLeaks published an link:https://wikileaks.org/wiki/Draft_Copenhagen_Accord_Dec_18,_2009[updated draft version] of the Copehagen Accord, from around 7 pm that night. It had pen markings where issues were stil being discussed.  
+
+A final version of the Copenhagen Accord was cobbled together at the last minute, papering over disagreements, and did not commit countries to binding targets. Many climate activists and world leaders, including Bolivian president Evo Morales, declared it a failure. 
+
+> The meeting has failed. It's unfortunate for the planet. The fault is with the lack of political will by a small group of countries led by the US.
+
+A year later, US diplomatic cables released by WikiLeaks would link:https://www.theguardian.com/environment/2010/dec/03/wikileaks-us-manipulated-climate-accord[reveal] that the USA had deliberately sought to undermine the Copenhagen summit, using "spying, threats and promises of aid" to block meaningful progress. 
+
+* 
+
+On link:https://wikileaks.org/wiki/Toll_Collect_Betreibervertrag,_5_Jun_2002[25] and link:https://wikileaks.org/wiki/Toll_Collect_Vertraege,_2002[26] November 2009 WikiLeaks link:https://wikileaks.org/wiki/Toll_Collect_Vertraege,_2002[published] around 10,000 pages from secret link:https://wikileaks.org/wiki/Toll_Collect_AGES_International_Kooperationsvertrag,_20_Sep_2002[contracts] between the German federal government and Toll Collect, a private consortium for heavy vehicle tolling systems. The documents had been withheld from the German public and government officials despite repeated Freedom Of Information requests. 
+
+* 
+
+=== 9/11 Pager SMS Intercepts
+
+On 24 November 2009 WikiLeaks published some link:https://911.wikileaks.org/[500,000 pager messages] that were intercepted in New York City and Washington when the World Trade Centre and Pentagon buildings were attacked on 11 September 2001. WikiLeaks published the messages in chronological batches every hour, much as would have happened on the day of the attack.  
+
+The messages were sent to private sector and unclassified military pagers, link:https://wikileaks.org/wiki/Egads!_Confidential_9/11_Pager_Messages_Disclosed[apparently] through the networks of Arch Wireless, Metrocall, Skytel, and Weblink Wireless. They could have been captured by several commercially available products but of course US law enforcement agencies also monitor pager networks. 
+
+Media compilations link:https://www.theguardian.com/media/2009/nov/25/wikileaks-publishes-messages-9-11[showed] how a normal day quickly morphed into something unthinkable. 
+
+> At 7.55am CNN puts out its world news headlines: Israel has surrounded yet another West Bank city... 
+
+> At 8.46 and 46 seconds, six seconds after flight 11 crashed into the north tower of the World Trade Centre, the following message is paged: "Market data inconsistent … Cantor API problem Trading system offline." The global financial services firm Cantor Fitzgerald had its offices on the 101st to 105th floors of the north tower and lost 658 employees in the devastation.
+
+> Quickly, the media began catching up with events, and viewers were picking up on the news. At 8.50am Karen sends out a message saying: "CNN SAID THEY THINK IT WAS A PLANE THAT HIT THE BLDG."
+
+The messages also show how false rumours quickly spread, and how emergency services were overwhelmed by the scale of the disaster. 
+
+> One string of messages hints at how federal agencies scrambled to evacuate to Mount Weather, the government's sort-of secret bunker buried under the Virginia mountains west of Washington, D.C. One message says, "Jim: DEPLOY TO MT. WEATHER NOW!," and another says "CALL OFICE (sic) AS SOON AS POSSIBLE. 4145 URGENT." That's the phone number for the Federal Emergency Management Agency's National Continuity Programs Directorate -- which is charged with "the preservation of our constitutional form of government at all times," even during a nuclear war. (A 2006 article in the U.K. Guardian newspaper mentioned a "a traffic jam of limos carrying Washington and government license plates" heading to Mount Weather that day.)
+
+> FEMA's response seemed less than organized. One message at 12:37 p.m., four hours after the attacks, says: "We have no mission statements yet." Bill Prusch, FEMA's project officer for the National Emergency Management Information System at the time, apparently announced at 2 p.m. that the Continuity of Operations plan was activated and that certain employees should report to Mt. Weather; a few minutes later he sent out another note saying the activation was cancelled. 
+
+9/11 conspiracy theorists were disappointed that the pager data did not provide evidence to challenge the official narrative. The usual critics slammed WikiLeaks for revealing personal messages and disrespecting the victims of the attacks. But most agreed the pager messages provided an important historical record to help understand the widespread shock, horror and confusion of the day. There were also security lessons to be learned, as Declan McCullagh of CBS noted:
+
+> If you're the Secret Service responding to threats against the president, or FEMA organizing an evacuation to an underground bunker, why are you letting anyone with a $10 pager and a Windows laptop watch what you're doing? 
+
+*
+
+=== Funding Problems
+
+On 22 December 2009 WikiLeaks link:https://twitter.com/wikileaks/status/6903722666?s=20[tweeted] that they had "less than a month's operating budget left." 
+
+Two days later the website disappeared, with only the online submission form remaining (previously published material was still available on mirror sites). WikiLeaks link:https://twitter.com/wikileaks/status/6995068005?s=20[tweeted]: 
+
+> To deal with a shortage of funds we are forced to do fundraising only until at least Jan 6, 2009.
+
+At the same time, WikiLeaks was link:https://twitter.com/wikileaks/status/6730898182?s=20[asking] followers to support their application for over $500,000 funding from the link:https://www.knightfoundation.org/challenges/knight-news-challenge[Knight foundation]. The New York Times link:https://www.nytimes.com/2009/12/21/business/media/21leaks.html[supported] their application but many supporters wondered why WikiLeaks needed so much money. 
+
+On 4 January 2010 Julian Assange gave an link:https://web.archive.org/web/20101213110334/http://stefanmey.wordpress.com/2010/01/04/leak-o-nomy-the-economy-of-wikileaks/[unusually candid interview] to a German blogger. Assange said shutting down the site was a way "to enforce self-discipline [and] ensure that everyone who is involved stops normal work and actually spends time raising revenue". 
+
+Assange said people everywhere could download what WikiLeaks published for free, so "the perceived value starts to reduce down to zero". By withdrawing supply "people start to once again perceive the value of what we are doing".
+
+> We have lots of very significant upcoming releases, significant in terms of bandwidth, but even more significant in terms of amount of labour they will require to process and in terms of legal attacks we will get. So we need to be in a stronger position before we can publish the material.
+
+Assange said "probably five people" were working full-time on WikiLeaks, without drawing a salary, while another 800 "do it occasionally throughout the year". He estimated that WikiLeaks needed about $200,000 per year to operate, but it would be more like $600,000 if everyone was paid. 
+
+Media organisations like AP, Los Angeles Times, and The National Newspaper Association were listed on the website as “steadfast supporters” because they donated lawyers' time, not cash (WikiLeaks does not accept donations from corporations or governments). 
+
+> Why do the they help you? Probably not out of selflessness.
+
+> Two things: They see us as an organisation that makes it easier for them to do what they do. But they also see us as the thin end of the wedge. We tackle the hardest publishing cases. And if we are defeated, maybe they will be next in line. 
+
+On 7 January 2010 WikiLeaks link:https://twitter.com/wikileaks/status/7465743046?s=20[tweeted] that the site would "remain down to concentrate on fundraising". 
+
+> We have $50k, We need $200k, min for the year.
+
+By 29 January 2010 they link:https://twitter.com/wikileaks/status/8287243023?s=20[said] they were only $40,000 away from their $200,000 target. 
+
+In June 2010 WikiLeaks link:https://twitter.com/wikileaks/status/16379340504?s=20[tweeted] that their application for funding had been turned down by the Knight Foundation, even though they were the link:https://twitter.com/wikileaks/status/16379729990?s=20[highest rated project]. 
+
+* 
+
+=== 26C3
+
+At the end of the Chaos Computer Club convention in December 2009, Julian Assange link:https://media.ccc.de/v/303_l4613_Wikileaks_Panel[appeared] on a discussion panel about censorship. He said WikiLeaks had started out expecting the least developed nations, with the most blatant censorship, to benefit most from WikiLeaks. 
+
+> But censorship is a global problem. Censorship is in fact, at a technological level, lead by the West. 
+
+He said every form of media was now moving onto the Internet, which meant it was all increasingly subject to Internet censorship. He cited the UK's "secret courts" forcing news stories offline, and the secret government censorship lists, revealed by WikiLeaks, as examples of such technological censorship. 
+
+> Why is this happening now, between governments? Why are they responding in the same way? 
+
+Assange said the Internet was an increasingly important target, politically and economically, for vested powers in various countries that were "moving together to try and take control of something that threatens their interests". He said the European Union and other globalised trading agreements showed nations uniting to create new legal standards, including agreements on Internet censorship, which potentially threatened WikiLeaks' publishing model. WikiLeaks was currently "protected somewhat by placing our information in different states, by playing one state off against another". But for how much longer? 
+
+> What is the new standard for publishing freedoms? What is the new standard for communication? 
+
+Would the new legal standard be that "of the most free country, or the least free country"?
+
+> We have an opportunity to push that standard to be the union of press protection freedoms, the union of whistle-blower freedoms, and the union of communication freedoms, not their intersection. 
+
+An audience member asked why many journalists were so willing to support censorship. Assange said it was largely due to competition, with old establishment media seeing online news sites as financial competition. 
+
+> Mainstream media have to act like the good guys in order to be tolerated by readers. 
+
+In his final comments, Assange warned that it was important to establish good standards while there was still time. 
+
+> The traditional media won many legal protections for publishing. It managed to do that through its power as an industry. As they lose their monopoly, competing with bloggers that have no union behind them, I think we'll see a state where there is no journalistic force as a powerful industry to keep up those protections. So we need to set the standard now, while we still have the remnants of a powerful media industry. Because pretty soon it's not gonna be there. There'll be distribution industries but there won't be journalistic industries. 
+
+* 
+
+=== Meanwhile in Iraq...
+
+In ­October 2009, a young US Army Private named Bradley Manning arrived at link:https://www.youtube.com/watch?v=8Oh9i27Ky9I[Forward ­Operating Base Hammer], 40 miles from Baghdad. Manning's superiors had debated whether the 21-year-old from Oklahoma, who took six months to complete Basic Training (usually a ten week course) and had been referred to an Army mental health counselor just two months earlier, would be a safety risk in Iraq. But intelligence analysts were in high demand and Manning was good at the job. 
+
+In November 2009, Private First Class Manning was promoted to Specialist, with top security access to SIPRNet (the Secret Internet Protocol Router Network) and JWICS (the Joint Worldwide Intelligence Communications System). 
+
+In the same month, Manning link:http://nymag.com/news/features/bradley-manning-2011-7/[contacted] an online gender counselor back in the States. 
+
+> Bradley felt he was female. He was very solid on that. He really wanted to do surgery. 
+
+NOTE: Bradley Manning eventually began gender transitioning to Chelsea Manning in 2013. This book uses she/her pronouns except for direct quotes. 
+
+Manning also told the counselor about a targeting mission in Basra that had not gone to plan. 
+
+> “Two groups of locals were converging in this one area. Manning was trying to figure out why they were meeting,” the counselor told me. On Manning’s information, the Army moved swiftly, ­dispatching a unit to hunt them down. Manning had thought all went well, until a superior explained the outcome. “Ultimately, some guy loosely connected to the group got killed,” the counselor said. To the counselor, it was clear: Manning felt that there was blood on his hands. “He was very, very distressed.”
+
+> About that time, Manning later ­explained, “everything started slipping.” Manning, it turned out, wasn’t built for this kind of war. “i was a *part* of something … i was actively involved in something that i was completely against.” 
+
+According to her later link:https://docs.google.com/file/d/0B_zC44SBaZPoQmJUYURBUnBycUk/edit[testimony], Manning had been "vaguely aware" of WikiLeaks since 2008 but did not "fully pay attention" until the 9/11 pager messages were released. She was curious about how WikiLeaks got hold of sensitive military documents, some of which she found "useful in my work as an analyst". She soon became active in online chats about "the WikiLeaks Organisation" (WLO). 
+
+> I conducted searches on both NIPRnet and SIPRnet on WLO beginning in late November 2009 and early December 2009. At this time I also began to routinely monitor the WLO website. 
+
+> In response to one of my searches in December 2009, I found the U.S. Army Counter-Intelligence Centre (USACIC) report on WLO...  I discovered information that contradicted the 2008 USACIC report, including information indicating that, similar to other press agencies, WLO seemed to be dedicated to exposing illegal activities and corruption. WLO received numerous awards and recognition for its reporting activities.
+
+On 23 January 2010 Manning went back to the USA on leave and ended up stuck in her aunt's house in Maryland due to a blizzard. She was carrying huge backups of confidential data but still hadn't decided what to do with it. The data included massive tables of "Significant Activities" (SIGACTs) logged by military personnel in Iraq and Afghanistan, which Manning routinely analyzed as part of her job. She considered the tables that stored this data "two of the most significant documents of our time."  
+
+> "I began to think about what I knew, and the information I still had in my possession. For me, the SIGACTs represented the on-the-ground reality of both the conflicts in Iraq and Afghanistan. I felt we were risking so much for people that seemed unwilling to co-operate with us, leading to frustration and hatred on both sides. 
+
+> "I began to become depressed at the situation that we found ourselves increasingly mired in, year-after-year. The SIGACTs documented this in great detail, and provided context to what we were seeing on-the-ground... 
+
+> "I believed that if the general public, especially the American public, had access to the information contained within the CIDNE-I and CIDNE-A tables, this could spark a domestic debate on the role of the military and our foreign policy in general, as well as it related to Iraq and Afghanistan. I also believed that a detailed analysis of the data over a long period of time, by different sectors of society, might cause society to re-evaluate the need, or even the desire to engage in CT [counter-terrorist] and COIN [counter-insurgent] operations that ignored the complex dynamics of the people living in the affected environment each day.
+
+Manning decided to leak the data to a US newspaper. She called the Washington Post and spoke with a lady who said she was a reporter. 
+
+> Although we spoke for about five minutes concerning the general nature of what I possessed, I do not believe she took me seriously. She informed me that the Washington Post would possibly be interested, but that such decisions are made only after seeing the information I was referring to, and after consideration by senior editors. 
+
+Manning then decided to contact the New York Times, and phoned the public editor's number listed on their website. 
+
+> The phone rang and was answered by a machine. I went through the menu to the section for news tips and was routed to an answering machine. I left a message stating I had access to information about Iraq and Afghanistan that I believed was very important. However, despite leaving my Skype phone number and personal email address, I never received a reply from the New York Times. 
+
+Manning then considered visiting the offices of the influential political blog Politico, but the weather was still too bad. She concluded that WikiLeaks "seemed to be the best medium for publishing this information to the world within my reach." She joined an online chat and said she had "information that needed to be shared with the world". Someone pointed her to the WikiLeaks online submission page. 
+
+> I considered my options one more time. Ultimately, I felt that the right thing to do was to release the SIGACTs. On 3 February 2010, I visited the WLO website on my computer, and clicked on the "Submit Documents" link.
+
+Manning uploaded the compressed data files along with a text file that she had prepared for the Washington Post. It said the data had already been "sanitized of any source identifying information."
+
+> You might need to sit on this information for 90 to 180 days to best send and distribute such a large amount of data to a large audience and protect the source.
+
+> This is one of the most significant documents of our time removing the fog of war and revealing the true nature of 21st century asymmetric warfare. 
+
+> Have a good day.
+
+*
+
+The author of this book has been an active supporter of WikiLeaks since at least 2010. He can be found at: 
+
+Twitter: https://twitter.com/jaraparilla
+
+Blog: https://jaraparilla.blogspot.com
+
+Patreon: https://patreon.com/jaraparilla
+
+Paypal: https://paypal.me/jaraparilla
+ 
+You can support the writing of this book here: https://www.gofundme.com/f/wikileaks-true-history-book
+
+Thank you.
+
+* 

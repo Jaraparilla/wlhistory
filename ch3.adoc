@@ -1,0 +1,535 @@
+= A True History Of WikiLeaks
+
+By Gary Lord
+
+Copyright Gary Lord 2019
+ 
+== Chapter Three 
+
+The year 2008 started with a January plunge on global stock markets, triggered by the USA's long-running subprime mortgage crisis. It ended with a full-blown Global Financial Crisis (GFC), triggered by the collapse of Lehman Brothers investment bank on September 15 2008. Who was to blame? "Everyone and no one", if you believe the link:https://www.telegraph.co.uk/finance/recession/5309552/Who-is-to-blame-for-the-economic-crisis.html[corporate media]. 
+
+Candidate Barack Obama continued campaigned across the USA in 2008, promising "hope and change" as well as more transparency and protection for whistle-blowers. 
+
+“As president, I will close Guantanamo and adhere to the Geneva Conventions," he link:https://www.reuters.com/article/us-usa-campaign-obama-promises-idUSTRE79R3M920111028[promised]. 
+
+"No more illegal wiretapping of US citizens. No more national security letters to spy on citizens who are not suspected of a crime. No more tracking citizens who do nothing more than protest a misguided war. No more ignoring the law when it is inconvenient."
+
+On 4 November 2008 Barack Obama defeated Republican John McCain to become US President. A month later he appointed Hillary Clinton, whom he had defeated for the Democratic Party nomination mid-year, as Secretary of State. 
+
+In Ecuador, anti-corruption socialist President Rafael Correa, who first took office in January 2007, won approval for a link:https://constituteproject.org/constitution/Ecuador_2008.pdf[new Constitution] at a 2008 national referendum. The new constitution recognised the rights of nature as well as humans, and placed strict limits on media ownership. It would become a critical document in Julian Assange's later legal battles. 
+
+Also in November 2008, Satoshi Nakamoto published the foundational paper for crypto-currency, link:https://www.bitcoin.com/bitcoin.pdf[Bitcoin: A Peer-to-Peer Electronic Cash System]. Bitcoin and other crypto-currencies would soon become an important revenue stream for WikiLeaks. 
+
+Meanwhile in Australia, the home of investigative journalist Philip Dorling, who would later help WikiLeaks publish revelations, was link:https://www.brisbanetimes.com.au/politics/federal/balancing-act-national-security-collides-with-freedom-of-the-press-20190607-p51vfv.html[raided by police] for the second time, as part of a 2008 investigation into leaks. Dorling later joked that police searched every inch of his house but ignored a briefcase that was sitting on his coffee table. 
+
+* 
+
+=== Northern Rock vs. WikiLeaks 
+
+https://wikileaks.org/wiki/Northern_Rock_vs._Wikileaks 
+
+Britain's Northern Rock bank received £24 billion from the Bank of England in September 2007 in order to save it from collapse. This lead to the first "bank run" in the UK for a 150 years, with account holders queing up at branches to withdraw their money. When a secret memo about the attempted sale of the bank was posted online and published in the UK media, the bank's lawyers immediately demanded the memo to be removed. The Financial Times, the Telegraph and other UK papers rapidly link:https://www.theguardian.com/media/2007/nov/20/financialtimes.pressandpublishing[complied], as did "at least half a dozen websites, including several located in the United States". But WikiLeaks posted the memo online (link:https://file.wikileaks.org/file/Project_Wing_-_Northern_Rock_Executive_Summary.pdf[PDF]) and refused to remove it. 
+
+On 20 January 2008 Wikileaks released the link:https://wikileaks.org/wiki/Category:Series/Northern_Rock_vs._Wikileaks[censorship demands] it had received from Schillings lawyers, acting for Northern Rock, along with  link:https://wikileaks.org/wiki/Northern_Rock_vs._Wikileaks[analysis] demanding legal reform to help keep the public informed: 
+
+> The combined publishing might of the British press and the Internet has proved unfit (with the exception of Wikileaks), to provision a key document in British politics to the public. Every insider has it. Surely the British people deserve to see it, after all they've paid for it — £400 each.
+
+> The UK press is the most injuncted, litigated and censored among the liberal democracies. The population suffers accordingly and as we have seen, this hobbling of the UK press is now exported world wide via extra-territorial claims. The claims have limited power in theory, but are effective tools of suppression in practice as neither profit motivated ISPs nor publishers with UK business dealings will stand their ground. It is time for urgent reform. 
+
+WikiLeaks suggested the UK government provide an easy way to discover what is under injunction or in contempt of court reporting restrictions. Instead the UK developed "super-injuctions" which not only criminalise reporting but also criminalise mention of the injunction that is criminalizing such reporting. WikiLeaks would publish the first pubicly known super-injunction in 2009 (see Trafigura below). 
+
+Northern Rock bank was nationalised on 22 February 2008. Shareholders received no compensation.  
+
+* 
+
+=== Monju nuclear reactor leak
+
+https://wikileaks.org/wiki/The_Monju_nuclear_reactor_leak 
+
+Japan's Monju nuclear reactor was closed in 1995 after 700 kg of molten sodium leaked and ignited a fire. Officials played down the incident and suppressed video footage of the spill, providing only sanitized images to the public. An employee committed suicide after a press conference where the cover-up was admitted.
+
+On 25 January 2008 WikiLeaks link:https://wikileaks.org/wiki/The_Monju_nuclear_reactor_leak[published] three suppressed videos of the sodium spill, following court action and reports that the nuclear reactor would be reopened. The reactor was not restarted until May 6, 2010 but it was shut down again three months later after another accident. It is now in the process of decommissioning.
+
+* 
+
+=== US Rules of Engagement for Iraq 
+
+https://wikileaks.org/wiki/US_Rules_of_Engagement_for_Iraq 
+
+On 4 February 2008 WikiLeaks published the classified SECRET consolidated US Forces Rules of Engagement (ROE) for Iraq. These rules dictated the behaviour expected from US soldiers in Baghdad and central Iraq in 2005. WikiLeaks said their source was a courageous national security whistleblower they called "Peryton" who had also leaked the Guantanamo Bay manuals and the Fallujah report. 
+
+> On first reading, the document contains a number of items of interest to the press, including rules about mosque attacks, detention of immams, cross border incursions (including Iran and Syria), the use of mines and riot control agents, terrorist targeting, the destruction of Iraqi government property used by insurgents and even kafkaesque rules for attacks on WMD mobile production labs.
+
+WikiLeaks suggested "those more familiar with the US-Iraq war" might discover more items of interest. Numerous media organisations published articles about the leak, including the link:https://archive.nytimes.com/www.nytimes.com/learning/students/pop/articles/04rules.html[New York Times]: 
+
+> American military forces in Iraq were authorized to pursue former members of Saddam Hussein's government and terrorists across Iraq's borders into Iran and Syria, according to a classified 2005 document that has been made public by an independent Web site.
+
+The document also provided instructions for how to deal with radical Shiite cleric Moktada al-Sadr, whose status as a hostile foe was “suspended” - "he and his key associates were not to be attacked except in self-defense". 
+
+A US military spokesman condemned the leak without confirming or denying its validity: 
+
+> "While we will not comment on whether this is, in fact, an official document, we do consider the deliberate release of what Wikileaks believes to be a classified document is irresponsible and, if valid, could put US military personnel at risk."
+
+But a Washington Post article welcomed the release and said it could actually help the military if there was more discussion: 
+
+> Publicize the rules as much as possible, show how careful U.S. forces really are. It's not like we're otherwise winning the battle of hearts and minds by hoarding our secrets. 
+
+A week after the leak, authorities in Iran link:https://wikileaks.org/wiki/Tehran_Warns_US_Forces_against_Chasing_Suspects_into_Iran[warned] US Forces not to chase suspects into their territory.  
+
+*
+
+=== Rudolp Elmer and Julius Baer Bank
+
+On 15 February 2008, the WikiLeaks website was shut down for the first time, following an link:https://web.archive.org/web/20080306005837/https://wikileaks.org/wiki/Wikileaks.org_under_injunction[injunction] filed in the Cayman Islands by Julius Baer Bank (also called Julius Bär). The bank alleged that WikiLeaks was hosting documents illegally provided by whistle-blower Rudolf Elmer, a former executive of the bank's Carribbean operations. 
+
+As wikileaks.org was hosted on numerous servers around the world, the court order targeted the Californian registrar Dynadot, from whom the "wikileaks.org" domain name had been purchased. The website went down when Dynadot's records for 'Wikileaks.org' were deleted from the internet website name registration system. The WikiLeaks website only remained visible on backup sites such as wikileaks.be (Belgium) and wikileaks.de (Germany).
+
+Although WikiLeaks were aware of the bank's intention to file federal US proceedings, they were given only hours notice "by email" of the Dynadot court proceedings, and their legal representative was not allowed in the courtroom. They were shocked by this brutal censorship attack "from, of all places, the United States". 
+
+> When the transparency group Wikileaks was censored in China last year, no-one was too surprised. After all, the Chinese government also censors the Paris based Reporters Sans Frontiers and New York Based Human Rights Watch. And when Wikileaks published the secret censorship lists of Thailand's military Junta, no-one was too surprised when people in that country had to go to extra lengths to read the site. But on Friday the 15th, February 2008, in the home of the free and the land of the brave, and a constitution which states "Congress shall make no law... abridging the freedom of speech, or of the press", the Wikileaks.org press was shutdown.
+
+> To find an injunction similar to the Cayman's case, we need to go back to Monday June 15, 1971 when the New York Times published excepts of of Daniel Ellsberg's leaked "Pentagon Papers" and found itself enjoined the following day. The Wikileaks injunction is the equivalent of forcing the Times' printers to print blank pages and its power company to turn off press power. The supreme court found the Times censorship injunction unconstitutional in a 6-3 decision. 
+
+After leaving Julius Baer Bank in 2002, Rudolph Elmer link:https://wikileaks.org//wiki/Bank_Julius_Baer[leaked] information about the bank's extremely wealthy clients to Swiss media and tax authorities.  Elmer was held in custody for 30 days in 2005, charged with breaking Swiss bank secrecy laws, forging documents and sending threats to Julius Baer officials. He claimed that the bank hired people to stalk him and his family in his native Switzerland (where there are no anti-stalking laws), including car chases and other forms of harrassment. 
+
+Wikileaks had link:https://wikileaks.org/wiki/Bank_Julius_Baer_vs._Wikileaks[published] a 2007 batch of link:https://wikileaks.org/wiki/Category:Bank_Julius_Baer[documents] from Elmer "purportedly showing offshore tax evasion and money laundering by extremely wealthy and in some cases, politically sensitive, clients from the US, Europe, China and Peru". In February 2008 WikiLeaks also published written statements by Rudolf Elmer, including a link:https://wikileaks.org/wiki/Bank_Julius_Baer:_Grand_Larceny_via_Grand_Cayman[letter] disclosing "methods used by Bank Julius Baer to avoid or decrease tax payments". 
+
+"Wikileaks was the only tool I had to raise my voice," Elmer later link:https://www.wired.co.uk/article/exposed-wikileaks-secrets[explained] to media. 
+
+When WikiLeaks refused to remove these documents from its website, Julius Baer Bank sought a second injunction to close the entire WikiLeaks website, including backup sites where the documents were attracting global interest. 
+
+Wikileaks warned Julius Baer Bank that their failure to respond openly to Elmer's allegations would only draw further scrutiny from the public and regulators alike. This is exactly what happened, in a classic demonstration of the link:https://en.wikipedia.org/wiki/Streisand_effect[Streisand Effect]. By shutting down WikiLeaks, Julius Baer Bank attracted a deluge of bad publicity.  
+
+The injunction was challenged in a joint action by civil liberties groups including the Electronic Frontier Foundation (EFF) and the American Civil Liberties Union (ACLU). Another brief was filed by a dozen media organisations including the Associated Press (AP) and the Los Angeles Times. And yet another brief was filed by Ralph Nader and the California First Amendment Coalition (CFAC).
+
+On 21 February 2008 a link:https://www.nytimes.com/2008/02/21/opinion/21thu3.html?_r=1&[New York Times editorial] condemned "the disabling of Wikileaks.org, a muckraking Web site" and demanded the court decision be reversed. 
+
+> Federal District Court Judge Jeffrey White ordered Wikileaks’s domain name registrar to disable its Web address. That was akin to shutting down a newspaper because of objections to one article. The First Amendment requires the government to act only in the most dire circumstances when it regulates free expression.
+
+> In a second order, the judge directed Wikileaks not to distribute the bank documents. That was a “prior restraint” on speech, something the courts almost always find violates the First Amendment. If the employee did not have a right to the documents and the bank was injured as a result, a suit against the leaker for monetary damages should be sufficient.
+
+> Much of the law governing the Internet remains unsettled. Still, the free speech burdens of closing down a journalistic Web site are just as serious as closing down a print publication, and courts should tread carefully. 
+
+> For now, the lawsuit appears to have backfired, bringing worldwide publicity to the documents. Enterprising Internet users have found ways to get to the site. We hope it will also educate judges and the public about the importance of giving full protection to online speech.
+
+On 5 March 2008 Julius Baer Bank link:https://docs.justia.com/cases/federal/district-courts/california/candce/3:2008cv00824/200125/105[voluntarily dropped] their demands. The injunction was lifted by the judge and Wikileaks link:https://www.wikileaks.org/wiki/Wikileaks_victorious_over_Bank_Julius_Baer[declared victory]. 
+
+Assange later link:https://media.ccc.de/v/25c3-2916-en-wikileaks#t=826[dismissed] suggestions that the US justice system had simply rectified it's own error. "We outspent a Swiss bank by funding, through our community, twenty-two lawyers instead of three. Justice doesn't just happen. Justice is forced by people coming together and exercising strength, unity and intelligence." 
+
+Rudolph Elmer began co-operating with the US Internal Revenue Service and a US Senate sub-committee probing offshore tax havens.
+
+But the story was not over.  In 2011 Rudolph Elmer appeared at the Frontline Club in London, with two compact disks which he said contained the offshore bank account details of 2,000 "high net worth individuals" and corporations. Images of Elmer handing the CDs to Julian Assange were broadcast around the world. Elmer then returned to Switzerland where he was again arrested. Numerous sources later stated that the disks were empty and contained no bank data. WikiLeaks did not confirm or deny this, but they have not published any further information regarding Julius Baer Bank.
+
+PIC: Elmer CDs
+
+In 2016 the US government filed criminal charges against Julius Baer Bank for helping US clients hide undeclared wealth. The bank link:https://www.economist.com/christmas-specials/2017/12/23/one-mans-fight-against-the-swiss-offshore-banking-system[admitted to conspiracy] and paid a $547 million fine. 
+
+Rudolph Elmer has continued campaigning against banking corruption despite the toll his activism has taken on his health and personal life. On 10 October 2018 his case reached the Supreme Court of Switzerland, who ruled that Elmer had not violated Swiss bank secrecy, so his previous acquittal was confirmed. The court found that because he was employed by the Cayman outfit, not its parent, Elmer was not bound by Swiss secrecy law when he handed data to WikiLeaks in 2008. This is deliciously ironic, as Elmer had claimed that Julius Baer Bank avoided Swiss laws by pretending work was performed in the Caymans when it was really done in Switzerland.
+
+Elmer was nevertheless found guilty of forging a letter and making a threat, and ordered to pay $325,000 costs. The forgery charge relates to a link:https://wikileaks.org/wiki/Julius_Baer_to_Angela_Merkel[fake letter] from Julius Baer Bank to German Chancellor Angela Merkel, which Elmer admitted adding to the 2007 batch of documents he forwarded to Wikileaks "as a test, to see if they would filter material before publishing". WikiLeaks had quickly identified the letter as a probable fake but left it online because "the identity of forger and their motivation remain of strong journalistic interest". 
+
+Elmer told Swiss media: "I have certainly made mistakes. My emotions have been out of control." 
+
+Switzerland still does not have anti-stalking laws. Attempts to establish legislation in 2007 and 2008 both link:https://www.stalkingriskprofile.com/docs/Stalking%20and%20Swiss%20Law.pdf[failed]. 
+
+
+* 
+
+=== Economist Index on Censorship Freedom of Expression award
+
+PIC x2 Assange 2008 index
+
+In March 2008 WikiLeaks won the link:https://www.indexoncensorship.org/2008/03/awards-2008/[2008 Economist Index on Censorship Freedom of Expression award]. These awards "exist to celebrate individuals or groups who have had a significant impact fighting censorship anywhere in the world".
+
+Winners were honoured at a "gala celebration" in London. Judges cited previous WikiLeaks releases as well as their courageous stance against censorship by Julius Baer Bank. 
+
+* 
+
+=== US Military Investigation of WikiLeaks 
+
+https://wikileaks.org/wiki/U.S._Intelligence_planned_to_destroy_WikiLeaks,_18_Mar_2008
+
+WikiLeaks had by now attracted the attention of the US Department of Defense (DoD). On 18 March 2008 the US Army Counterintelligence Centre published a secret 32-page link:http://file.wikileaks.org/file/us-intel-wikileaks.pdf[report] titled "Wikileaks.org — An Online Reference to Foreign Intelligence Services, Insurgents, or Terrorist Groups?" Unauthorized disclosure of the report, which assessed "the counterintelligence threat posed to the US Army by the Wikileaks.org Web site", was subject to criminal sanctions. 
+
+> Wikileaks.org, a publicly accessible Internet Web site, represents a potential force protection, counterintelligence, operational security (OPSEC), and information security (INFOSEC) threat to the US Army. 
+
+The report struggled to assess who might be leaking information to WikiLeaks and whether more information was in the pipeline:
+
+> The possibility that a current employee or mole within DoD or elsewhere in the US government is providing sensitive information or classified information to Wikileaks.org cannot be ruled out. Wikileaks.org claims that the leakers or whistleblowers of sensitive or classified DoD documents are former US government employees. These claims are highly suspect, however, since Wikileaks.org states that the anonymity and protection of the leakers or whistleblowers is one of its primary goals... 
+
+> Wikileaks.org most likely has other DoD sensitive and classified information in its possession and will continue to post the information to the Wikileaks.org Web site.
+
+The report authors, who referred to Julian Assange as "the foreign staff writer for Wikileaks.org", were concerned about the old "wiki" format of the website and falsely concluded that "there is no editorial review or oversight to verify the accuracy of any information posted to the Web site". They identified "trust" as the key to WikiLeaks' success, and therefore also a potential way to destroy it:
+
+> Wikileaks.org uses trust as a center of gravity by assuring insiders, leakers, and whistleblowers who pass information to Wikileaks.org personnel or who post information to the Web site that they will remain anonymous. The identification, exposure, or termination of employment of or legal actions against current or former insiders, leakers, or whistleblowers could damage or destroy this center of gravity and deter others from using Wikileaks.org to make such information public.
+
+The report also expressed confidence that US government hackers could penetrate WikiLeaks dropbox security: "the obscurification technology used by Wikileaks.org has exploitable vulnerabilities".
+
+WikiLeaks did not get it's hands on this report until 2010, when it's release made global headlines. WikiLeaks noted that efforts to damage the organisation's key "trust" must have been ineffective because "two years have passed since the date of the report, with no WikiLeaks' source exposed".
+
+*
+
+On 20 March 2008 WikiLeaks published the US Air Force's detailed classified link:https://wikileaks.org/wiki/US_Air_Force_JDAM_Tactical_Manual[Tactical Manual] for Joint Direct Attack Munitions (JDAMs), a GPS guidance kit that converts "dumb bombs" into "smart" munitions. Julian Assange later called this "the most strategically significant U.S. military development in the past 15 years. 
+
+> A single B2 stealth bomber is capable of releasing 80 pre-targeted JDAM fitted bombs and leveling all the critical infrastructure of a medium-sized city in one overflight. Most bombings in Iraq are now JDAM.
+
+There was no media interest in the leak. The link:https://wikileaks.org/wiki/Talk:US_Air_Force_JDAM_Tactical_Manual[Talk page] on wikileaks.org has a single message: "DELETE THIS NOW OR YOU WILL BE PROSECUTED!" The manual is still online, although quite a few links to it seem broken. 
+
+* 
+
+=== Church of Scientology
+
+Julian Assange had been an outspoken critic of the Church of Scientology since at least 1996 (see Chapter One). When US lawyers representing the Church had demanded information about one of his Suburbia ISP customers, Assange link:https://www.complex.com/pop-culture/2015/03/scientology-going-clear-wikileaks[ignored their demands], warned his customer that the Scientologists were pursuing him, and encouraged his other customers to join anti-Church protests: 
+
+> To the Church the battle isn't won in the courtroom. It is won at the very moment the legal process starts unfolding, creating fear and expense in those the Church opposes. Their worst critic at the moment is not a person, or an organization but a medium — the Internet. The Internet is, by its very nature, a censorship free zone. Censorship, concealment and revelation (for a fee) is the Church's raison d'être.
+
+On 24 March 2008 WikiLeaks link:https://wikileaks.org/wiki/Church_of_Scientology_collected_Operating_Thetan_documents[published] the Church of Scientology's 'Operating Thetan' documents, a 612-page compilation of material written for Scientologists by founder L. Ron Hubbard, a popular science fiction writer. These manuals, which documented the eight levels (OT1 to OT8) through which members could progress, were called the church's "secret bibles". 
+
+While the Scientologists had previously sued CNN and Time magazine for releasing excerpts of these documents, this was "believed to be the first time the full unedited version has become publicly available". The full release also included hand-written notes from Hubbard and letters from Hubbard to individuals who had passed the OT levels.
+
+Predictably, the Scientologists demanded WikiLeaks remove the information from their site because it was copyrighted and publication infringed their intellectual-property rights. WikiLeaks responded by releasing "several thousand additional pages of Scientology material" and calling the church "an abusive cult" that "aids and abets a general climate of Western media self-censorship".
+
+> WikiLeaks will not comply with legally abusive requests from Scientology any more than WikiLeaks has complied with similar demands from Swiss banks, link:https://www.wikileaks.org/wiki/Stemedica/Dr._Art_Tucker_letter[Russian offshore stem-cell centers], former African kleptocrats, or the Pentagon. 
+
+> If the West cannot defend its cultural values of free speech and press freedoms against a criminal cult like Scientology, it can hardly lecture China and other state abusers of these same values."
+
+WikiLeaks.org still hosts link:https://wikileaks.org/wiki/Category:Scientology[over 100 pages] about Scientology.
+
+*
+
+Curiously, link:https://wikileaks.org/wiki/Church_of_Scientology%27s_%27Operating_Thetan%27_documents_leaked_online[analysis] of the Scientology documents was authored on Wikileaks.org by "Jason Safoutin of Wikinews", and Wikinews also link:https://en.wikinews.org/wiki/Church_of_Scientology%27s_%27Operating_Thetan%27_documents_leaked_online[hosted] the full release. This may be partly because, as Assange later link:https://www.foxnews.com/story/watchdog-web-site-draws-legal-threats-from-scientologists-mormons[stated] "our normal fare is government corruption and military secrets, so it seemed that this nutty religious organization was pretty inconsequential in terms of what we normally do."
+
+Like Wikipedia, Wikinews is controlled by the "Wikimedia foundation" (no relation to Wikileaks). In the months after the Scientology release, there were link:https://wikileaks.org/wiki/Wikinews_suppressed_Wikipedia_pornography_investigation[increasing] link:https://wikileaks.org/wiki/Wikinews_suppressed_article_on_Barbara_Bauer_vs._Wikipedia_case[complaints] about link:https://wikileaks.org/wiki/Did_the_Wikimedia_Foundation_lie_about_muzzling_Wikinews%3F[censorship] from writers at Wikinews. 
+
+In April 2008, both Wikileaks and Wikinews published a key document from the Mormon church (also known as the Church of Jesus Christ of Latter-day Saints) titled the link:https://www.wikileaks.org/wiki/Mormon_Church_Handbook_of_Instructions_(1999)[Handbook of Instructions]. Again the church cited copyright law, demanding the documents be removed. The Wikimedia Foundation complied, but WikiLeaks did not. Assange said Wikileaks would welcome another lawsuit:
+
+> The lawsuits validate the documents we released and bring attention to other people who are revealing incriminating information about these or other organizations. It also brings further attention to our organization as a whole, and it's possible to create a situation where the lawsuit itself brings out the material in public and is a revealer of truth. 
+
+*
+
+=== North Korea Handbook
+
+On 1 April 2008 WikiLeaks released the 1997 version of the link:https://wikileaks.org/wiki/US_North_Korea_Country_Handbook_%281997%29[US Department of Defence's Handbook on North Korea]. Quartz magazine link:https://qz.com/955987/please-give-us-ammo-the-us-marines-unverified-military-travel-guide-to-north-korea/[called] the picturesque document an odd mixture of "a military manual with travel guide", including a brief history of North Korea, details about geography and infrastructure, a guide to Pyongyang’s military doctrine, and "expected plans for how the North might invade South Korea". There was also a "very pre-9/11 description of terrorism", which the US Department of Defence said “may seem like mindless violence committed without logic or purpose, but it isn’t.”
+
+The Quartz magazine story was later updated with a correction: 
+
+> An earlier version of this story attributed the unearthing of the manual to Wikileaks. It actually was released by the US Defense Intelligence Agency in 2004, in response to a Freedom of Information Act request.
+
+This triggered some feverish online debate, with some saying it proved WikiLeaks could not be trusted, others wondering if WikiLeaks was aware of the previous release, and still others questioning whether it even mattered: if a document is newsworthy but being ignored, surely there's value in drawing attention to it? In years to come WikiLeaks would publish many documents that were already online but deserved more attention, culminating with the 2013 link:https://wikileaks.org//plusd/[PlusD Public Library of US Diplomacy], a searchable database of previously hard-to-find US diplomatic records. 
+
+* 
+
+=== British MoD Gets Mad  
+
+On 16 April 2008 WikiLeaks published the British Army's restricted link:https://wikileaks.org/wiki/UK_ISTAR_intelligence_handbook_%282007%29[ISTAR intelligence handbook] (dated June 14, 2007) which included a list of "taskable intelligence collection platforms". ISTAR stands for "intelligence, surveillance, target acquisition, and reconnaissance". Julian Assange called the leak a "classified UK/US spy plane compendium and tasking guide, with plenty of approachable pictures and released in violation of the Official Secrets Act".
+
+> Ironically, according to the security classification Wikileaks is compelled under U.K. law to both publish and never delete the document.
+
+Global media ignored the release. 
+
+On 15 July 2008, WikiLeaks published another restricted British Army document, this one detailing UK military tactics in Iraq and Afghanistan. Dated October 2007, the 442-page file was titled link:https://wikileaks.org/wiki/UK_Tactics_for_Iraq_and_Afghanistan_2007[Part 9 - Tactics For Stability Operations]. It provided "the latest detailed guidance for conducting stability operations" which were defined, along with offence and defence operations, as "the three principal land tactical activities [which] may be conducted concurrently". Advice included:
+
+> Feel free to return a hug or kiss on the cheek, initiated by an Iraqi man. This is a sign of friendship, not homosexuality.
+
+> Immediate incapacitation of the suicide bomber, using lethal force, is likely to be the only means of stopping him.
+
+Again the media took no notice, and there are not even any comments on the link:https://www.wikileaks.org/wiki/Talk:UK_Tactics_for_Iraq_and_Afghanistan_2007?action=edit&redlink=1[Talk page] from WikiLeaks volunteers. But the publication of these resticted military documents certainly caught the attention of the UK's Ministry of Defence (MoD). Assuming disgruntled soldiers were responsible, they launched an investigation and tried to block WikiLeaks from all MoD computers. 
+
+In 2009 a user named "Fake Ben Laurie" (account now suspended) link:https://www.whatdotheyknow.com/user/fake_ben_laurie[posted] the results of numerous Freedom of Information (FOI) requests to various UK government offices at the WhatDoTheyKnow.com site. The responses showed that the 2008 leaks had surprised UK military personnel who had never heard of WikiLeaks. From "the helpdesk" on link:https://www.whatdotheyknow.com/request/11208/response/31823/attach/html/2/20090619%20Response%20U.doc.html[5 November 2008]: 
+
+> There are thousands of things on here, I literally mean thousands. Not just UK MoD but other places as well. Everything I clicked on to do with MoD was restricted which then had links within that and then links again and so on. It is huge. 
+
+On 25 June 2009 the Guardian's David Leigh finally wrote a short article about the releases and the MoD's response, titled link:https://web.archive.org/web/20140103044647/https://www.theguardian.com/uk/2009/jun/25/wikileaks-blocked-ministry-defence[Ministry of Defence blocks Wikileaks].  
+
+On 30 September 2009 WikiLeaks link:https://wikileaks.org/wiki/UK_Ministry_of_Defence_continually_monitors_WikiLeaks:_eight_reports_into_classified_UK_leaks,_29_Sep_2009[released] nine more documents, apparently obtained via the same "Fake Ben Laurie" link:http://www.whatdotheyknow.com/request/records_relating_to_the_activiti_5[FOI method], which showed "the UK MoD has a dedicated internet monitoring unit, based in the Royal Airforce, which as part of its activities, monitors WikiLeaks." The documents showed MoD responses to WikiLeaks releases.
+
+The WikiLeaks release page included a scathing comment on the media's failure to report these important leaks:
+
+> For all the leaks noted here, and many jargon filled documents like them, there has been no investigation or reportage by the mainstream, alternative or academic press. The economic cost of using google and a military dictionary seems to prevent reportage of such leaks in the current media economy. Any policy travesty can be hidden in jargon, even when the form is a full, classified, current, document about war activities in Iraq and Afganistan. 
+
+From April to September 2008, WikiLeaks pumped out a lot more stories which triggered very little media attention. Was it the quality of their leaks, or was something else going on? 
+
+* 
+
+On 24 April 2008 WikiLeaks published a .zip file containing information about a recent link:https://wikileaks.org/wiki/Zimbabwe_Chinese_weapons_shipment_documentation_(2008)[Chinese weapons shipment to Zimbabwe]. Their source said the information was first released by a journalist based in Cape Town, who called local radio to warn of the arrival of arms for Zimbabwe. Some local journalists had doubted whether there were arms among the cargo but the WikiLeaks files included a detailed inventory. It link:https://wikileaks.org/wiki/Talk:Zimbabwe_Chinese_weapons_shipment_documentation_(2008)[appears] the ship returned to China without unloading the arms. 
+
+* 
+
+On 29 April 2008 Julian Assange published his angry link:https://www.guernicamag.com/the_hidden_curse_of_thomas_pai/[Thomas Paine article] (see Chapter Two) complaining that media were ignoring WikiLeaks releases because they were too lazy to publish stories without some form of financial coercion. He said journalists were now doing cut-and-paste press releases instead of real investigative work, which meant most of the information in the public sphere was coming from groups with vested interests. 
+
+> In the last two weeks, the English Wikileaks has obtained and released over 50 individual or collected, original, unreported, confidential, classified or censored documents, books, photos or films... Take a look at the material... and ask yourself why none has been reported without our intervention. 
+
+Assange said that people were only hearing about these releases because WikiLeaks was "lobbying for their uptake" and "bribing everyone with subsidized copy" while other releases had not been reported at all because Wikileaks lacked the resources to "push" them. 
+
+This article highlighted two potential weaknesses in the WikiLeaks organisation's business model: it's dependence on the "mainstream media" for publicity, and on public donations for funding. Of course there were other ways to make money, and the online community was increasingly abandoning the dreaded "MSM", but these issues became recurring problems. 
+
+*
+
+WikiLeaks carried on publishing. Releases in the following months included: 
+
+
+15 May 2008 - Latest European Commission link:https://wikileaks.org/wiki/EU_Common_Agricultural_Policy_proposals_-_%22CAP_Health_Check%22_(2008)[proposals] for reform of the Common Agricultural Policy (CAP). Analysis suggested European CAP reform was link:https://wikileaks.org/wiki/Leaked_documents_suggest_European_CAP_reform_just_a_whitewash[just a whitewash]. 
+
+22 May 2008 - Proposed draft of the secret link:https://wikileaks.org/wiki/Proposed_US_ACTA_multi-lateral_intellectual_property_trade_agreement_(2007)[Anti-Counterfeiting Trade Agreement] (ACTA) "followed by dozens of other publications, presenting the initial leak for the whole ACTA debate happening today". Media analysis condemned the negotiations for link:https://wikileaks.org/wiki/ACTA_trade_agreement_negotiation_lacks_transparency[lacking transparency]. 
+
+13 June 2008 - A sensitive 219-page 2004 US military manual titled link:https://wikileaks.org/wiki/US_Special_Forces_counterinsurgency_manual_FM_31-20-3[US Special Forces Foreign Internal Defense Tactics Techniques and Procedures for Special Forces]. WikiLeaks suggested it could be best described as "What we learned about running death squads and propping up corrupt government in Latin America and how to apply it to other places". 
+
+> The document, which is official US Special Forces policy, directly advocates training paramilitaries, pervasive surveillance, censorship, press control, restrictions on labor unions & political parties, suspending habeas corpus, warrantless searches, detainment without charge, bribery, employing terrorists, false flag operations, concealing human rights abuses from journalists, and extensive use of "psychological operations" (propaganda) to make these and other "population & resource control" measures palatable. 
+
+Julian Assange published a copy of the accompanying analysis in Spanish titled link:https://wikileaks.org/wiki/C%C3%B3mo_entrenar_a_escuadrones_de_la_muerte_y_aplastar_revoluciones_de_El_Salvador_a_Iraq[Como entrenar a escuadrones de la muerte y aplastar revoluciones de El Salvador a Iraq] (How to train death squads and smash revolutions from El Salvador to Iraq). WikiLeaks noted that other versions of this manual could be found online, link:https://wikileaks.org/wiki/Talk:US_Special_Forces_Foreign_Internal_Defense_Tactics_Techniques_and_Procedures_for_Special_Forces,_FM_31.20-3,_2003[explaining] to supporters that "Wikileaks has changed the entry criteria slightly. It's part of our mission to keep these documents before the public."
+
+16 June 2008 - An link:https://www.wikileaks.org/wiki/Sterilization_and_abortion_practices_in_Texas_Catholic_hospitals[anonymous report] on Texas Catholic hospitals showing they violated church ethics with at least 9,684 cases of sterilizations and 39 legally induced abortions from 2000-2003. WikiLeaks noted that "while sterilizations and abortions are legal in the United States, they are considered immoral by the Catholic Church and many Catholics". The link:https://wikileaks.org/wiki/Texas_Catholic_hospitals_did_not_follow_Catholic_ethics,_report_claims[Catholic News Agency] reported:
+
+> The July 13 issue of Our Sunday Visitor examines the anonymous group’s report, based upon data from the Texas government, which requires most major hospitals to file information from inpatient records. The group reportedly includes a self-described biostatistician who says she worked with four other people, including a computer scientist and a medical ethicist. The biostatistician says the group chose to remain anonymous because of “concern over job loss or retaliation.”
+
+> According to Our Sunday Visitor, the researchers said they were motivated by a desire to increase transparency and accountability in Catholic hospitals, to inform the public about practices in Catholic health systems, and to encourage accountability for the Religious sisters who own and run the systems. The researchers believe the unethical practices could be taking place nationwide. 
+
+20 June 2008 - link:https://wikileaks.org/wiki/USAjudo:_Fletcher_Thorton_drug-sex_affidavits_and_suspention_letter_1982[Letters and affidavits] regarding the suspension of Fletcher Thornton, a US judo official accused of child molestation. The source stated: 
+
+> A major political figure in USAjudo has been repeatedly accused of taking advantage of underage women. Due to politics nothing has been done and the information buried. Here is what USAjudo doesnt want people to see.
+
+A month later the link:https://wikileaks.org/wiki/Claims_of_molestation_resurface_for_US_judo_official[New York Times] reported that the United States Olympic Committee had announced a formal inquiry. Fletcher Thornton resigned the next day. 
+
+1 July 2008 - link:https://wikileaks.org/wiki/US_Marines_Midrange_Threat_Estimate_2005-2015[US Marines Midrange Threat Estimate], a 104-page document detailing possible threats that the US Marines had identified for the coming years. 
+
+5 July 2008 - A link:https://wikileaks.org/wiki/East_Timor_Prime_Minister_Xanana_Gusmao_trebles_rice_contract_with_party_VP_to_$14_million_2008[copy of a rice contract] awarded by the Prime Minister of Timor L'Este Xanana Gusmao, allegedly to the Vice President of his own political party. The source claimed the contract was "awarded without tender at exagerrated prices" and "symptomatic of what may happen when Xanana doubles the national budget this week". Two days later Australian media link:https://wikileaks.org/wiki/Gusmao%27s_$15m_rice_deal_alarms_UN[reported] that the deal was "ringing alarm bells at the UN and among the impoverished country's main donors, including Australia." But Gusmao responded in detail to defend himself. The WikiLeaks link:https://wikileaks.org/wiki/Talk:Gusmao%27s_$15m_rice_deal_alarms_UN[Talk page] suggested that lessons should be learned from the leak, which may have been politically motivated. 
+
+11 July 2008 - A link:https://wikileaks.org/wiki/NTDTV_China_sat_channel_shutdown_transcript_2008[transcript of discussions] between a Eutelsat representative in Beijing and a person who the employee thought was a Chinese Propaganda Department official. Analysis by link:https://wikileaks.org/wiki/Eutelsat_suppresses_independent_Chinese-language_TV_station_NTDTV_to_satisfy_Beijing[Reporters Without Borders] showed that French satellite provider Eutelsat covertly removed an anti-communist TV channel to satisfy Beijing. 
+
+11 July 2008 - A 23-page internal link:https://wikileaks.org/wiki/Shriners_Hospitals_for_Children_Special_Investigative_Report_2008[Special Investigative Report] exposing corruption at a network of twenty two children's hospitals in the USA and Canada. Analysis by the link:https://wikileaks.org/wiki/Report_on_Shriners_raises_question_of_wrongdoing[New York Times] showed "the inner workings of what is the nation’s wealthiest charity" suggesting "questionable financial dealings". The link:https://en.wikipedia.org/wiki/Shriners_Hospitals_for_Children[Wikipedia page] for Shriners Hospitals for Children currently states that funds in 2009 "declined from $8 billion to $5 billion in less than a year because of the poor economy" but does not mention the corruption inquiry.
+
+16 July 2008 - Wikileaks link:https://wikileaks.org/wiki/Kenyan_PM_Raila_Odinga_2007_secret_MoU_with_Muslim_leaders_and_Extraordinary_Rendition_in_East_Africa[released] a document further debunking claims that a Kenyan politician close to Barack Obama had sought votes by virtually pledging to turn the Christian country into a militant Muslim stronghold. Wikileaks had already link:https://wikileaks.org/wiki/MOU_between_Raila_Odinga_and_Muslims[published] the forged document, listing it as a likely fake, on 14 November 2007. Wikileaks also released a followup letter and the names of witnesses to the signing of the document. link:https://wikileaks.org/wiki/Framing_Obama:_what_the_Spectator_and_the_New_York_Sun_won%27t_tell_you[Analysis] by Julian Assange and Joel Whitney (of Guernica magazine) condemned journalists from The New York Sun, the UK Spectator and other media outlets who took the document at face value. 
+
+25 August 2008 - link:https://wikileaks.org/wiki/Attempted_assassination_of_President_Ramos-Horta_investigation_documents_2008[Six scanned documents] relating to the attempted assassination of Timor L'Este President José Ramos-Horta, including autopsy reports for rebel leader Alfredo Reinado and another rebel shot dead in the attack. The documents also included phone records, from which WikiLeaks staff link:https://wikileaks.org/wiki/East_Timor_Presidential_assassination_intelligence_intercept_map_2008[created a map], and a letter of safe passage from Ramos-Horta to Reinado and his men during "the period of the process of dialogue". 
+
+Australian media later https://wikileaks.org/wiki/Dili_investigator_called_to_Canberra_as_evidence_of_execution_mounts[reported] that "potentially explosive developments" were being kept secret because Reinado was "a cult hero" and "authorities fear an outbreak of violence if it becomes known that Reinado was not responsible for shooting the popular president". 
+
+> The official version of events is that Reinado led rebels to the homes of Mr Ramos-Horta and the Prime Minister, Xanana Gusmao, to either assassinate or kidnap them as part of an attempted coup. 
+
+4 September 2008 - A 19-page link:https://wikileaks.org/wiki/US_Treasury_Strategic_Direction_2009-2011[US Treasury Strategic Direction] report from the Office of Intelligence and Analysis (OIA) for the years 2009 to 2011. Designated "For Official Use Only" and dated July 2008, the document precedes the full-blown Global Financial Crisis, which it totally fails to predict, and instead focuses heavily on foreign US security issues including Al Qaeda, Iraq and "Adversaries’ Financial Vulnerabilities". 
+
+=== Bundesnachrichtendienst
+
+On 11 September 2008 WikiLeaks published link:https://wikileaks.org/wiki/Schaefer_report_missing_pages_on_BND_contacts_with_journalist_Josef_Hufelschulte_2006[eleven missing pages] from the 2006 Schaefer report, which investigated spying on journalists by Germany's secret intelligence service, the Bundesnachrichtendienst (BND). The missing pages described BND contacts with an investigative journalist from Focus magazine, Josef Hufelschulte, who won a court case to keep them secret. The missing pages showed Hufelschulte may have been unwittingly manipulated by the BND. link:https://wikileaks.org/wiki/How_German_intelligence_infiltrated_Focus_magazine[Analysis] was provided in English and German by Julian Assange and Daniel Schmitt (better known as Daniel Domscheit-Berg):
+
+> The document in general shows the extent to which the collaboration of journalists with intelligence agencies has become common and to what dimensions consent is manufactured in the interests of those involved. 
+
+Two months later, WikiLeaks reported that the censored pages remained unreported by German media "and in particular Focus magazine". 
+
+On 13 November 2008 WikiLeaks revealed over two dozen secret IP address ranges in use by the BND, link:https://wikileaks.org/wiki/German_Secret_Intelligence_Service_(BND)_T-Systems_network_assignments,_13_Nov_2008[publishing] an internally distributed mail from German telecommunications company T-Systems (Deutsche Telekom). The following night, link:https://wikileaks.org/wiki/German_intelligence_scrubs_European_records_after_Wikileaks_exposure[according to WikiLeaks], "a massive deletion operation took place at the European Internet address register (RIPE) to scrub references" to the BND's cover. This included removal of embarrassing information on the BND's own Wikipedia page.
+
+> The integrity and transparency of the RIPE system is not assisted by the T-Systems deletion. German citizens may wonder at the double standard. At a time when the population's Internet addresses are being recorded by ISPs under laws derisively referred to as "Stasi 2.0", the "real Stasi"—the BND, has had the largest telco in Germany scrub its addresses from the European record within 24 hours of their exposure. 
+
+Meanwhile in November 2008, three BND agents were arrested and deported from Kosovo after photographing a recently bombed building in Pristina. The Kosovo government blamed the agents for the attack, seizing their note books and electronic files. Wikileaks published an link:https://wikileaks.org/wiki/The_End_of_the_Affair%3F_The_BND,_CIA_and_Kosovo%27s_Deep_State[article by US journalist Tom Burghardt] about the bungled BND operation, plus a link:https://wikileaks.org/wiki/BND_Kosovo_intelligence_report,_22_Feb_2005[25-page BND analysis] of organized crime in the Balkans, dated 22 February 2005. 
+
+The head of the BND link:https://theworldtomorrow.wikileaks.org/wiki/German_spy_chief_threatens_Wikileaks[threatened] Wikileaks with "immediate criminal prosecution" if it did not remove all files or reports related to the BND, and claimed to have already engaged BND lawyers. WikiLeaks responded by noting that their documents were now "verified by the Bundesnachrichtendienst through a request for removal." WikiLeaks also published their link:https://wikileaks.org/wiki/Correspondence_between_BND_and_Wikileaks,_as_of_Dec_22_2008[full correspondence] with the BND. 
+
+* 
+
+=== Sarah Palin's Yahoo! emails 
+
+https://wikileaks.org/wiki/Sarah_Palin_Yahoo_account_2008
+
+On 17 September 2008 WikiLeaks link:https://wikileaks.org/wiki/VP_contender_Sarah_Palin_hacked[published] the contents of a Yahoo! email account belonging to US politician Sarah Palin, who at the time was Governor of Alaska and the running mate of Republican presidential nominee John McCain. 
+
+> Circa midnight Tuesday the 16th of September (EST) activists loosely affiliated with the group 'anonymous' gained access to U.S. Republican Party Vice-presidential candidate Sarah Palin's Yahoo email account gov.palin@yahoo.com and passed information to Wikileaks. Governor Palin has come under criticism for using private email accounts to conduct government business and in the process avoid transparency laws. The zip archive made available by Wikileaks contains screen shots of Palin's inbox, two example emails, address book and a couple of family photos. The list of correspondence, together with the account name tends to re-enforce the criticism.  
+
+A college student claimed responsibility and link:https://www.zdnet.com/article/attacker-hacking-sarah-palins-email-was-easy/[told media] that hacking into Palin's email was easy: he reset her password to "popcorn" after successfully guessing her ZIP code and Googling the answer to her security question: “Where did you meet your spouse?" The FBI later identified the hacker as David Kernell, the 20-year-old son of a Democratic State Representative. Kernell was sentenced in 2010 to a year in federal prison. He link:https://www.newsmax.com/thewire/david-kernell-sarah-palin-hacker-dies/2018/02/09/id/842464/[died] in 2018 after being diagnosed with multiple sclerosis four years earlier. 
+
+Media criticism before the hack had focussed on another Palin email account: gov.sarah@yahoo.com. Within hours of the WikiLeaks release, both of these Yahoo! accounts were deleted. 
+
+Palin, McCain and even Barak Obama's spokesman were quick to condemn the hack. But in January 2017, after watching Julian Assange discuss the release of Hillary Clinton's emails, Sarah Palin link:https://www.businessinsider.com.au/sarah-palin-apologizes-to-julian-assange-2017-1?op=1&r=US&IR=T[apologized repeatedly on Facebook]: 
+
+> I apologize for condemning Assange when he published my infamous (and proven noncontroversial, relatively boring) emails years ago.
+
+PIC
+
+* 
+
+=== Kenya: The Cry of Blood  
+
+In 2007 WikiLeaks exposed widespread government corruption in Kenya, and the politicians named were voted out in a December 2007 poll. But when former President Mwai Kibaki was announced the winner of the election, months of violence erupted across the country, with citizens splitting along political and ethnic lines. In February 2008 the Kenyan government set up the link:https://en.wikipedia.org/wiki/Waki_Commission[Waki Commission] to identify those reponsible for the widespread violence and bring them to justice. 
+
+On 31 August 2008 WikiLeaks published a link:https://wikileaks.org/wiki/Kenyan_Election_Violence_Alleged_Perpetrators_2008[54-page excerpt] from the 529-page Waki Report into the post-election violence. WikiLeaks called the leak a "secret and redacted list of Kenyan violence financiers, planners and perpetrators" including former and serving Cabinet ministers.
+
+> The summary emphasizes this being an alleged list yet hopes that the list provides a basis for further investigation through law enforcement and relevant agencies. 
+
+The Waki Commission's report was handed over to the President and Prime Minister on 15 October 2008, while the secret list of alleged perpetrators was handed over to the head of the United Nations, who passed it on to the head of the International Criminal Court. The Kenyan government was given twelve months to set up a justice tribunal, no easy task in a country still racked with corruption and violence, as local media link:https://wikileaks.org/wiki/International_Criminal_Court_will_handle_politicians_but_who_will_tame_police[recognised]: 
+
+> The Waki panel recommended the International Criminal Court (ICC) to rein in the politicians. But who will tame the police? 
+
+On 1 November 2008 WikiLeaks published a report from the Kenya National Commission on Human Rights (KNCHR), titled link:https://www.wikileaks.org/wiki/Kenya:_The_Cry_of_Blood_-_Report_on_Extra-Judicial_Killings_and_Disappearances,_Sep_2008[The Cry of Blood], which documented  "an orgy of extra-judicial killings and disappearances" by Kenyan police, with over 500 victims. The report was not publicly available in Kenya, even though it contained "evidence of a high-level policy to assassinate Kenyan citizens with impunity" and "the policy is still in effect". 
+
+WikiLeaks listed eleven key findings drawn from the KNCHR investigations, concluding:
+
+> The report needs to be widely read because the Kenya press will not discuss this evidence of crimes committed by the Kenya Police for political reasons - the victims are mainly alleged members of the Mungiki sect which because of sustained political propaganda is regarded by many Kenyans as a terrorist cult.
+
+> When the crimes of the Kenya Police are widely known, there will be pressure to commit the Kenya Police Commissioner and other high ranking Kenyans to the International Criminal Court. They have been able to avoid justice and enjoy impunity in Kenya. Until now. 
+
+The WikiLeaks package included a list of disappearances and executions, plus post mortems and mortuary records. Gruesome stuff. But the WikiLeaks link:https://www.wikileaks.org/wiki/Talk:Kenya:_The_Cry_of_Blood_-_Report_on_Extra-Judicial_Killings_and_Disappearances,_Sep_2008?action=edit&redlink=1[Talk page] remained empty. Assange later told journalism.co.uk:
+
+> “The material was important. It was difficult to get Western press attention to it. We ran it on our front page for a week. Most journalists didn’t care about it. Even regular readers didn’t care about it.” 
+
+Eventually the British media began to pick up the story. In early February 2009 a UN team headed by Prof Philip Alston, a Special Rapporteur on extra-judicial executions, link:https://wikileaks.org/wiki/UN_group_to_probe_poll_chaos_deaths[arrived] in Nairobi. Alston blamed the police for the widespread killings and link:https://wikileaks.org/wiki/UN_probe_indicts_Kenya_on_police_killings[recommended] the sacking of both the Police Commissioner and Kenya’s Attorney General. He also  recommended that ICC prosecutors should take over the murder cases. By now at least 1,133 people had been killed and a further 350,000 had been rendered homeless.
+
+Weeks later, on 5 March 2009, two "Wikileaks related human rights lawyers" were "shot dead at close range in their car less than a mile from President Kibaki's residence". WikiLeaks link:https://wikileaks.org/wiki/Murder_in_Nairobi:_Wikileaks_related_human_rights_lawyers_assassinated[stated] that "part of their work forms the basis of the 'Cry of Blood' report and subsequent follow ups". WikiLeaks called for information and assistance to post a reward for the capture of the murderers.
+
+The link:https://wikileaks.org/wiki/UN_urges_probe_into_Kenya_murders[BBC reported] that Oscar Kamau Kingara and John Paul Oulo were shot dead just hours after a government spokesman accused their human rights group, the Oscar foundation, of aiding a criminal gang. 
+
+> "The eyewitnesses on the scene saw the two vehicles create a jam, stop the traffic until they came out, gunned down these two human rights officers and paraded and ensured that nobody took these two to hospital until they were dead." 
+
+Students from the nearby University of Nairobi took the men's bodies into the University’s Halls of Residence, which was attacked by police with teargas. A student was killed as police opened fire to retrieve the bodies ‘for further investigations.’
+
+Kenyan Prime Minister Raila Odina, who had formed an unsteady coalition with President Kibaki, condemned the killings:
+
+> I fear we are flirting with lawlessness in the name of keeping law and order. In the process, we are hurtling towards failure as a state. 
+
+The US Ambassador offered FBI help to investigate the murders, which the Kenyan government declined. The UN Special Rapporteur link:https://www.nation.co.ke/News/-/1056/542438/-/u32wc5/-/index.html[said] an independent team should be called to investigate "from somewhere like Scotland Yard or the South African Police” but Kenya's Police Commissioner replied that his police could crack murder cases and this latest one should not receive “special treatment.”
+
+In the first week of May 2009, a group of Kenyan women held a link:http://news.bbc.co.uk/2/hi/africa/8025457.stm[sex strike], demanding the President and the Prime Minister come together to settle their differences. The Women's Development Organisation coalition asked politicians' wives to support the strike, and even offered to pay prostitutes to participate, in order to avoid further violence. 
+
+In June 2009 Julian Assange was link:https://www.amnesty.org.uk/press-releases/amnesty-announces-media-awards-2009-winners[awarded] Amnesty International's New Media award for WikiLeaks' release of the Cry Blood report. Amnesty also link:https://wikileaks.org/wiki/Kenyan_government_must_act_urgently_to_end_impunity_and_bring_about_essential_reforms[issued a statement] calling for urgent Kenyan government reforms. Accepting the award at a London ceremony, Assange link:https://wikileaks.org/wiki/WikiLeaks_wins_Amnesty_International_2009_Media_Award[called for justice]: 
+
+> It is a reflection of the courage and strength of Kenyan civil society that this injustice was documented. Through the courageous work of organizations such as the Oscar foundation, the KNHCR, Mars Group Kenya and others we had the primary support we needed to expose these murders to the world. I know that they will not rest, and we will not rest, until justice is done.
+
+NOTE: Assange link:https://www.wired.co.uk/article/exposed-wikileaks-secrets[reportedly] arrived three hours late for the Amnesty Awards after he took multiple flights to get from Nairobi to London, presumably due to security concerns.
+
+In late 2009 the BBC link:http://news.bbc.co.uk/2/hi/africa/8293745.stm[reported] that rival ethnic groups in Kenya were rearming in readiness for violence ahead of coming polls. The ringleaders of the 2007 election violence remained unpunished. But fortunately the violence abated and Kenya had a peaceful election in 2013 with a record 85.91% voter turnout. 
+
+* 
+
+=== British National Party Membership Lists
+
+On 18 November 2008 WikiLeaks published the link:https://wikileaks.org/wiki/British_National_Party_membership_and_contacts_list,_2007-2008[membership list] of the far-right British National Party (BNP). The list had been copied to WikiLeaks and other sites after it temporarily appeared on a blog. Names, addresses, contact phone numbers and email addresses of 12,801 individuals were included, along with some family connections and job descriptions. 
+
+> The list has been independently verified by Wikileaks staff as predominantly containing current or ex-BNP members, however other individuals who gave their details to the BNP, or one of its fronts, are also represented. Included in this latter category are a handful of journalists and "anti-fascists" who have attempted to infiltrate the organization. 
+
+In Britain it is illegal for police and some other civil servants to join the BNP. Media quickly link:https://www.wikileaks.org/wiki/BNP_leaked_list_claims_first_victims[reported] that several government employees, police officers, soldiers, prison officers, and teachers were on the list. A BNP member later admitted leaking the data and was fined £200 for breaching the Data Protection Act. 
+
+On Friday 21 November WikiLeaks link:https://wikileaks.org/wiki/British_National_Party:_email_on_Altrincham_Muslim_Association,_26_Sep_2008[published] an email from an address on the list, provided by a source who claimed it proved BNP members in the leaked list were racist. The next day, UK police arrested 12 BNP members for handing out a "racist" political pamphlet in Liverpool. WikiLeaks then link:https://wikileaks.org/wiki/British_National_Party:_Racism_Cuts_Both_Ways,_Nov_2008[published] the pamphlet, arguing that the BNP was a registered political party and "if there is any example of speech which must be protected at all costs, surely political pamphleting is it". 
+
+In December 2008 Assange link:https://media.ccc.de/v/25c3-2916-en-wikileaks#t=951[noted] that the BNP release had "resulted in approximately two thousand articles in the British press" and joked that it changed the political landscape "for at least a week or so."
+
+On 24 April 2009 WikiLeaks published the BNP's link:https://wikileaks.org/wiki/British_National_Party_Language_and_Concepts_Discipline_Manual,_July_2005[Language and Concepts Discipline Manual], dated July 2005, which contained 23 rules. The first three: the BNP is not racist; the BNP is not Fascist; the BNP "does not apologize for what it is".  
+
+On 20 October 2009, two days before the BNP's leader was due to make a controversial appearance on the BBC's "Question Time" show, WikiLeaks published an link:https://wikileaks.org/wiki/British_National_Party_membership_list_and_other_information,_15_Apr_2009[updated BNP membership list] from 15 April 2009, with over 16,000 unique membership numbers. Based on membership number ID's, WikiLeaks estimated that around 35,000 memberships had ever been awarded. 
+
+> A notable feature of the April 15 sheet, is that once membership numbers reached a little over 33,000, new membership numbers had 100,000 added to them. The reason for this is unclear, however it has the effect of making the BNP look larger to new recruits and those they talk too, since the numbers on their membership cards are all over 133,000. 
+
+The Guardian link:https://web.archive.org/web/20130908044943/https://www.theguardian.com/politics/2009/oct/19/bnp-members-list-second-leak[noted] the political fallout from the original list: 
+
+> The last time BNP data was published, it emerged that teachers, policemen and former members of the Conservative, Labour and the Lib Dem parties had signed up. Several dozen admitted to being members and were named in the press. The latest list suggests that at least 19 of those members have now left the party.
+
+* 
+
+=== Internet censorship lists
+
+During 2008 governments around the world were getting excited about the idea of Internet censorship lists. They claimed it was the best way to protect citizens from dangerous content like child pornography, while Internet freedom activists saw more sinister motives behind their calls for censorship. In March 2008 WikiLeaks published the link:https://wikileaks.org/wiki/United_Arab_Emirates_Internet_censorship_plan_(2006)[United Arab Emirates online censorship plan], which included a ban on dating sites, homosexuality, and criticism of Islam. 
+
+On 20 December 2008 WikiLeaks published the link:https://theworldtomorrow.wikileaks.org/wiki/Thailand_official_MICT_censorship_list,_20_Dec_2008[Internet censorship list for Thailand]. They said the list was obtained by WikiLeaks Advisory Board member CJ Hinke, who was also director of Freedom Against Censorship Thailand. 
+
+> Every blocked site has the internally noted reason of "lese majeste" -- criticizing the King -- however, it is obvious that many sites were blocked for quite different reasons. It would appear, in fact, that the judiciary did not examine most sites before issuing orders but instead rubber-stamped government requests. 
+
+The list included popular Thai webboards, books critical of the King, and sites belonging to critics of the Royal family. It also included Hillary Clinton's campaign videos, 24 Charlie Chaplin videos, 860 Youtube videos, and The Economist magazine. 
+
+On 23 December 2008, Wikileaks released the secret link:https://wikileaks.org/wiki/Denmark:_3863_sites_on_censorship_list,_Feb_2008[Internet censorship list for Denmark]. This included 3,863 sites blocked by Danish ISPs, who had been voluntarily participating in the censorship scheme since February 2008. The list included the Dutch transport company Vanbokhorst and other sites which had changed hands since being listed. 
+
+> The list is generated without judicial or public oversight and is kept secret by the ISPs using it. Unaccountability is intrinsic to such a secret censorship system. 
+
+> The list has been leaked because cases such as Thailand and Finland demonstrate that once a secret censorship system is established for pornographic content the same system can rapidly expand to cover other material, including political material, at the worst possible moment -- when government needs reform. 
+
+Some wondered if WikiLeaks might find themselves added to the censorship list. WikiLeaks said they would link:https://en.wikinews.org/wiki/Wikileaks_tells_Wikinews_why_they_published_Danish_child_porn_censorship_list[welcome] such action "because it will demonstrate how censorship systems are abused." 
+
+On 5 January 2009 WikiLeaks published the link:https://wikileaks.org/wiki/797_domains_on_Finnish_Internet_censorship_list,_including_censorship_critic,_2008[Internet censorship list of Finland]. The list contained 797 domains, including a critical Finnish anti-censorship site. The WikiLeaks link:https://wikileaks.org/wiki/Talk:797_domains_on_Finnish_Internet_censorship_list,_including_censorship_critic,_2008[Talk page] indicates that Finnish intelligence sought US police help to remove the list from WikiLeaks.org, and the WikiLeaks page containing the list was later censored in Finland. 
+
+In Australia, an anti-censorship activist decided to test the Australian Communications and Media Authority (ACMA) by filing a complaint about WikiLeaks' exposure of the Danish censorship list, on the basis that the WikiLeaks page itself listed child pornography sites. On 16 March 2009 WikiLeaks link:https://wikileaks.org/wiki/Australia_secretly_censors_Wikileaks_press_release_and_Danish_Internet_censorship_list,_16_Mar_2009[published] the activist's complaint and revealed that the ACMA had added two WikiLeaks pages (the Danish list and the press release) to their mandatory Net filtering blacklist. WikiLeaks also published the emailed reply from ACMA (agreeing to the censorship request) and noted that the Australian government had not even tried to contact them. 
+
+> The content on the blacklist is illegal to publish or link to in Australia, with fines of up to $11,000 a day for contraventions.
+
+> The ACMA blacklist is proposed to become the list with which the Australian Government will mandatory block all Australians Internet requests. Presently censorship of access attempts by ISPs is voluntary. The Australian government has faced strong opposition over the scheme, with the Liberal (conservative) and Green (liberal left) opposition parties stating they will vote against it. 
+
+Two days later, after provoking a public outcry, WikiLeaks published the Australian government's full link:https://wikileaks.org/wiki/Australian_government_secret_ACMA_internet_censorship_blacklist,_6_Aug_2008[ACMA internet censorship blacklist] (version dated 6 Aug 2008). WikiLeaks accused Australia of "acting like a democratic backwater".
+
+> This week saw Australia joining China and the United Arab Emirates as the only countries censoring Wikileaks. 
+
+Warning that lists like this were open to abuse, WikiLeaks noted that the Thai system had been used to censor Australian reports about an Australian writer "who wrote a novel containing a single paragraph deemed to be critical of the Thai Monarchy". 
+
+> Most of the sites on the Australian list have no obvious connection to child pornography. Some have changed owners while others were clearly always about other subjects. 
+
+The Australian list famously included an innocent dentist, along with a betting company, a website for Christians, YouTube videos, a MySpace profile, online poker parlours, a site containing poison information, a tour operator and a satirical encyclopedia. 
+
+On the same day (18 March 2008) WikiLeaks published the link:https://wikileaks.org/wiki/Norwegian_secret_internet_censorship_blacklist,_3518_domains,_18_Mar_2009[Internet censorship list of Norway], with 3,518 secretly blacklisted sites. 
+
+> The filter is an unlegislated cooperation between Telenor (Norway's leading internet service provider or ISP) and Kripos (the Norwegian police for organized crime, economical crime and other serious criminal issues). Several other ISPs in Norway have begun to use the system. 
+
+On 20 March 2009, after the Australian government questioned the number of sites on their earlier release, WikiLeaks published an link:https://wikileaks.org/wiki/Australian_government_secret_ACMA_internet_censorship_blacklist,_18_Mar_2009[updated Australian Internet censorship list]. WikiLeaks noted that around 1,500 sites had disappeared from the list in a week, so the ACMA clearly "did an enormous cleanup". The updated list still included the Danish Wikileaks blacklist page.
+
+Australia's Communications Minister link:https://wikileaks.org/wiki/Leaked_Australian_blacklist_reveals_banned_sites[called] the leak and publication of the ACMA blacklist "grossly irresponsible" and said anyone sharing the list would be at "serious risk of criminal prosecution". WikiLeaks responded by link:https://wikileaks.org/wiki/Wikileaks_to_Conroy:_Go_after_our_source_and_we_will_go_after_you[threatening to extradite the Minister to Sweden] if he went after their source.  
+
+Following the Australian leak, German police link:https://www.wired.co.uk/article/exposed-wikileaks-secrets[raided the house] of Theodor Reppe, who had registered the domain wikileaks.de and donated it to WikiLeaks as a backup site. 
+
+"I think the police thought I had more control over the content of Wikileaks," said a bemused Reppe, who had no personal contact with Wikileaks. 
+
+The Australian ACMA blacklist was abandoned on 29 November 2010 but voluntary ISP filters have proliferated and numerous sites remain censored, with the public mostly unaware what is happening. 
+
+*
+
+
+=== Chaos Computer Club 2008 
+
+Germany's Chaos Computer Club (CCC) has long been one of the world's leading civil organisations dealing with the security and privacy aspects of technology. The annual CCC Congress draws hackers from everywhere. 
+
+Julian Assange attended the 2007 CCC congress in Berlin, where he link:https://www.wired.com/2013/12/fight-spies-says-chaos-computer-club/[reportedly] explained his WikiLeaks project to members, "meeting Daniel Domscheit-Berg and others who would ultimately become key associates in the venture." A year later, on 27 December 2008, Assange and Domscheit-Berg appeared together on stage to deliver a widely anticipated link:https://media.ccc.de/v/25c3-2916-en-wikileaks#t=23[CCC talk about WikiLeaks]. 
+
+Assange was introduced to the large CCC audience as "an investigative editor", while Domscheit-Berg (who had previously used the name Daniel Schmitt online) was now introduced as "Daniel Berger, a writer and an analyst". Domscheit-Berg later link:https://www.wired.co.uk/article/exposed-wikileaks-secrets[claimed] that he had become involved with Wikileaks in 2006, giving up his job as network engineer, and adopted the name "Schmitt" after his cat, Mr Schmitt. He said his previous life was irrelevant.
+
+This joint appearance may have lead some people to falsely assume they had a similar status in the organisation, especially because Assange was trying to keep media focus on WikiLeaks releases rather than the people behind WikiLeaks. A year later Assange was still telling journalists: "It doesn't matter who Wikileaks is, what matters is what Wikileaks does."
+
+Half the 2008 CCC audience had already visited wikileak.org more than ten times. They were told that the WikiLeaks platform was a "proof of concept" which was probably going to be in a constant state of evolution, and their support would be needed to keep government restrictions on media and the Internet under control. Technical challenges included sanitizing documents to protect sources, trust issues with SSL certificates, .onion addresses and Tor usage, and maintaining high website availability while still running strong anti-censorship protection. 
+
+The talk was accompanied by a slideshow, with discussion points like: "global censorship and eradication of history", "enabling sources and whistle-blowers", "cost effective and legally fortified mechanisms for the media", and "no medium is easier to censor than the Internet". 
+
+There was a genuine sense that WikiLeaks was hoping to provide a new model for media success in a world where "the fourth estate is crumbling". Assange pointed out that 12,000 journalists had lost their jobs in the past year and only 40 investigative journalists remained at US newspapers, with 10 of them at the New York Times.
+
+> Fifty years ago there were approximately fifty multi-national media companies. Now there are approximately five.
+
+Financial pressures were also making it harder for media organisations to protect important stories. Assange warned that major newspapers were increasingly pulling published material from their archives, leaving valuable information permanently deleted. He cited seven stories removed from UK media sites due to fear of legal costs, six of which had been published more than five years ago. 
+
+> If you go to the URLs for those stories, you won't see that this story has been removed by legal action. You will see 'NOT FOUND'. And if you search for the indexes of those papers you will see 'NOT FOUND'. Those stories not only have ceased to exist, they have ceased to have ever existed.
+
+Even worse, said Assange, firewalls were now providing "pro-active censorship, and that's something that has never been done before in terms of newspapers." He explained how child pornography concerns were used to justify Internet censorship lists, which then censored other information instead. "Western societies may end up like Thailand if everyone is not really careful," he warned. 
+
+> Are blogs the antidote? Abosolutely not. 
+
+Assange said blog authors as individuals were not strong enough to withstand censorship attempts. They don't produce new content, just cut-and-paste news then provide an opinion, the same as small-town newspapers do with news from wire services (AAP, Reuters, etc). 
+
+> If you don't have original source information, then everyone is just talking to themselves in a circular manner. 
+
+Assange said "over a million dollars of legal time" had been donated to the WikiLeaks project. But they still needed "housing, hosting, bandwidth, uplinks, storage, development time, a lot of things that this audience can deliver en masse". 
+
+*
+
+Once again, there is a lot of WikiLeaks material from 2008 that did not make it into this chapter. For example:
+
+- On 24 March 2008, WikiLeaks link:https://wikileaks.org/wiki/Censored_Tibet_March_2008_protest_videos_-_AVI_format[posted] 35 uncensored videos of civil unrest in Tibet after Chinese censorship of Western media coverage.
+- On 11 December 2008 WikiLeaks released the US Army's link:https://theworldtomorrow.wikileaks.org/wiki/US_military:_Human_Terrain_Team_Handbook,_Sep_2008[Human Terrain Team Handbook] (part of their $190 Million "Human Terrain System" program) after several team members died.
+- On December 18 2008 WikiLeaks posted the UK parliament link:https://wikileaks.org/wiki/UK_Parliament_debate:_libel_tourism_and_Nadhmi_Auchi,_17_Dec_2008[transcript] (Hansard) of a debate about libel laws, which arose from a series of attacks on WikiLeaks and the New Statesman by UK-Iraqi billionare, link:https://wikileaks.org/wiki/Nadhmi_Auchi[Nadhmi Auchi]. 
+- On 20 December 2008 WikiLeaks also released 87 documents relating to link:https://wikileaks.org/wiki/Anglo_spy_fusion:_Operation_Empire_Challenge_-_87_documents,_2008[Operation Empire Challenge] - a sophisticated combined anglo-empire (US,UK,AUS,CAN) space, air and ground intelligence and targeting fusion operation partly co-ordinated by US defense contractor Northrop Grunnman."
+
+*
+
+The author of this book has been an active supporter of WikiLeaks since at least 2010. He can be found at: 
+
+Twitter: https://twitter.com/jaraparilla
+
+Blog: https://jaraparilla.blogspot.com
+
+Patreon: https://patreon.com/jaraparilla
+
+Paypal: https://paypal.me/jaraparilla
+ 
+You can support the writing of this book here: https://www.gofundme.com/f/wikileaks-true-history-book
+
+Thank you.
+
+* 
