@@ -6,6 +6,8 @@ Copyright Gary Lord 2019
 
 This book is a crowdfunded project that aims to establish a true and lasting record of the WikiLeaks organisation. The Author’s Note explains why this book is necessary. First four chapters now available FREE. Read, enjoy, learn and share!
 
+You can read the book here: https://jaraparilla.github.io/wlhistory/
+
 You can support the writing of this book here: https://www.gofundme.com/f/wikileaks-true-history-book
 
 *
