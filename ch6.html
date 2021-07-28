@@ -2,22 +2,20 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge"><![endif]-->
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="generator" content="Asciidoctor 1.5.5">
+<meta name="generator" content="Asciidoctor 2.0.10">
 <title>WikiLeaks: a True History</title>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic%7CNoto+Serif:400,400italic,700,700italic%7CDroid+Sans+Mono:400,700">
 <style>
-/* Asciidoctor default stylesheet | MIT License | http://asciidoctor.org */
-/* Remove comment around @import statement below when using as a custom stylesheet */
+/* Asciidoctor default stylesheet | MIT License | https://asciidoctor.org */
+/* Uncomment @import statement to use as custom stylesheet */
 /*@import "https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic%7CNoto+Serif:400,400italic,700,700italic%7CDroid+Sans+Mono:400,700";*/
-article,aside,details,figcaption,figure,footer,header,hgroup,main,nav,section,summary{display:block}
-audio,canvas,video{display:inline-block}
+article,aside,details,figcaption,figure,footer,header,hgroup,main,nav,section{display:block}
+audio,video{display:inline-block}
 audio:not([controls]){display:none;height:0}
-[hidden],template{display:none}
-script{display:none!important}
 html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}
-a{background:transparent}
+a{background:none}
 a:focus{outline:thin dotted}
 a:active,a:hover{outline:0}
 h1{font-size:2em;margin:.67em 0}
@@ -44,12 +42,10 @@ button,select{text-transform:none}
 button,html input[type="button"],input[type="reset"],input[type="submit"]{-webkit-appearance:button;cursor:pointer}
 button[disabled],html input[disabled]{cursor:default}
 input[type="checkbox"],input[type="radio"]{box-sizing:border-box;padding:0}
-input[type="search"]{-webkit-appearance:textfield;-moz-box-sizing:content-box;-webkit-box-sizing:content-box;box-sizing:content-box}
-input[type="search"]::-webkit-search-cancel-button,input[type="search"]::-webkit-search-decoration{-webkit-appearance:none}
 button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0}
 textarea{overflow:auto;vertical-align:top}
 table{border-collapse:collapse;border-spacing:0}
-*,*:before,*:after{-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box}
+*,*::before,*::after{-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box}
 html,body{font-size:100%}
 body{background:#fff;color:rgba(0,0,0,.8);padding:0;margin:0;font-family:"Noto Serif","DejaVu Serif",serif;font-weight:400;font-style:normal;line-height:1;position:relative;cursor:auto;tab-size:4;-moz-osx-font-smoothing:grayscale;-webkit-font-smoothing:antialiased}
 a:hover{cursor:pointer}
@@ -67,13 +63,12 @@ img,object,svg{display:inline-block;vertical-align:middle}
 textarea{height:auto;min-height:50px}
 select{width:100%}
 .center{margin-left:auto;margin-right:auto}
-.spread{width:100%}
-p.lead,.paragraph.lead>p,#preamble>.sectionbody>.paragraph:first-of-type p{font-size:1.21875em;line-height:1.6}
+.stretch{width:100%}
 .subheader,.admonitionblock td.content>.title,.audioblock>.title,.exampleblock>.title,.imageblock>.title,.listingblock>.title,.literalblock>.title,.stemblock>.title,.openblock>.title,.paragraph>.title,.quoteblock>.title,table.tableblock>.title,.verseblock>.title,.videoblock>.title,.dlist>.title,.olist>.title,.ulist>.title,.qlist>.title,.hdlist>.title{line-height:1.45;color:#7a2518;font-weight:400;margin-top:0;margin-bottom:.25em}
 div,dl,dt,dd,ul,ol,li,h1,h2,h3,#toctitle,.sidebarblock>.content>.title,h4,h5,h6,pre,form,p,blockquote,th,td{margin:0;padding:0;direction:ltr}
 a{color:#2156a5;text-decoration:underline;line-height:inherit}
 a:hover,a:focus{color:#1d4b8f}
-a img{border:none}
+a img{border:0}
 p{font-family:inherit;font-weight:400;font-size:1em;line-height:1.6;margin-bottom:1.25em;text-rendering:optimizeLegibility}
 p aside{font-size:.875em;line-height:1.35;font-style:italic}
 h1,h2,h3,#toctitle,.sidebarblock>.content>.title,h4,h5,h6{font-family:"Open Sans","DejaVu Sans",sans-serif;font-weight:300;font-style:normal;color:#ba3925;text-rendering:optimizeLegibility;margin-top:1em;margin-bottom:.5em;line-height:1.0125em}
@@ -83,19 +78,18 @@ h2{font-size:1.6875em}
 h3,#toctitle,.sidebarblock>.content>.title{font-size:1.375em}
 h4,h5{font-size:1.125em}
 h6{font-size:1em}
-hr{border:solid #ddddd8;border-width:1px 0 0;clear:both;margin:1.25em 0 1.1875em;height:0}
+hr{border:solid #dddddf;border-width:1px 0 0;clear:both;margin:1.25em 0 1.1875em;height:0}
 em,i{font-style:italic;line-height:inherit}
 strong,b{font-weight:bold;line-height:inherit}
 small{font-size:60%;line-height:inherit}
 code{font-family:"Droid Sans Mono","DejaVu Sans Mono",monospace;font-weight:400;color:rgba(0,0,0,.9)}
 ul,ol,dl{font-size:1em;line-height:1.6;margin-bottom:1.25em;list-style-position:outside;font-family:inherit}
-ul,ol,ul.no-bullet,ol.no-bullet{margin-left:1.5em}
+ul,ol{margin-left:1.5em}
 ul li ul,ul li ol{margin-left:1.25em;margin-bottom:0;font-size:1em}
 ul.square li ul,ul.circle li ul,ul.disc li ul{list-style:inherit}
 ul.square{list-style-type:square}
 ul.circle{list-style-type:circle}
 ul.disc{list-style-type:disc}
-ul.no-bullet{list-style:none}
 ol li ul,ol li ol{margin-left:1.25em;margin-bottom:0}
 dl dt{margin-bottom:.3125em;font-weight:bold}
 dl dd{margin-bottom:1.25em}
@@ -103,58 +97,65 @@ abbr,acronym{text-transform:uppercase;font-size:90%;color:rgba(0,0,0,.8);border-
 abbr{text-transform:none}
 blockquote{margin:0 0 1.25em;padding:.5625em 1.25em 0 1.1875em;border-left:1px solid #ddd}
 blockquote cite{display:block;font-size:.9375em;color:rgba(0,0,0,.6)}
-blockquote cite:before{content:"\2014 \0020"}
+blockquote cite::before{content:"\2014 \0020"}
 blockquote cite a,blockquote cite a:visited{color:rgba(0,0,0,.6)}
 blockquote,blockquote p{line-height:1.6;color:rgba(0,0,0,.85)}
-@media only screen and (min-width:768px){h1,h2,h3,#toctitle,.sidebarblock>.content>.title,h4,h5,h6{line-height:1.2}
+@media screen and (min-width:768px){h1,h2,h3,#toctitle,.sidebarblock>.content>.title,h4,h5,h6{line-height:1.2}
 h1{font-size:2.75em}
 h2{font-size:2.3125em}
 h3,#toctitle,.sidebarblock>.content>.title{font-size:1.6875em}
 h4{font-size:1.4375em}}
 table{background:#fff;margin-bottom:1.25em;border:solid 1px #dedede}
-table thead,table tfoot{background:#f7f8f7;font-weight:bold}
+table thead,table tfoot{background:#f7f8f7}
 table thead tr th,table thead tr td,table tfoot tr th,table tfoot tr td{padding:.5em .625em .625em;font-size:inherit;color:rgba(0,0,0,.8);text-align:left}
 table tr th,table tr td{padding:.5625em .625em;font-size:inherit;color:rgba(0,0,0,.8)}
-table tr.even,table tr.alt,table tr:nth-of-type(even){background:#f8f8f7}
+table tr.even,table tr.alt{background:#f8f8f7}
 table thead tr th,table tfoot tr th,table tbody tr td,table tr td,table tfoot tr td{display:table-cell;line-height:1.6}
 h1,h2,h3,#toctitle,.sidebarblock>.content>.title,h4,h5,h6{line-height:1.2;word-spacing:-.05em}
 h1 strong,h2 strong,h3 strong,#toctitle strong,.sidebarblock>.content>.title strong,h4 strong,h5 strong,h6 strong{font-weight:400}
-.clearfix:before,.clearfix:after,.float-group:before,.float-group:after{content:" ";display:table}
-.clearfix:after,.float-group:after{clear:both}
-*:not(pre)>code{font-size:.9375em;font-style:normal!important;letter-spacing:0;padding:.1em .5ex;word-spacing:-.15em;background-color:#f7f7f8;-webkit-border-radius:4px;border-radius:4px;line-height:1.45;text-rendering:optimizeSpeed;word-wrap:break-word}
-*:not(pre)>code.nobreak{word-wrap:normal}
-*:not(pre)>code.nowrap{white-space:nowrap}
-pre,pre>code{line-height:1.45;color:rgba(0,0,0,.9);font-family:"Droid Sans Mono","DejaVu Sans Mono",monospace;font-weight:400;text-rendering:optimizeSpeed}
+.clearfix::before,.clearfix::after,.float-group::before,.float-group::after{content:" ";display:table}
+.clearfix::after,.float-group::after{clear:both}
+:not(pre):not([class^=L])>code{font-size:.9375em;font-style:normal!important;letter-spacing:0;padding:.1em .5ex;word-spacing:-.15em;background:#f7f7f8;-webkit-border-radius:4px;border-radius:4px;line-height:1.45;text-rendering:optimizeSpeed;word-wrap:break-word}
+:not(pre)>code.nobreak{word-wrap:normal}
+:not(pre)>code.nowrap{white-space:nowrap}
+pre{color:rgba(0,0,0,.9);font-family:"Droid Sans Mono","DejaVu Sans Mono",monospace;line-height:1.45;text-rendering:optimizeSpeed}
+pre code,pre pre{color:inherit;font-size:inherit;line-height:inherit}
+pre>code{display:block}
+pre.nowrap,pre.nowrap pre{white-space:pre;word-wrap:normal}
 em em{font-style:normal}
 strong strong{font-weight:400}
 .keyseq{color:rgba(51,51,51,.8)}
-kbd{font-family:"Droid Sans Mono","DejaVu Sans Mono",monospace;display:inline-block;color:rgba(0,0,0,.8);font-size:.65em;line-height:1.45;background-color:#f7f7f7;border:1px solid #ccc;-webkit-border-radius:3px;border-radius:3px;-webkit-box-shadow:0 1px 0 rgba(0,0,0,.2),0 0 0 .1em white inset;box-shadow:0 1px 0 rgba(0,0,0,.2),0 0 0 .1em #fff inset;margin:0 .15em;padding:.2em .5em;vertical-align:middle;position:relative;top:-.1em;white-space:nowrap}
+kbd{font-family:"Droid Sans Mono","DejaVu Sans Mono",monospace;display:inline-block;color:rgba(0,0,0,.8);font-size:.65em;line-height:1.45;background:#f7f7f7;border:1px solid #ccc;-webkit-border-radius:3px;border-radius:3px;-webkit-box-shadow:0 1px 0 rgba(0,0,0,.2),0 0 0 .1em white inset;box-shadow:0 1px 0 rgba(0,0,0,.2),0 0 0 .1em #fff inset;margin:0 .15em;padding:.2em .5em;vertical-align:middle;position:relative;top:-.1em;white-space:nowrap}
 .keyseq kbd:first-child{margin-left:0}
 .keyseq kbd:last-child{margin-right:0}
-.menuseq,.menu{color:rgba(0,0,0,.8)}
-b.button:before,b.button:after{position:relative;top:-1px;font-weight:400}
-b.button:before{content:"[";padding:0 3px 0 2px}
-b.button:after{content:"]";padding:0 2px 0 3px}
+.menuseq,.menuref{color:#000}
+.menuseq b:not(.caret),.menuref{font-weight:inherit}
+.menuseq{word-spacing:-.02em}
+.menuseq b.caret{font-size:1.25em;line-height:.8}
+.menuseq i.caret{font-weight:bold;text-align:center;width:.45em}
+b.button::before,b.button::after{position:relative;top:-1px;font-weight:400}
+b.button::before{content:"[";padding:0 3px 0 2px}
+b.button::after{content:"]";padding:0 2px 0 3px}
 p a>code:hover{color:rgba(0,0,0,.9)}
 #header,#content,#footnotes,#footer{width:100%;margin-left:auto;margin-right:auto;margin-top:0;margin-bottom:0;max-width:62.5em;*zoom:1;position:relative;padding-left:.9375em;padding-right:.9375em}
-#header:before,#header:after,#content:before,#content:after,#footnotes:before,#footnotes:after,#footer:before,#footer:after{content:" ";display:table}
-#header:after,#content:after,#footnotes:after,#footer:after{clear:both}
+#header::before,#header::after,#content::before,#content::after,#footnotes::before,#footnotes::after,#footer::before,#footer::after{content:" ";display:table}
+#header::after,#content::after,#footnotes::after,#footer::after{clear:both}
 #content{margin-top:1.25em}
-#content:before{content:none}
+#content::before{content:none}
 #header>h1:first-child{color:rgba(0,0,0,.85);margin-top:2.25rem;margin-bottom:0}
-#header>h1:first-child+#toc{margin-top:8px;border-top:1px solid #ddddd8}
-#header>h1:only-child,body.toc2 #header>h1:nth-last-child(2){border-bottom:1px solid #ddddd8;padding-bottom:8px}
-#header .details{border-bottom:1px solid #ddddd8;line-height:1.45;padding-top:.25em;padding-bottom:.25em;padding-left:.25em;color:rgba(0,0,0,.6);display:-ms-flexbox;display:-webkit-flex;display:flex;-ms-flex-flow:row wrap;-webkit-flex-flow:row wrap;flex-flow:row wrap}
+#header>h1:first-child+#toc{margin-top:8px;border-top:1px solid #dddddf}
+#header>h1:only-child,body.toc2 #header>h1:nth-last-child(2){border-bottom:1px solid #dddddf;padding-bottom:8px}
+#header .details{border-bottom:1px solid #dddddf;line-height:1.45;padding-top:.25em;padding-bottom:.25em;padding-left:.25em;color:rgba(0,0,0,.6);display:-ms-flexbox;display:-webkit-flex;display:flex;-ms-flex-flow:row wrap;-webkit-flex-flow:row wrap;flex-flow:row wrap}
 #header .details span:first-child{margin-left:-.125em}
 #header .details span.email a{color:rgba(0,0,0,.85)}
 #header .details br{display:none}
-#header .details br+span:before{content:"\00a0\2013\00a0"}
-#header .details br+span.author:before{content:"\00a0\22c5\00a0";color:rgba(0,0,0,.85)}
-#header .details br+span#revremark:before{content:"\00a0|\00a0"}
+#header .details br+span::before{content:"\00a0\2013\00a0"}
+#header .details br+span.author::before{content:"\00a0\22c5\00a0";color:rgba(0,0,0,.85)}
+#header .details br+span#revremark::before{content:"\00a0|\00a0"}
 #header #revnumber{text-transform:capitalize}
-#header #revnumber:after{content:"\00a0"}
-#content>h1:first-child:not([class]){color:rgba(0,0,0,.85);border-bottom:1px solid #ddddd8;padding-bottom:8px;margin-top:0;padding-top:1rem;margin-bottom:1.25rem}
-#toc{border-bottom:1px solid #efefed;padding-bottom:.5em}
+#header #revnumber::after{content:"\00a0"}
+#content>h1:first-child:not([class]){color:rgba(0,0,0,.85);border-bottom:1px solid #dddddf;padding-bottom:8px;margin-top:0;padding-top:1rem;margin-bottom:1.25rem}
+#toc{border-bottom:1px solid #e7e7e9;padding-bottom:.5em}
 #toc>ul{margin-left:.125em}
 #toc ul.sectlevel0>li>a{font-style:italic}
 #toc ul.sectlevel0 ul.sectlevel1{margin:.5em 0}
@@ -163,16 +164,16 @@ p a>code:hover{color:rgba(0,0,0,.9)}
 #toc a{text-decoration:none}
 #toc a:active{text-decoration:underline}
 #toctitle{color:#7a2518;font-size:1.2em}
-@media only screen and (min-width:768px){#toctitle{font-size:1.375em}
+@media screen and (min-width:768px){#toctitle{font-size:1.375em}
 body.toc2{padding-left:15em;padding-right:0}
-#toc.toc2{margin-top:0!important;background-color:#f8f8f7;position:fixed;width:15em;left:0;top:0;border-right:1px solid #efefed;border-top-width:0!important;border-bottom-width:0!important;z-index:1000;padding:1.25em 1em;height:100%;overflow:auto}
+#toc.toc2{margin-top:0!important;background:#f8f8f7;position:fixed;width:15em;left:0;top:0;border-right:1px solid #e7e7e9;border-top-width:0!important;border-bottom-width:0!important;z-index:1000;padding:1.25em 1em;height:100%;overflow:auto}
 #toc.toc2 #toctitle{margin-top:0;margin-bottom:.8rem;font-size:1.2em}
 #toc.toc2>ul{font-size:.9em;margin-bottom:0}
 #toc.toc2 ul ul{margin-left:0;padding-left:1em}
 #toc.toc2 ul.sectlevel0 ul.sectlevel1{padding-left:0;margin-top:.5em;margin-bottom:.5em}
 body.toc2.toc-right{padding-left:0;padding-right:15em}
-body.toc2.toc-right #toc.toc2{border-right-width:0;border-left:1px solid #efefed;left:auto;right:0}}
-@media only screen and (min-width:1280px){body.toc2{padding-left:20em;padding-right:0}
+body.toc2.toc-right #toc.toc2{border-right-width:0;border-left:1px solid #e7e7e9;left:auto;right:0}}
+@media screen and (min-width:1280px){body.toc2{padding-left:20em;padding-right:0}
 #toc.toc2{width:20em}
 #toc.toc2 #toctitle{font-size:1.375em}
 #toc.toc2>ul{font-size:.95em}
@@ -181,89 +182,101 @@ body.toc2.toc-right{padding-left:0;padding-right:20em}}
 #content #toc{border-style:solid;border-width:1px;border-color:#e0e0dc;margin-bottom:1.25em;padding:1.25em;background:#f8f8f7;-webkit-border-radius:4px;border-radius:4px}
 #content #toc>:first-child{margin-top:0}
 #content #toc>:last-child{margin-bottom:0}
-#footer{max-width:100%;background-color:rgba(0,0,0,.8);padding:1.25em}
+#footer{max-width:100%;background:rgba(0,0,0,.8);padding:1.25em}
 #footer-text{color:rgba(255,255,255,.8);line-height:1.44}
+#content{margin-bottom:.625em}
 .sect1{padding-bottom:.625em}
-@media only screen and (min-width:768px){.sect1{padding-bottom:1.25em}}
-.sect1+.sect1{border-top:1px solid #efefed}
+@media screen and (min-width:768px){#content{margin-bottom:1.25em}
+.sect1{padding-bottom:1.25em}}
+.sect1:last-child{padding-bottom:0}
+.sect1+.sect1{border-top:1px solid #e7e7e9}
 #content h1>a.anchor,h2>a.anchor,h3>a.anchor,#toctitle>a.anchor,.sidebarblock>.content>.title>a.anchor,h4>a.anchor,h5>a.anchor,h6>a.anchor{position:absolute;z-index:1001;width:1.5ex;margin-left:-1.5ex;display:block;text-decoration:none!important;visibility:hidden;text-align:center;font-weight:400}
-#content h1>a.anchor:before,h2>a.anchor:before,h3>a.anchor:before,#toctitle>a.anchor:before,.sidebarblock>.content>.title>a.anchor:before,h4>a.anchor:before,h5>a.anchor:before,h6>a.anchor:before{content:"\00A7";font-size:.85em;display:block;padding-top:.1em}
+#content h1>a.anchor::before,h2>a.anchor::before,h3>a.anchor::before,#toctitle>a.anchor::before,.sidebarblock>.content>.title>a.anchor::before,h4>a.anchor::before,h5>a.anchor::before,h6>a.anchor::before{content:"\00A7";font-size:.85em;display:block;padding-top:.1em}
 #content h1:hover>a.anchor,#content h1>a.anchor:hover,h2:hover>a.anchor,h2>a.anchor:hover,h3:hover>a.anchor,#toctitle:hover>a.anchor,.sidebarblock>.content>.title:hover>a.anchor,h3>a.anchor:hover,#toctitle>a.anchor:hover,.sidebarblock>.content>.title>a.anchor:hover,h4:hover>a.anchor,h4>a.anchor:hover,h5:hover>a.anchor,h5>a.anchor:hover,h6:hover>a.anchor,h6>a.anchor:hover{visibility:visible}
 #content h1>a.link,h2>a.link,h3>a.link,#toctitle>a.link,.sidebarblock>.content>.title>a.link,h4>a.link,h5>a.link,h6>a.link{color:#ba3925;text-decoration:none}
 #content h1>a.link:hover,h2>a.link:hover,h3>a.link:hover,#toctitle>a.link:hover,.sidebarblock>.content>.title>a.link:hover,h4>a.link:hover,h5>a.link:hover,h6>a.link:hover{color:#a53221}
-.audioblock,.imageblock,.literalblock,.listingblock,.stemblock,.videoblock{margin-bottom:1.25em}
+details,.audioblock,.imageblock,.literalblock,.listingblock,.stemblock,.videoblock{margin-bottom:1.25em}
+details>summary:first-of-type{cursor:pointer;display:list-item;outline:none;margin-bottom:.75em}
 .admonitionblock td.content>.title,.audioblock>.title,.exampleblock>.title,.imageblock>.title,.listingblock>.title,.literalblock>.title,.stemblock>.title,.openblock>.title,.paragraph>.title,.quoteblock>.title,table.tableblock>.title,.verseblock>.title,.videoblock>.title,.dlist>.title,.olist>.title,.ulist>.title,.qlist>.title,.hdlist>.title{text-rendering:optimizeLegibility;text-align:left;font-family:"Noto Serif","DejaVu Serif",serif;font-size:1rem;font-style:italic}
-table.tableblock>caption.title{white-space:nowrap;overflow:visible;max-width:0}
-.paragraph.lead>p,#preamble>.sectionbody>.paragraph:first-of-type p{color:rgba(0,0,0,.85)}
-table.tableblock #preamble>.sectionbody>.paragraph:first-of-type p{font-size:inherit}
+table.tableblock.fit-content>caption.title{white-space:nowrap;width:0}
+.paragraph.lead>p,#preamble>.sectionbody>[class="paragraph"]:first-of-type p{font-size:1.21875em;line-height:1.6;color:rgba(0,0,0,.85)}
+table.tableblock #preamble>.sectionbody>[class="paragraph"]:first-of-type p{font-size:inherit}
 .admonitionblock>table{border-collapse:separate;border:0;background:none;width:100%}
 .admonitionblock>table td.icon{text-align:center;width:80px}
 .admonitionblock>table td.icon img{max-width:none}
 .admonitionblock>table td.icon .title{font-weight:bold;font-family:"Open Sans","DejaVu Sans",sans-serif;text-transform:uppercase}
-.admonitionblock>table td.content{padding-left:1.125em;padding-right:1.25em;border-left:1px solid #ddddd8;color:rgba(0,0,0,.6)}
+.admonitionblock>table td.content{padding-left:1.125em;padding-right:1.25em;border-left:1px solid #dddddf;color:rgba(0,0,0,.6)}
 .admonitionblock>table td.content>:last-child>:last-child{margin-bottom:0}
 .exampleblock>.content{border-style:solid;border-width:1px;border-color:#e6e6e6;margin-bottom:1.25em;padding:1.25em;background:#fff;-webkit-border-radius:4px;border-radius:4px}
 .exampleblock>.content>:first-child{margin-top:0}
 .exampleblock>.content>:last-child{margin-bottom:0}
-.sidebarblock{border-style:solid;border-width:1px;border-color:#e0e0dc;margin-bottom:1.25em;padding:1.25em;background:#f8f8f7;-webkit-border-radius:4px;border-radius:4px}
+.sidebarblock{border-style:solid;border-width:1px;border-color:#dbdbd6;margin-bottom:1.25em;padding:1.25em;background:#f3f3f2;-webkit-border-radius:4px;border-radius:4px}
 .sidebarblock>:first-child{margin-top:0}
 .sidebarblock>:last-child{margin-bottom:0}
 .sidebarblock>.content>.title{color:#7a2518;margin-top:0;text-align:center}
 .exampleblock>.content>:last-child>:last-child,.exampleblock>.content .olist>ol>li:last-child>:last-child,.exampleblock>.content .ulist>ul>li:last-child>:last-child,.exampleblock>.content .qlist>ol>li:last-child>:last-child,.sidebarblock>.content>:last-child>:last-child,.sidebarblock>.content .olist>ol>li:last-child>:last-child,.sidebarblock>.content .ulist>ul>li:last-child>:last-child,.sidebarblock>.content .qlist>ol>li:last-child>:last-child{margin-bottom:0}
-.literalblock pre,.listingblock pre:not(.highlight),.listingblock pre[class="highlight"],.listingblock pre[class^="highlight "],.listingblock pre.CodeRay,.listingblock pre.prettyprint{background:#f7f7f8}
-.sidebarblock .literalblock pre,.sidebarblock .listingblock pre:not(.highlight),.sidebarblock .listingblock pre[class="highlight"],.sidebarblock .listingblock pre[class^="highlight "],.sidebarblock .listingblock pre.CodeRay,.sidebarblock .listingblock pre.prettyprint{background:#f2f1f1}
-.literalblock pre,.literalblock pre[class],.listingblock pre,.listingblock pre[class]{-webkit-border-radius:4px;border-radius:4px;word-wrap:break-word;padding:1em;font-size:.8125em}
-.literalblock pre.nowrap,.literalblock pre[class].nowrap,.listingblock pre.nowrap,.listingblock pre[class].nowrap{overflow-x:auto;white-space:pre;word-wrap:normal}
-@media only screen and (min-width:768px){.literalblock pre,.literalblock pre[class],.listingblock pre,.listingblock pre[class]{font-size:.90625em}}
-@media only screen and (min-width:1280px){.literalblock pre,.literalblock pre[class],.listingblock pre,.listingblock pre[class]{font-size:1em}}
-.literalblock.output pre{color:#f7f7f8;background-color:rgba(0,0,0,.9)}
+.literalblock pre,.listingblock>.content>pre{-webkit-border-radius:4px;border-radius:4px;word-wrap:break-word;overflow-x:auto;padding:1em;font-size:.8125em}
+@media screen and (min-width:768px){.literalblock pre,.listingblock>.content>pre{font-size:.90625em}}
+@media screen and (min-width:1280px){.literalblock pre,.listingblock>.content>pre{font-size:1em}}
+.literalblock pre,.listingblock>.content>pre:not(.highlight),.listingblock>.content>pre[class="highlight"],.listingblock>.content>pre[class^="highlight "]{background:#f7f7f8}
+.literalblock.output pre{color:#f7f7f8;background:rgba(0,0,0,.9)}
+.listingblock>.content{position:relative}
+.listingblock code[data-lang]::before{display:none;content:attr(data-lang);position:absolute;font-size:.75em;top:.425rem;right:.5rem;line-height:1;text-transform:uppercase;color:inherit;opacity:.5}
+.listingblock:hover code[data-lang]::before{display:block}
+.listingblock.terminal pre .command::before{content:attr(data-prompt);padding-right:.5em;color:inherit;opacity:.5}
+.listingblock.terminal pre .command:not([data-prompt])::before{content:"$"}
 .listingblock pre.highlightjs{padding:0}
 .listingblock pre.highlightjs>code{padding:1em;-webkit-border-radius:4px;border-radius:4px}
 .listingblock pre.prettyprint{border-width:0}
-.listingblock>.content{position:relative}
-.listingblock code[data-lang]:before{display:none;content:attr(data-lang);position:absolute;font-size:.75em;top:.425rem;right:.5rem;line-height:1;text-transform:uppercase;color:#999}
-.listingblock:hover code[data-lang]:before{display:block}
-.listingblock.terminal pre .command:before{content:attr(data-prompt);padding-right:.5em;color:#999}
-.listingblock.terminal pre .command:not([data-prompt]):before{content:"$"}
-table.pyhltable{border-collapse:separate;border:0;margin-bottom:0;background:none}
-table.pyhltable td{vertical-align:top;padding-top:0;padding-bottom:0;line-height:1.45}
-table.pyhltable td.code{padding-left:.75em;padding-right:0}
-pre.pygments .lineno,table.pyhltable td:not(.code){color:#999;padding-left:0;padding-right:.5em;border-right:1px solid #ddddd8}
-pre.pygments .lineno{display:inline-block;margin-right:.25em}
-table.pyhltable .linenodiv{background:none!important;padding-right:0!important}
+.prettyprint{background:#f7f7f8}
+pre.prettyprint .linenums{line-height:1.45;margin-left:2em}
+pre.prettyprint li{background:none;list-style-type:inherit;padding-left:0}
+pre.prettyprint li code[data-lang]::before{opacity:1}
+pre.prettyprint li:not(:first-child) code[data-lang]::before{display:none}
+table.linenotable{border-collapse:separate;border:0;margin-bottom:0;background:none}
+table.linenotable td[class]{color:inherit;vertical-align:top;padding:0;line-height:inherit;white-space:normal}
+table.linenotable td.code{padding-left:.75em}
+table.linenotable td.linenos{border-right:1px solid currentColor;opacity:.35;padding-right:.5em}
+pre.pygments .lineno{border-right:1px solid currentColor;opacity:.35;display:inline-block;margin-right:.75em}
+pre.pygments .lineno::before{content:"";margin-right:-.125em}
 .quoteblock{margin:0 1em 1.25em 1.5em;display:table}
-.quoteblock>.title{margin-left:-1.5em;margin-bottom:.75em}
-.quoteblock blockquote,.quoteblock blockquote p{color:rgba(0,0,0,.85);font-size:1.15rem;line-height:1.75;word-spacing:.1em;letter-spacing:0;font-style:italic;text-align:justify}
+.quoteblock:not(.excerpt)>.title{margin-left:-1.5em;margin-bottom:.75em}
+.quoteblock blockquote,.quoteblock p{color:rgba(0,0,0,.85);font-size:1.15rem;line-height:1.75;word-spacing:.1em;letter-spacing:0;font-style:italic;text-align:justify}
 .quoteblock blockquote{margin:0;padding:0;border:0}
-.quoteblock blockquote:before{content:"\201c";float:left;font-size:2.75em;font-weight:bold;line-height:.6em;margin-left:-.6em;color:#7a2518;text-shadow:0 1px 2px rgba(0,0,0,.1)}
+.quoteblock blockquote::before{content:"\201c";float:left;font-size:2.75em;font-weight:bold;line-height:.6em;margin-left:-.6em;color:#7a2518;text-shadow:0 1px 2px rgba(0,0,0,.1)}
 .quoteblock blockquote>.paragraph:last-child p{margin-bottom:0}
-.quoteblock .attribution{margin-top:.5em;margin-right:.5ex;text-align:right}
-.quoteblock .quoteblock{margin-left:0;margin-right:0;padding:.5em 0;border-left:3px solid rgba(0,0,0,.6)}
-.quoteblock .quoteblock blockquote{padding:0 0 0 .75em}
-.quoteblock .quoteblock blockquote:before{display:none}
-.verseblock{margin:0 1em 1.25em 1em}
+.quoteblock .attribution{margin-top:.75em;margin-right:.5ex;text-align:right}
+.verseblock{margin:0 1em 1.25em}
 .verseblock pre{font-family:"Open Sans","DejaVu Sans",sans;font-size:1.15rem;color:rgba(0,0,0,.85);font-weight:300;text-rendering:optimizeLegibility}
 .verseblock pre strong{font-weight:400}
 .verseblock .attribution{margin-top:1.25rem;margin-left:.5ex}
 .quoteblock .attribution,.verseblock .attribution{font-size:.9375em;line-height:1.45;font-style:italic}
 .quoteblock .attribution br,.verseblock .attribution br{display:none}
 .quoteblock .attribution cite,.verseblock .attribution cite{display:block;letter-spacing:-.025em;color:rgba(0,0,0,.6)}
-.quoteblock.abstract{margin:0 0 1.25em 0;display:block}
-.quoteblock.abstract blockquote,.quoteblock.abstract blockquote p{text-align:left;word-spacing:0}
-.quoteblock.abstract blockquote:before,.quoteblock.abstract blockquote p:first-of-type:before{display:none}
+.quoteblock.abstract blockquote::before,.quoteblock.excerpt blockquote::before,.quoteblock .quoteblock blockquote::before{display:none}
+.quoteblock.abstract blockquote,.quoteblock.abstract p,.quoteblock.excerpt blockquote,.quoteblock.excerpt p,.quoteblock .quoteblock blockquote,.quoteblock .quoteblock p{line-height:1.6;word-spacing:0}
+.quoteblock.abstract{margin:0 1em 1.25em;display:block}
+.quoteblock.abstract>.title{margin:0 0 .375em;font-size:1.15em;text-align:center}
+.quoteblock.excerpt>blockquote,.quoteblock .quoteblock{padding:0 0 .25em 1em;border-left:.25em solid #dddddf}
+.quoteblock.excerpt,.quoteblock .quoteblock{margin-left:0}
+.quoteblock.excerpt blockquote,.quoteblock.excerpt p,.quoteblock .quoteblock blockquote,.quoteblock .quoteblock p{color:inherit;font-size:1.0625rem}
+.quoteblock.excerpt .attribution,.quoteblock .quoteblock .attribution{color:inherit;text-align:left;margin-right:0}
 table.tableblock{max-width:100%;border-collapse:separate}
-table.tableblock td>.paragraph:last-child p>p:last-child,table.tableblock th>p:last-child,table.tableblock td>p:last-child{margin-bottom:0}
+p.tableblock:last-child{margin-bottom:0}
+td.tableblock>.content>:last-child{margin-bottom:-1.25em}
+td.tableblock>.content>:last-child.sidebarblock{margin-bottom:0}
 table.tableblock,th.tableblock,td.tableblock{border:0 solid #dedede}
-table.grid-all th.tableblock,table.grid-all td.tableblock{border-width:0 1px 1px 0}
-table.grid-all tfoot>tr>th.tableblock,table.grid-all tfoot>tr>td.tableblock{border-width:1px 1px 0 0}
-table.grid-cols th.tableblock,table.grid-cols td.tableblock{border-width:0 1px 0 0}
-table.grid-all *>tr>.tableblock:last-child,table.grid-cols *>tr>.tableblock:last-child{border-right-width:0}
-table.grid-rows th.tableblock,table.grid-rows td.tableblock{border-width:0 0 1px 0}
-table.grid-all tbody>tr:last-child>th.tableblock,table.grid-all tbody>tr:last-child>td.tableblock,table.grid-all thead:last-child>tr>th.tableblock,table.grid-rows tbody>tr:last-child>th.tableblock,table.grid-rows tbody>tr:last-child>td.tableblock,table.grid-rows thead:last-child>tr>th.tableblock{border-bottom-width:0}
-table.grid-rows tfoot>tr>th.tableblock,table.grid-rows tfoot>tr>td.tableblock{border-width:1px 0 0 0}
+table.grid-all>thead>tr>.tableblock,table.grid-all>tbody>tr>.tableblock{border-width:0 1px 1px 0}
+table.grid-all>tfoot>tr>.tableblock{border-width:1px 1px 0 0}
+table.grid-cols>*>tr>.tableblock{border-width:0 1px 0 0}
+table.grid-rows>thead>tr>.tableblock,table.grid-rows>tbody>tr>.tableblock{border-width:0 0 1px}
+table.grid-rows>tfoot>tr>.tableblock{border-width:1px 0 0}
+table.grid-all>*>tr>.tableblock:last-child,table.grid-cols>*>tr>.tableblock:last-child{border-right-width:0}
+table.grid-all>tbody>tr:last-child>.tableblock,table.grid-all>thead:last-child>tr>.tableblock,table.grid-rows>tbody>tr:last-child>.tableblock,table.grid-rows>thead:last-child>tr>.tableblock{border-bottom-width:0}
 table.frame-all{border-width:1px}
 table.frame-sides{border-width:0 1px}
-table.frame-topbot{border-width:1px 0}
+table.frame-topbot,table.frame-ends{border-width:1px 0}
+table.stripes-all tr,table.stripes-odd tr:nth-of-type(odd),table.stripes-even tr:nth-of-type(even),table.stripes-hover tr:hover{background:#f8f8f7}
 th.halign-left,td.halign-left{text-align:left}
 th.halign-right,td.halign-right{text-align:right}
 th.halign-center,td.halign-center{text-align:center}
@@ -275,19 +288,19 @@ tbody tr th{display:table-cell;line-height:1.6;background:#f7f8f7}
 tbody tr th,tbody tr th p,tfoot tr th,tfoot tr th p{color:rgba(0,0,0,.8);font-weight:bold}
 p.tableblock>code:only-child{background:none;padding:0}
 p.tableblock{font-size:1em}
-td>div.verse{white-space:pre}
 ol{margin-left:1.75em}
 ul li ol{margin-left:1.5em}
 dl dd{margin-left:1.125em}
 dl dd:last-child,dl dd:last-child>:last-child{margin-bottom:0}
 ol>li p,ul>li p,ul dd,ol dd,.olist .olist,.ulist .ulist,.ulist .olist,.olist .ulist{margin-bottom:.625em}
-ul.unstyled,ol.unnumbered,ul.checklist,ul.none{list-style-type:none}
-ul.unstyled,ol.unnumbered,ul.checklist{margin-left:.625em}
-ul.checklist li>p:first-child>.fa-square-o:first-child,ul.checklist li>p:first-child>.fa-check-square-o:first-child{width:1em;font-size:.85em}
-ul.checklist li>p:first-child>input[type="checkbox"]:first-child{width:1em;position:relative;top:1px}
-ul.inline{margin:0 auto .625em auto;margin-left:-1.375em;margin-right:0;padding:0;list-style:none;overflow:hidden}
-ul.inline>li{list-style:none;float:left;margin-left:1.375em;display:block}
-ul.inline>li>*{display:block}
+ul.checklist,ul.none,ol.none,ul.no-bullet,ol.no-bullet,ol.unnumbered,ul.unstyled,ol.unstyled{list-style-type:none}
+ul.no-bullet,ol.no-bullet,ol.unnumbered{margin-left:.625em}
+ul.unstyled,ol.unstyled{margin-left:0}
+ul.checklist{margin-left:.625em}
+ul.checklist li>p:first-child>.fa-square-o:first-child,ul.checklist li>p:first-child>.fa-check-square-o:first-child{width:1.25em;font-size:.8em;position:relative;bottom:.125em}
+ul.checklist li>p:first-child>input[type="checkbox"]:first-child{margin-right:.25em}
+ul.inline{display:-ms-flexbox;display:-webkit-box;display:flex;-ms-flex-flow:row wrap;-webkit-flex-flow:row wrap;flex-flow:row wrap;list-style:none;margin:0 0 .625em -1.25em}
+ul.inline>li{margin-left:1.25em}
 .unstyled dl dt{font-weight:400;font-style:normal}
 ol.arabic{list-style-type:decimal}
 ol.decimal{list-style-type:decimal-leading-zero}
@@ -301,11 +314,12 @@ ol.lowergreek{list-style-type:lower-greek}
 td.hdlist1,td.hdlist2{vertical-align:top;padding:0 .625em}
 td.hdlist1{font-weight:bold;padding-bottom:1.25em}
 .literalblock+.colist,.listingblock+.colist{margin-top:-.5em}
-.colist>table tr>td:first-of-type{padding:0 .75em;line-height:1}
-.colist>table tr>td:last-of-type{padding:.25em 0}
+.colist td:not([class]):first-child{padding:.4em .75em 0;line-height:1;vertical-align:top}
+.colist td:not([class]):first-child img{max-width:none}
+.colist td:not([class]):last-child{padding:.25em 0}
 .thumb,.th{line-height:0;display:inline-block;border:solid 4px #fff;-webkit-box-shadow:0 0 0 1px #ddd;box-shadow:0 0 0 1px #ddd}
-.imageblock.left,.imageblock[style*="float: left"]{margin:.25em .625em 1.25em 0}
-.imageblock.right,.imageblock[style*="float: right"]{margin:.25em 0 1.25em .625em}
+.imageblock.left{margin:.25em .625em 1.25em 0}
+.imageblock.right{margin:.25em 0 1.25em .625em}
 .imageblock>.title{margin-bottom:0}
 .imageblock.thumb,.imageblock.th{border-width:6px}
 .imageblock.thumb>.title,.imageblock.th>.title{padding:0 .125em}
@@ -318,9 +332,9 @@ sup.footnote,sup.footnoteref{font-size:.875em;position:static;vertical-align:sup
 sup.footnote a,sup.footnoteref a{text-decoration:none}
 sup.footnote a:active,sup.footnoteref a:active{text-decoration:underline}
 #footnotes{padding-top:.75em;padding-bottom:.75em;margin-bottom:.625em}
-#footnotes hr{width:20%;min-width:6.25em;margin:-.25em 0 .75em 0;border-width:1px 0 0 0}
-#footnotes .footnote{padding:0 .375em 0 .225em;line-height:1.3334;font-size:.875em;margin-left:1.2em;text-indent:-1.05em;margin-bottom:.2em}
-#footnotes .footnote a:first-of-type{font-weight:bold;text-decoration:none}
+#footnotes hr{width:20%;min-width:6.25em;margin:-.25em 0 .75em;border-width:1px 0 0}
+#footnotes .footnote{padding:0 .375em 0 .225em;line-height:1.3334;font-size:.875em;margin-left:1.2em;margin-bottom:.2em}
+#footnotes .footnote a:first-of-type{font-weight:bold;text-decoration:none;margin-left:-1.05em}
 #footnotes .footnote:last-of-type{margin-bottom:0}
 #content #footnotes{margin-top:-.625em;margin-bottom:0;padding:.75em 0}
 .gist .file-data>table{border:0;background:#fff;width:100%;margin-bottom:0}
@@ -332,48 +346,49 @@ div.unbreakable{page-break-inside:avoid}
 .overline{text-decoration:overline}
 .line-through{text-decoration:line-through}
 .aqua{color:#00bfbf}
-.aqua-background{background-color:#00fafa}
+.aqua-background{background:#00fafa}
 .black{color:#000}
-.black-background{background-color:#000}
+.black-background{background:#000}
 .blue{color:#0000bf}
-.blue-background{background-color:#0000fa}
+.blue-background{background:#0000fa}
 .fuchsia{color:#bf00bf}
-.fuchsia-background{background-color:#fa00fa}
+.fuchsia-background{background:#fa00fa}
 .gray{color:#606060}
-.gray-background{background-color:#7d7d7d}
+.gray-background{background:#7d7d7d}
 .green{color:#006000}
-.green-background{background-color:#007d00}
+.green-background{background:#007d00}
 .lime{color:#00bf00}
-.lime-background{background-color:#00fa00}
+.lime-background{background:#00fa00}
 .maroon{color:#600000}
-.maroon-background{background-color:#7d0000}
+.maroon-background{background:#7d0000}
 .navy{color:#000060}
-.navy-background{background-color:#00007d}
+.navy-background{background:#00007d}
 .olive{color:#606000}
-.olive-background{background-color:#7d7d00}
+.olive-background{background:#7d7d00}
 .purple{color:#600060}
-.purple-background{background-color:#7d007d}
+.purple-background{background:#7d007d}
 .red{color:#bf0000}
-.red-background{background-color:#fa0000}
+.red-background{background:#fa0000}
 .silver{color:#909090}
-.silver-background{background-color:#bcbcbc}
+.silver-background{background:#bcbcbc}
 .teal{color:#006060}
-.teal-background{background-color:#007d7d}
+.teal-background{background:#007d7d}
 .white{color:#bfbfbf}
-.white-background{background-color:#fafafa}
+.white-background{background:#fafafa}
 .yellow{color:#bfbf00}
-.yellow-background{background-color:#fafa00}
+.yellow-background{background:#fafa00}
 span.icon>.fa{cursor:default}
+a span.icon>.fa{cursor:inherit}
 .admonitionblock td.icon [class^="fa icon-"]{font-size:2.5em;text-shadow:1px 1px 2px rgba(0,0,0,.5);cursor:default}
-.admonitionblock td.icon .icon-note:before{content:"\f05a";color:#19407c}
-.admonitionblock td.icon .icon-tip:before{content:"\f0eb";text-shadow:1px 1px 2px rgba(155,155,0,.8);color:#111}
-.admonitionblock td.icon .icon-warning:before{content:"\f071";color:#bf6900}
-.admonitionblock td.icon .icon-caution:before{content:"\f06d";color:#bf3400}
-.admonitionblock td.icon .icon-important:before{content:"\f06a";color:#bf0000}
-.conum[data-value]{display:inline-block;color:#fff!important;background-color:rgba(0,0,0,.8);-webkit-border-radius:100px;border-radius:100px;text-align:center;font-size:.75em;width:1.67em;height:1.67em;line-height:1.67em;font-family:"Open Sans","DejaVu Sans",sans-serif;font-style:normal;font-weight:bold}
+.admonitionblock td.icon .icon-note::before{content:"\f05a";color:#19407c}
+.admonitionblock td.icon .icon-tip::before{content:"\f0eb";text-shadow:1px 1px 2px rgba(155,155,0,.8);color:#111}
+.admonitionblock td.icon .icon-warning::before{content:"\f071";color:#bf6900}
+.admonitionblock td.icon .icon-caution::before{content:"\f06d";color:#bf3400}
+.admonitionblock td.icon .icon-important::before{content:"\f06a";color:#bf0000}
+.conum[data-value]{display:inline-block;color:#fff!important;background:rgba(0,0,0,.8);-webkit-border-radius:100px;border-radius:100px;text-align:center;font-size:.75em;width:1.67em;height:1.67em;line-height:1.67em;font-family:"Open Sans","DejaVu Sans",sans-serif;font-style:normal;font-weight:bold}
 .conum[data-value] *{color:#fff!important}
 .conum[data-value]+b{display:none}
-.conum[data-value]:after{content:attr(data-value)}
+.conum[data-value]::after{content:attr(data-value)}
 pre .conum[data-value]{position:relative;top:-.125em}
 b.conum *{color:inherit!important}
 .conum:not([data-value]):empty{display:none}
@@ -383,39 +398,42 @@ p strong,td.content strong,div.footnote strong{letter-spacing:-.005em}
 p,blockquote,dt,td.content,span.alt{font-size:1.0625rem}
 p{margin-bottom:1.25rem}
 .sidebarblock p,.sidebarblock dt,.sidebarblock td.content,p.tableblock{font-size:1em}
-.exampleblock>.content{background-color:#fffef7;border-color:#e0e0dc;-webkit-box-shadow:0 1px 4px #e0e0dc;box-shadow:0 1px 4px #e0e0dc}
+.exampleblock>.content{background:#fffef7;border-color:#e0e0dc;-webkit-box-shadow:0 1px 4px #e0e0dc;box-shadow:0 1px 4px #e0e0dc}
 .print-only{display:none!important}
-@media print{@page{margin:1.25cm .75cm}
-*{-webkit-box-shadow:none!important;box-shadow:none!important;text-shadow:none!important}
+@page{margin:1.25cm .75cm}
+@media print{*{-webkit-box-shadow:none!important;box-shadow:none!important;text-shadow:none!important}
+html{font-size:80%}
 a{color:inherit!important;text-decoration:underline!important}
 a.bare,a[href^="#"],a[href^="mailto:"]{text-decoration:none!important}
-a[href^="http:"]:not(.bare):after,a[href^="https:"]:not(.bare):after{content:"(" attr(href) ")";display:inline-block;font-size:.875em;padding-left:.25em}
-abbr[title]:after{content:" (" attr(title) ")"}
+a[href^="http:"]:not(.bare)::after,a[href^="https:"]:not(.bare)::after{content:"(" attr(href) ")";display:inline-block;font-size:.875em;padding-left:.25em}
+abbr[title]::after{content:" (" attr(title) ")"}
 pre,blockquote,tr,img,object,svg{page-break-inside:avoid}
 thead{display:table-header-group}
 svg{max-width:100%}
 p,blockquote,dt,td.content{font-size:1em;orphans:3;widows:3}
 h2,h3,#toctitle,.sidebarblock>.content>.title{page-break-after:avoid}
 #toc,.sidebarblock,.exampleblock>.content{background:none!important}
-#toc{border-bottom:1px solid #ddddd8!important;padding-bottom:0!important}
-.sect1{padding-bottom:0!important}
-.sect1+.sect1{border:0!important}
-#header>h1:first-child{margin-top:1.25rem}
+#toc{border-bottom:1px solid #dddddf!important;padding-bottom:0!important}
 body.book #header{text-align:center}
-body.book #header>h1:first-child{border:0!important;margin:2.5em 0 1em 0}
+body.book #header>h1:first-child{border:0!important;margin:2.5em 0 1em}
 body.book #header .details{border:0!important;display:block;padding:0!important}
 body.book #header .details span:first-child{margin-left:0!important}
 body.book #header .details br{display:block}
-body.book #header .details br+span:before{content:none!important}
+body.book #header .details br+span::before{content:none!important}
 body.book #toc{border:0!important;text-align:left!important;padding:0!important;margin:0!important}
 body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-break-before:always}
-.listingblock code[data-lang]:before{display:block}
-#footer{background:none!important;padding:0 .9375em}
-#footer-text{color:rgba(0,0,0,.6)!important;font-size:.9em}
+.listingblock code[data-lang]::before{display:block}
+#footer{padding:0 .9375em}
 .hide-on-print{display:none!important}
 .print-only{display:block!important}
 .hide-for-print{display:none!important}
 .show-for-print{display:inherit!important}}
+@media print,amzn-kf8{#header>h1:first-child{margin-top:1.25rem}
+.sect1{padding:0!important}
+.sect1+.sect1{border:0}
+#footer{background:none}
+#footer-text{color:rgba(0,0,0,.6);font-size:.9em}}
+@media amzn-kf8{#header,#content,#footnotes,#footer{padding:0}}
 </style>
 </head>
 <body class="article">
@@ -429,267 +447,187 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <p>by Gary Lord</p>
 </div>
 <div class="paragraph">
-<p>Copyright Gary Lord 2020</p>
+<p><a href="index.html">Home</a> - <a href="ch1.html">Genesis</a> - <a href="ch2.html">2007</a> - <a href="ch3.html">2008</a> - <a href="ch4.html">2009</a> - <a href="ch5.html">Early 2010</a> - <a href="ch6.html">Mid 2010</a> - <a href="ch7.html">Late 2010</a> - <a href="ch8.html">2011</a></p>
 </div>
 </div>
 </div>
 <div class="sect1">
-<h2 id="_chapter_six">Chapter Six</h2>
+<h2 id="_chapter_six_mid_2010">Chapter Six: Mid 2010</h2>
 <div class="sectionbody">
 <div class="paragraph">
-<p>The year 2011 began with Chelsea Manning in de facto solitary confinement at the US Marine Corps' Quantico Brig in Virginia, while Julian Assange was under house arrest at Ellingham Hall, the ten-bedroom country mansion of a friend and supporter, Vaughan Smith, in Norfolk, England.</p>
+<p>In the months following Chelsea Manning&#8217;s May 2010 arrest, the US government empaneled a secret grand jury to investigate WikiLeaks and Julian Assange. By the end of the year, the grand jury had produced a secret <a href="https://www.justice.gov/opa/press-release/file/1153486/download">sealed indictment</a> charging Julian Assange with conspiracy to hack into a US government network. While US grand juries are re-empaneled every three years, and indictiments are regularly refreshed, the year of this indictment&#8217;s original creation can be proven by the codes used to identify it. Assange lawyer Michael Ratner later <a href="https://wikileaks.org/Background-for-UN-Talk-Ongoing.html">explained</a> the meaning of a code ("11-3/ 10GJ3793/ 11-937") marked on a <a href="https://couragefound.org/legal_docs/subpoena-11-3-10gj3793-11-1233-letter-re-11-3.pdf">subpoena</a> related to the investigation:</p>
 </div>
-<div class="paragraph">
-<p>Smith, a former Army officer and war correspondent, <a href="https://www.thedailybeast.com/julian-assanges-guardian-angel-frontline-club-founder-vaughan-smith">bristled</a> at media hostility towards Assange.</p>
+<div class="imageblock">
+<div class="content">
+<img src="2010subpoena.png" alt="2010subpoena">
 </div>
-<div class="quoteblock">
-<blockquote>
-<div class="paragraph">
-<p>I have seen a human side of him that hasn’t been represented in the press. He is incredibly popular with my children, who see him as sort of an uncle figure. He’s somebody who will listen to you, and he’s somebody who will give you time and give you attention and help you&#8230;&#8203; He’s damn good company.</p>
-</div>
-</blockquote>
-</div>
-<div class="paragraph">
-<p>Smith also ridiculed media claims that the much-vaunted "age of WikiLeaks" was already over.</p>
 </div>
 <div class="quoteblock">
 <blockquote>
 <div class="paragraph">
-<p>I think there are lots of bullies here. I think the British press have been bullying. I think the American government have been bullies. But it’s wider than that&#8230;&#8203; Julian is presented as some sort of slightly nutty proponent of radical transparency. Actually, the truth is, he isn’t anything of the sort.</p>
-</div>
-</blockquote>
-</div>
-<div class="quoteblock">
-<blockquote>
-<div class="paragraph">
-<p>I think it would be foolish to determine WikiLeaks is over. It’s far too premature for that&#8230;&#8203; I don’t think we’ve seen the end of Assange.</p>
+<p>Grand Jury’s number is “10” standing for the year it began. “GJ” which is Grand Jury and then 3793. “3” is the Conspiracy Statute in the United States. “793” is the Espionage Statute.</p>
 </div>
 </blockquote>
 </div>
 <div class="paragraph">
-<p>Assange&#8217;s bail conditions included wearing an electronic ankle tag, reporting daily in person to the local police station, and observing a curfew between 10 pm and 8 am. Assange was frequently photographed by the media in the company of <a href="https://wikileaks.org/Profile-Sarah-Harrison.html">Sarah Harrison</a>, who has modestly <a href="https://www.standard.co.uk/lifestyle/london-life/sarah-harrison-the-woman-behind-whistblowers-edward-snowden-and-julian-assange-a3342546.html">described herself</a> as "just a blonde girl" with "the most boring name ever”. Harrison had joined WikiLeaks to help with the Afghan War Diaries after previously working as an investigative researcher for The Bureau of Investigative Journalism and the Centre for Investigative Journalism. Rumours of a romantic relationship were quick to spread.</p>
+<p>The existence of this sealed indictment was routinely denied until Julian Assange was arrested by London police in April 2019, and the original US "computer intrusion" charge, which carried a maximum five years jail, was publicly revealed. A month later, the US government would announce seventeen additional charges, all related to Assange&#8217;s involvement with Chelsea Manning, amounting to a maximum 175 years jail.</p>
+</div>
+<div class="paragraph">
+<p>*</p>
 </div>
 <div class="sect2">
-<h3 id="_january">January</h3>
+<h3 id="_afghan_war_logs">Afghan War Logs</h3>
 <div class="paragraph">
-<p>On 6 January 2011 Vanity Fair <a href="https://www.vanityfair.com/news/2011/02/the-guardian-201102?currentPage=all%3Cbr%20/%3E">published</a> a lengthy but unreliable account of how WikiLeaks had worked with various media organisations in the previous year. "The Man Who Spilled The Secrets" article included a potted history of the Guardian and treated Guardian journalists, particularly editor-in-chief Alan Rusbridger, with an awed reverence.</p>
+<p>The last day of June 2010 was the first day of a momentous three day gathering at the Guardian offices in London. WikiLeaks boss Julian Assange was meeting up with five journalists - John Goetz from Germany&#8217;s Der Spiegel, Eric Schmitt from the New York Times, and the Guardian&#8217;s David Leigh, Nick Davies and Rob Evans - to examine the leaked material that would later be known as the <a href="https://wardiaries.wikileaks.org/">Afghan War Logs</a> (originally the "Afghan War Diary"). Their meeting room soon became the highly secretive new project&#8217;s "bunker".</p>
 </div>
 <div class="paragraph">
-<p>The first week of January 2011 also saw Bianca Jagger publish a <a href="https://www.huffpost.com/entry/the-julian-assange-trial_b_805299">rebuttal</a> of Nick Davies' <a href="https://www.huffpost.com/entry/post_1506_b_802680">rebuttal</a> of her <a href="https://www.huffpost.com/entry/trial-by-newspaper_b_800847">rebuttal</a> of his original Guardian article <a href="https://www.theguardian.com/media/2010/dec/17/julian-assange-sweden">Ten Days In Sweden</a>, which had provided extensive details from the Swedish police file on the Assange case. Davies, who acknowledged having fallen out with Assange months earlier, had rejected Jagger&#8217;s claims that his one-sided article, peppered with lurid sexual details, amounted to "trial by newspapers".</p>
+<p>According to <a href="https://www.tareqhaddad.com/wp-content/uploads/2020/09/2020.09.16-Assange-Extradition-Hearings-Statement-of-John-Goetz.pdf">John Goetz</a>, they also wanted to "come up with a plan on how to coordinate journalistic cooperation between the partners."</p>
 </div>
 <div class="paragraph">
-<p>Davies said the Swedish police file, which would normally have remained secret to guarantee a fair trail for all parties concerned, just "happened to make its way quite legitimately into the hands of somebody I have come across in the past". He refused to identify his source, who probably committed a crime by leaking the file, and finally washed his hands of responsibility for the article that bore his name:</p>
+<p>Assange was concerned by how much high-level pressure WikiLeaks had received after the publishing of "Collateral Murder". He felt that it would be safer to partner with established media organisations in order to release the rest of the Manning leaks, but he only wanted to work with journalists he could trust. There was a clear benefit to the media organisations involved: exclusive access to a treasure trove of leaks, with journalists from various regions publishing explosive stories related to their own countries. In return, WikiLeaks expected these journalists to help sift through the mountains of data, and publish their articles responsibly. As John Goetz said:</p>
 </div>
 <div class="quoteblock">
 <blockquote>
 <div class="paragraph">
-<p>The reality is that I didn’t write the story which the Guardian published. The copy which I filed was completely re-written in the Guardian office, a commonplace event in a newsroom.</p>
+<p>"I discussed in detail with Assange in London how documents might be vetted to prevent risk of harm to anyone. He was in agreement as to the importance of protecting confidential sources including certain US and ISAF [International Security Assistance Force, the NATO-led military mission in Afghanistan] sources."</p>
 </div>
 </blockquote>
 </div>
 <div class="paragraph">
-<p>Jagger dismissed Davies' ludicrous claim that he was defending his source just like WikiLeaks defended theirs, noting "there is a profound difference between exposing the deeds of powerful governments, corporations and the rich and throwing mud at those who released the information". She also made an important point which would have profound repercussions for years to come:</p>
+<p>Goetz said this careful approach to redaction was "understood and agreed by all the media partners" and efforts to keep the data secure were "more extreme&#8230;&#8203; than I had ever previously observed as a journalist". He said someone from the Guardian put the complex US military database content into a Microsoft Excel format, making it easier to read, but the work was still "extraordinarily demanding".</p>
 </div>
 <div class="quoteblock">
 <blockquote>
 <div class="paragraph">
-<p>Assange cannot defend himself at this point; all he can do is refute these allegations in the broadest terms. Davies knows that Assange’s lawyers will insist that he does not publicly engage in a rebuttal of the details in these allegations himself, when he is facing extradition and possible criminal charges. He is thoroughly disadvantaged by what Davies has done.</p>
+<p>"The scope was overwhelming and demands upon all involved were enormous and stressful for a range of reasons."</p>
 </div>
 </blockquote>
 </div>
 <div class="paragraph">
-<p>Assange would never get his "day in court" to publicly refute the Swedish allegations. He would have to wait nearly seven more years before Swedish prosecutors even came to question him in London, as they routinely did in similar cases. And he would eventually learn that UK Crown Prosecutors had secretly <a href="https://www.theguardian.com/media/2018/feb/11/sweden-tried-to-drop-assange-extradition-in-2013-cps-emails-show">warned</a> their Swedish counterparts not to "get cold feet" and close the case (and then deleted their emails). Meanwhile, hostile media voices were free to say whatever they liked.</p>
-</div>
-<div class="paragraph">
-<p>*</p>
-</div>
-<div class="paragraph">
-<p>On 8 January 2011, while supporters of Assange and WikiLeaks organised more <a href="https://wlcentral.org/node/868">global protests</a>, WikiLeaks <a href="http://twitter.com/#!/wikileaks/status/23591796542013441">launched</a> a new defense fund for Julian Assange, tweeting: "let us see Paypal try to close this one down too!"</p>
-</div>
-<div class="paragraph">
-<p>On the same day, it was <a href="https://twitter.com/wikileaks/status/23604032362778625?s=20">revealed</a> that the US Department of Justice had issued Twitter with a court order, dated 14 December 2010 (<a href="https://web.archive.org/web/20110108131805/http://www.salon.com/news/opinion/glenn_greenwald/2011/01/07/twitter/subpoena.pdf">PDF</a>), for "all records" and "correspondence" relating to accounts "registered to or associated with WikiLeaks". These included Julian Assange and Bradley Manning, along with Iceland MP Birgitta Jónsdóttir, Tor developer Jacob Appelbaum, and Dutch hacker Rop Gonggrijp, who had helped work on the Collateral Murder video.</p>
-</div>
-<div class="paragraph">
-<p>Twitter advised affected users that they had ten days to oppose the request for information about their accounts.</p>
+<p>Prior to the release, Eric Schmitt of the New York Times contacted the White House for comment. He later emailed Goetz to say the Obama administration had requested that WikiLeaks and their partners redact the names of informants and withhold 15,000 documents from publication. WikiLeaks subsequently noted on their <a href="https://wikileaks.org/wiki/Afghan_War_Diary,_2004-2010">release page</a>:</p>
 </div>
 <div class="quoteblock">
 <blockquote>
 <div class="paragraph">
-<p>"I think I am being given a message, almost like someone breathing in a phone," <a href="https://web.archive.org/web/20110108092940/http://news.cnet.com/8301-31921_3-20027893-281.html">tweeted</a> Jónsdóttir.</p>
+<p>"We have delayed the release of some 15,000 reports from the total archive as part of a harm minimization process demanded by our source. After further review, these reports will be released, with occasional redactions, and eventually in full, as the security situation in Afghanistan permits. "</p>
 </div>
 </blockquote>
 </div>
 <div class="paragraph">
-<p>The New York Times <a href="https://www.nytimes.com/2011/01/09/world/09wiki.html">reported</a> that this was "the first public evidence" of the criminal investigation ordered a month earlier by Obama&#8217;s Attorney General Eric Holder, and said that the investigation would be "fraught with legal and political difficulties". Gonggrijp <a href="https://rop.gonggri.jp/?p=448">noted</a> that the affected users only found out about the order "because Twitter did the right thing and successfully fought for a second court order so they were able to tell us". Citing concerns for his young family, Gonggrijp later terminated his public support for WikiLeaks.</p>
-</div>
-<div class="paragraph">
-<p>The DoJ court order, which was widely misreported as a "subpoena", caused <a href="https://wlcentral.org/node/863">outrage</a> on Twitter, with @wikileaks warning that all 637,000 of their followers were now being targeted by the US government "under section 2.B" of the order. Enraged followers threatened a class action lawsuit against the US government. Others were intimidated into unfollowing @wikileaks, but within a week the account had a <a href="http://twitter.com/#!/wikileaks/status/25454900083171328">net gain</a> of 12,000 followers (hello again Streisand Effect). Iceland MPs voiced concerns that a colleague was being targeted and Foreign Minister Oessur Skarphedinsson <a href="http://www.dw-world.de/dw/article/0,,14758284,00.html">told German media</a> it was not acceptable that US authorities had demanded such information.</p>
-</div>
-<div class="paragraph">
-<p>After some deliberation, Jacob Applebaum decided to push ahead with his planned return to the USA on 10 January, but organised for representatives from the American Civil Liberties Union (ACLU) to meet him at the airport. He then <a href="https://wlcentral.org/node/918">posted</a> a long series of tweets about the constant harrassment he received when traveling through US airports.</p>
+<p>The plan was for all the media partners to publish at the same time (so that the US government could not signal out one organisation to blame) with stories linking back to the verifiable data on the WikiLeaks website. But Goetz said Der Spiegel and the Guardian ended up publishing before WikiLeaks:</p>
 </div>
 <div class="quoteblock">
 <blockquote>
 <div class="paragraph">
-<p>The CBP agents in Seattle were nicer than ones in Newark. None of them implied I would be raped in prison for the rest of my life this time.</p>
+<p>"The Guardian published a couple of hundred documents on their site before WikiLeaks. WikiLeaks has some technical delay and their Afghan War Diary website did not go live for a couple of hours after we did."</p>
 </div>
 </blockquote>
 </div>
 <div class="paragraph">
-<p>*</p>
+<p>On 25 July 2010, WikiLeaks <a href="https://wikileaks.org/wiki/Afghan_War_Diary,_2004-2010">published</a> the Afghan War Diary: 75,000 documents (of the original 91,000) covering a period between January 2004 and December 2009.  Julian Assange <a href="https://web.archive.org/web/20100727234634/http://www.spiegel.de/international/world/0%2C1518%2C708518%2C00.html">called it</a> "the most comprehensive history of a war ever to be published, during the course of the war - in other words, at a time when they still have a chance of doing some good." He said the leaked documents would "change our perspective on not only the war in Afghanistan, but on all modern wars."</p>
 </div>
 <div class="paragraph">
-<p>On 11 January 2011 Julian Assange&#8217;s routine case management hearing at Belmarsh Magistrates Court was swamped with media and supporters. The Guardian&#8217;s <a href="https://www.theguardian.com/news/blog/2011/jan/11/wikileaks-latest-developments">live-blog</a> of the event included continuing global fallout from the US cable publications and highlights from a 35-page <a href="https://wlcentral.org/node/902">skeleton outline</a> of court arguments from Assange&#8217;s lawyers.</p>
-</div>
-<div class="paragraph">
-<p>There were valid security concerns around Assange&#8217;s court appearance, especially following a recent mass shooting in Arizona where a US politician was shot. WikiLeaks published a <a href="https://www.twitlonger.com/show/82g3kb">statement</a> condemning violent threats:</p>
+<p>A Guardian <a href="https://web.archive.org/web/20110728043710/http://www.guardian.co.uk/commentisfree/2010/jul/25/afghanistan-war-logs-guardian-editorial?intcmp=239">editorial</a> called the leaks an "unvarnished picture" of a nine year old war that "cannot be won like this":</p>
 </div>
 <div class="quoteblock">
 <blockquote>
 <div class="paragraph">
-<p>WikiLeaks staff and contributors have also been the target of unprecedented violent rhetoric by US prominent media personalities, including Sarah Palin, who urged the US administration to “Hunt down the WikiLeaks chief like the Taliban”. Prominent US politician Mike Huckabee called for the execution of WikiLeaks spokesman Julian Assange on his Fox News program last November, and Fox News commentator Bob Beckel, referring to Assange, publicly called for people to "illegally shoot the son of a bitch." US radio personality Rush Limbaugh has called for pressure to "Give [Fox News President Roger] Ailes the order and [then] there is no Assange, I&#8217;ll guarantee you, and there will be no fingerprints on it.", while the Washington Times columnist Jeffery T. Kuhner titled his column “Assassinate Assange” captioned with a picture Julian Assange overlayed with a gun site, blood spatters, and “WANTED DEAD or ALIVE” with the alive crossed out.</p>
-</div>
-</blockquote>
-</div>
-<div class="quoteblock">
-<blockquote>
-<div class="paragraph">
-<p>John Hawkins of Townhall.com has stated "If Julian Assange is shot in the head tomorrow or if his car is blown up when he turns the key, what message do you think that would send about releasing sensitive American data?"</p>
-</div>
-</blockquote>
-</div>
-<div class="quoteblock">
-<blockquote>
-<div class="paragraph">
-<p>Christian Whiton in a Fox News opinion piece called for violence against WikiLeaks publishers and editors, saying the US should "designate WikiLeaks and its officers as enemy combatants, paving the way for non-judicial actions against them."</p>
-</div>
-</blockquote>
-</div>
-<div class="quoteblock">
-<blockquote>
-<div class="paragraph">
-<p>WikiLeaks spokesman Julian Assange said: "No organisation anywhere in the world is a more devoted advocate of free speech than Wikileaks but when senior politicians and attention seeking media commentators call for specific individuals or groups of people to be killed they should be charged with incitement&#8201;&#8212;&#8201;to murder. Those who call for an act of murder deserve as significant share of the guilt as those raising a gun to pull the trigger."</p>
+<p>"We today learn of nearly 150 incidents in which coalition forces, including British troops, have killed or injured civilians, most of which have never been reported; of hundreds of border clashes between Afghan and Pakistani troops, two armies which are supposed to be allies; of the existence of a special forces unit whose tasks include killing Taliban and al-Qaida leaders; of the slaughter of civilians caught by the Taliban&#8217;s improvised explosive devices; and of a catalogue of incidents where coalition troops have fired on and killed each other or fellow Afghans under arms."</p>
 </div>
 </blockquote>
 </div>
 <div class="paragraph">
-<p>The web addresss julianassangemustdie.com, which was traced to a rightwing US blogger, was deleted soon afterwards.</p>
+<p>The leaks also revealed incidents of <a href="http://www.huffingtonpost.com/2010/12/08/wikileaks-reveals-that-mi_n_793816.html">child prostitution</a> by US Defence contractors, and <a href="https://web.archive.org/web/20100730083935/http://news.yahoo.com/s/ynews/20100727/wl_ynews/ynews_wl3247">psychological warfare</a> waged via Afghan media outlets.</p>
 </div>
 <div class="paragraph">
-<p>Meanwhile the economic threats from US officials continued. On 12 January 2011 WikiLeaks <a href="https://www.wikileaks.org/WIKILEAKS-PRESS-RELEASE.html">responded</a> to Rep. Peter T. King&#8217;s calls for a US embargo of WikiLeaks.</p>
+<p>In the months ahead of this release, President Obama had ordered a contoversial "surge" of new US forces in Afghanistan. He <a href="https://www.theguardian.com/world/2010/jul/25/afghanistan-war-logs-military-leaks">blamed</a> his predecessor, President Bush, for the chaos the leaks revealed:</p>
 </div>
 <div class="quoteblock">
 <blockquote>
 <div class="paragraph">
-<p>WikiLeaks today condemned calls from the chair of the House Committee on Homeland Security to "strangle the viability" of WikiLeaks by placing the publisher and its editor-in-chief, Julian Assange, on a US "enemies list" normally reserved for terrorists and dictators.</p>
+<p>In a statement, the White House said the chaotic picture painted by the logs was the result of "under-resourcing" under Obama&#8217;s predecessor, saying: "It is important to note that the time period reflected in the documents is January 2004 to December 2009."</p>
 </div>
 </blockquote>
 </div>
 <div class="paragraph">
-<p>King specifically wanted to target Knopf, a New York publisher who had recently agreed to pay Assange for an autobiography. Assange said the book royalties would "keep Wikileaks afloat". An article in <a href="https://www.theatlantic.com/national/archive/2011/01/blacklisting-wikileaks/69535/">the Atlantic</a> ridiculed the madness of such a McCarthyist blacklist: "you could conceivably break the law merely by buying his book, or contributing to a WikiLeaks defense fund".</p>
+<p>The White House also claimed that WikiLeaks had "made no effort to contact the US government about these documents." This simply was not true: the media partners had <a href="https://www.tareqhaddad.com/wp-content/uploads/2020/09/2020.09.16-Assange-Extradition-Hearings-Statement-of-John-Goetz.pdf">agreed</a> that the New York Times should handle discussions with the US government "because if all the partners contacted the White House independently, there would be chaos".</p>
+</div>
+<div class="imageblock text-center">
+<div class="content">
+<img src="2010augtricktweet.png" alt="2010augtricktweet">
+</div>
 </div>
 <div class="paragraph">
-<p>WikiLeaks was under massive pressure but clearly not going down without a fight. In a 12 January <a href="https://www.newstatesman.com/blogs/the-staggers/2011/01/china-wikileaks-assange">interview</a> with John Pilger, Assange mentioned the existence of "insurance files":</p>
+<p>The US government further claimed that the disclosure of this classified information "puts the lives of the US and partner service members at risk and threatens our national security". This claim would be repeated endlessly for years to come, but no solid proof of harm was ever supplied. When US prosecutors ended up in court years later, they could not point to a single incident where anyone had been harmed as a result of WikiLeaks publications. They noted that the Taliban had responded to the release of the Afghan War Logs by publicly stating that they were reviewing the leaks to identify spies whom they could “punish". Assange dryly responded that this that was entirely expected, and that is why names had been redacted. A Senate Committee on Armed Services reported in August 2010 that “the review to date has not revealed any sensitive sources and methods compromised by disclosure”.</p>
+</div>
+<div class="imageblock text-center">
+<div class="content">
+<img src="2010aug4tweetwh.png" alt="2010aug4tweetwh">
+</div>
+</div>
+<div class="paragraph">
+<p>Within days of the Afghan War Logs release, US Defence Secretary Robert Gates <a href="https://archive.is/E1TVI#selection-415.17-415.135">phoned</a> FBI Director Robert Mueller and asked the FBI to assist in their investigation of WikiLeaks and Julian Assange. WikiLeaks said the US Department of State&#8217;s Diplomatic Security Service was also involved in the investigation.</p>
+</div>
+<div class="paragraph">
+<p>On the following day, WikiLeaks added an AES-encrypted "insurance file" to the Afghan War Diary page. The 1.4 GigaByte file, with a timestamp of 31 December 2010, was twenty times larger than the just-released Afghan War documents. Cryptographers said it would be virtually impossible to crack unless WikiLeaks revealed the password. Within weeks, the file had been downloaded over 100,000 times, and WikiLeaks was boasting over 100,000 followers on Twitter alone.</p>
+</div>
+<div class="paragraph">
+<p>On the same day (29 July 2010) Britain&#8217;s House of Commons <a href="https://web.archive.org/web/20100801185303/https://www.presstv.ir/detail.aspx?id=136666&amp;sectionid=351021806">announced</a> that they would hold two inquiries into the Afghan War:</p>
 </div>
 <div class="quoteblock">
 <blockquote>
 <div class="paragraph">
-<p>"WikiLeaks is now mirrored on more than 2,000 websites&#8230;&#8203; If something happens to me or to WikiLeaks, ‘insurance’ files will be released&#8230;&#8203;. There are 504 US embassy cables on one broadcasting organisation and there are cables on Murdoch and News Corp.”</p>
-</div>
-</blockquote>
-</div>
-<div class="paragraph">
-<p>Was it a bluff? In years to come, WikiLeaks would repeatedly post such encrypted "insurance files" online. This lead to a lot of wild speculation about the contents, and much of that speculation eventually solidified into misguided belief. Uninformed critics still angrily disclaim how WikiLeaks "promised" to post something but never did.</p>
-</div>
-<div class="paragraph">
-<p>*</p>
-</div>
-<div class="paragraph">
-<p>15 January 2011 saw more <a href="https://wlcentral.org/node/947">global protests</a>. The rally in Sydney, Australia <a href="https://wlcentral.org/node/939">drew</a> around a thousand supporters. This followed another huge Sydney protest on 14 December 2010, with another one planned for 6 February 2011. WikiLeaks supporters around the world were energised, outraged, and working together to support their heroes.</p>
-</div>
-<div class="paragraph">
-<p>Such protests always featured prominent support for Chelsea Manning, who had now been kept in jail under turturous conditions at the Quantico brig for over five months. On 24 January, two Manning supporters (including regular visitor David House) were <a href="https://wlcentral.org/node/1063">turned away</a> from the facility after they attempted to deliver a petition of support with 42,000 signatures. On the following day, NBC reported that US military officials had placed Manning on suicide watch.</p>
-</div>
-<div class="quoteblock">
-<blockquote>
-<div class="paragraph">
-<p>The official said that after Manning had allegedly failed to follow orders from his Marine guards, [Brig Commander James] Averhart declared Manning a "suicide risk." Manning was then placed on suicide watch, which meant he was confined to his cell, stripped of most of his clothing and deprived of his reading glasses — anything that Manning could use to harm himself.</p>
-</div>
-</blockquote>
-</div>
-<div class="paragraph">
-<p>Manning later claimed that the guards had created a scene by issuing conflicting demands such as "turn left, don&#8217;t turn left". An investigation found that the Brig Commander had acted unlawfully, and he was replaced. Manning was removed from suicide watch on January 21 but remained on POI (Prevention Of Injury) status, despite repeated calls from Army health professionals for this to be lifted. Manning&#8217;s lawyers filed a <a href="https://web.archive.org/web/20131202233021/http://www.armycourtmartialdefense.info/2011/01/article-138-complaint.html">complaint</a> explaining exactly what this entailed:</p>
-</div>
-<div class="quoteblock">
-<blockquote>
-<div class="paragraph">
-<p>Like suicide risk, he is held in solitary confinement. For 23 hours per day, he will sit in his cell. The guards will check on him every five minutes by asking him if he is okay. PFC Manning will be required to respond in some affirmative manner. At night, if the guards cannot see him clearly, because he has a blanket over his head or is curled up towards the wall, they will wake him in order to ensure that he is okay. He will receive each of his meals in his cell. He will not be allowed to have a pillow or sheets. He will not be allowed to have any personal items in his cell. He will only be allowed to have one book or one magazine at any given time to read. The book or magazine will be taken away from him at the end of the day before he goes to sleep. He will be prevented from exercising in his cell. If he attempts to do push-ups, sit-ups, or any other form of exercise he will be forced to stop. He will receive one hour of exercise outside of his cell daily. The guards will take him to an empty room and allow him to walk. He will usually just walk in figure eights around the room until his hour is complete. When he goes to sleep, he will be required to strip down to his underwear and surrender his clothing to the guards.</p>
-</div>
-</blockquote>
-</div>
-<div class="paragraph">
-<p>On 24 January 2011 Amnesty International <a href="https://blog.amnestyusa.org/waronterror/inhumane-treatment-of-wikileaks-soldier-bradley-manning/">issued a call</a> for the USA to "alleviate the harsh pre-trial detention conditions of Bradley Manning." They <a href="https://www.amnestyusa.org/qa-wikileaks-and-freedom-of-expression/">ignored</a> pleas to show similar support for Julian Assange.</p>
-</div>
-<div class="quoteblock">
-<blockquote>
-<div class="paragraph">
-<p>We are unaware of any legal action having yet been taken against Julian Assange for releasing the documents. As such, Amnesty International is not in a position to comment on any possible case against him specifically, as there are no charges to comment on.</p>
-</div>
-</blockquote>
-</div>
-<div class="paragraph">
-<p>Amnesty also refused to comment on the Swedish allegations, arguing only that "due process should be followed". Their strange lack of interest in the Assange case was to endure many years, with only very occasional and limited mentions.</p>
-</div>
-<div class="paragraph">
-<p>*</p>
-</div>
-<div class="paragraph">
-<p>The US government may not yet have charged Assange, but they already had a sealed indictment waiting for him, which meant they could file a charge whenever they chose to unseal the indictment. A 26 January 2011 email from Fred Burton, a Vice President at private intelligence firm Stratfor, <a href="https://wikileaks.org/gifiles/docs/13/1352579_fw-ct-assange-manning-link-not-key-to-wikileaks-case-.html">stated</a>:</p>
-</div>
-<div class="quoteblock">
-<blockquote>
-<div class="paragraph">
-<p>Not for Pub&#8201;&#8212;&#8201;</p>
+<p>Commons' defense committee said in a statement that the first inquiry would examine whether it was justifiable for Britain to remain involved in the nine-year-old unpopular war. It will also examine reports of civilian casualties and a timetable for withdrawal.</p>
 </div>
 </blockquote>
 </div>
 <div class="quoteblock">
 <blockquote>
 <div class="paragraph">
-<p>We have a sealed indictment on Assange.</p>
+<p>The statement said the second inquiry would consider ways to find a political settlement in Afghanistan.</p>
+</div>
+</blockquote>
+</div>
+<div class="imageblock text-center">
+<div class="content">
+<img src="2010jul30tweet.png" alt="2010jul30tweet">
+</div>
+</div>
+<div class="paragraph">
+<p>In media interviews, Julian Assange <a href="https://web.archive.org/web/20100727234634/http://www.spiegel.de/international/world/0%2C1518%2C708518%2C00.html">bristled</a> at claims he had "blood on his hands".</p>
+</div>
+<div class="quoteblock">
+<blockquote>
+<div class="paragraph">
+<p>"There is a legitimate role for secrecy, and there is a legitimate role for openness. Unfortunately, those who commit abuses against humanity or against the law find abusing legitimate secrecy to conceal their abuse all too easy&#8230;&#8203; Reform can only come about when injustice is exposed."</p>
 </div>
 </blockquote>
 </div>
 <div class="quoteblock">
 <blockquote>
 <div class="paragraph">
-<p>Pls protect</p>
+<p><strong>SPIEGEL</strong>: During the Vietnam War, US President Richard Nixon once called Daniel Ellsberg, the leaker of the Pentagon Papers, the most dangerous man in America. Are you today&#8217;s most dangerous man or the most endangered?</p>
 </div>
 </blockquote>
-</div>
-<div class="paragraph">
-<p>Fred Burton was Stratfor&#8217;s Vice-President for Counterterrorism and Corporate Security, and a former Deputy Chief of the Department of State&#8217;s counterterrorism division for the Diplomatic Security Service. Stratfor&#8217;s business model relies on close communication with US intelligence agencies, and many Stratfor staff are former CIA agents. Burton&#8217;s email was not uninformed gossip - Assange’s own lawyers had already warned of a possible indictment - but it remained secret until February 2012, when WikiLeaks <a href="https://wikileaks.org/Stratfor-Emails-US-Has-Issued.html">released</a> the <a href="http://wikileaks.org/the-gifiles.html">Global Intelligence files</a>.</p>
-</div>
-<div class="paragraph">
-<p>Despite such evidence of a US indictment, media commentators and senior government officials in Britain, Australia, and Sweden - many of whom must have known about the sealed indictment - continued to pretend that Assange&#8217;s fears of extradition to the USA were entirely baseless.</p>
-</div>
-<div class="paragraph">
-<p>In August 2012, Reuters falsely <a href="https://uk.reuters.com/article/us-wikileaks-assange-usa/despite-assange-claims-u-s-has-no-current-case-against-him-idUSBRE87L12W20120822">reported</a> that the USA had "no current case" against Assange and State Department spokeswoman Victoria Nuland dismissed his extradition concerns as "wild assertions".</p>
 </div>
 <div class="quoteblock">
 <blockquote>
 <div class="paragraph">
-<p>“He is clearly trying to deflect attention away from the real issue,” Nuland said.</p>
+<p>"The most dangerous men are those who are in charge of war. And they need to be stopped. If that makes me dangerous in their eyes, so be it."</p>
 </div>
 </blockquote>
-</div>
-<div class="paragraph">
-<p>In November 2013 the Washington Post went even further, falsely <a href="https://web.archive.org/web/20131121011138/https://www.washingtonpost.com/world/national-security/assange-not-under-sealed-indictment-us-officials-say/2013/11/18/8a3cb2da-506c-11e3-a7f0-b790929232e1_story.html">reporting</a> that Assange was "not under sealed indictment" based on comments from anonymous US officials.</p>
 </div>
 <div class="quoteblock">
 <blockquote>
 <div class="paragraph">
-<p>“We will treat this news with skepticism,” said WikiLeaks spokesman Kristinn Hrafnsson. “Unfortunately, the U.S. government has a track record of being deceptive.”</p>
+<p><strong>SPIEGEL</strong>: You could have started a company in Silicon Valley and lived in a home in Palo Alto with a swimming pool. Why did you decide to do the WikiLeaks project instead?</p>
+</div>
+</blockquote>
+</div>
+<div class="quoteblock">
+<blockquote>
+<div class="paragraph">
+<p>"We all only live once. So we are obligated to make good use of the time that we have and to do something that is meaningful and satisfying. This is something that I find meaningful and satisfying. That is my temperament. I enjoy creating systems on a grand scale, and I enjoy helping people who are vulnerable. And I enjoy crushing bastards. So it is enjoyable work."</p>
 </div>
 </blockquote>
 </div>
@@ -697,53 +635,104 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <p>*</p>
 </div>
 <div class="paragraph">
-<p>Also on 26 January 2011, the New York Times' executive editor Bill Keller published a <a href="https://wlcentral.org/node/1126">ridiculously long</a> article about his dealings with WikiLeaks during the previous year. Keller was intent on establishing his own narrative of events, thus insulating his newspaper from allegations of irresponsible reporting, but he also provided qualified support for Assange and WikiLeaks in the face of US government threats:</p>
+<p>In the Washington Post newspaper, former Bush speechwriter Marc Thiessen, a senior member of the Neoconservative "American Enterprise Institute", <a href="https://www.washingtonpost.com/wp-dyn/content/article/2010/08/02/AR2010080202627.html">branded</a> WikiLeaks “a criminal enterprise” and urged the military to hunt them down like terrorists. In retrospect, his article set out a roadmap which US administrations largely maintained for the following decade.</p>
+</div>
+<div class="imageblock right">
+<div class="content">
+<img src="2010augthiessen.png" alt="Thiessen">
+</div>
 </div>
 <div class="quoteblock">
 <blockquote>
 <div class="paragraph">
-<p>But while I do not regard Assange as a partner, and I would hesitate to describe what WikiLeaks does as journalism, it is chilling to contemplate the possible government prosecution of WikiLeaks for making secrets public, let alone the passage of new laws to punish the dissemination of classified information, as some have advocated. Taking legal recourse against a government official who violates his trust by divulging secrets he is sworn to protect is one thing. But criminalizing the publication of such secrets by someone who has no official obligation seems to me to run up against the First Amendment and the best traditions of this country.</p>
-</div>
-</blockquote>
-</div>
-<div class="paragraph">
-<p>Five days later, 60 Minutes aired a lengthy <a href="http://is.gd/7Ll9ZM">interview</a> with Assange were he claimed "our founding values are those of the U.S. revolution".</p>
-</div>
-<div class="quoteblock">
-<blockquote>
-<div class="paragraph">
-<p>60 Mins: Someone in the Australian government said that, “Look, if you play outside the rules you can’t expect to be protected by the rules.” And you played outside the rules. You’ve played outside the United States’ rules.</p>
+<p>Assange is a non-U.S. citizen operating outside the territory of the United States. This means the government has a wide range of options for dealing with him. It can employ not only law enforcement but also intelligence and military assets to bring Assange to justice and put his criminal syndicate out of business.</p>
 </div>
 </blockquote>
 </div>
 <div class="quoteblock">
 <blockquote>
 <div class="paragraph">
-<p>Assange: No. We’ve actually played inside the rules. We didn’t go out to get the material. We operated just like any U.S. publisher operates. We didn’t play outside the rules. We played inside the rules.</p>
-</div>
-</blockquote>
-</div>
-<div class="quoteblock">
-<blockquote>
-<div class="paragraph">
-<p>60 Mins: There’s a special set of rules in the United States for disclosing classified information. There is longstanding -</p>
-</div>
-</blockquote>
-</div>
-<div class="quoteblock">
-<blockquote>
-<div class="paragraph">
-<p>Assange: There’s a special set of rules for soldiers. For members of the State Department, who are disclosing classified information. There’s not a special set of rules for publishers to disclose classified information. There is the First Amendment. It covers the case. And there’s been no precedent that I’m aware of in the past 50 years of prosecuting a publisher for espionage. It is just not done. Those are the rules. You do not do it.</p>
+<p>The first step is for the Justice Department to indict Assange. Such an indictment could be sealed to prevent him from knowing that the United States is seeking his arrest. The United States should then work with its international law enforcement partners to apprehend and extradite him.</p>
 </div>
 </blockquote>
 </div>
 <div class="paragraph">
-<p>Assange insisted that WikiLeaks&#8217;s 2010 releases would in fact be "encouragement to every other publisher to publish fearlessly."</p>
+<p>Thiessen said the USA should pressure foreign governments to "cooperate in bringing Assange to justice".</p>
 </div>
 <div class="quoteblock">
 <blockquote>
 <div class="paragraph">
-<p>If we’re talking about creating threats to small publishers to stop them publishing, the U.S. has lost its way. It has abrogated its founding traditions. It has thrown the First Amendment in the bin. Because publishers must be free to publish.</p>
+<p>But if they refuse, the United States can arrest Assange on their territory without their knowledge or approval.</p>
+</div>
+</blockquote>
+</div>
+<div class="paragraph">
+<p>He cited a 1989 memorandum from the US Justice Department&#8217;s Office of Legal Counsel as proof that this would be legal: "we do not need permission to apprehend Assange or his co-conspirators anywhere in the world".</p>
+</div>
+<div class="paragraph">
+<p>Karl Rove, Bush&#8217;s former Senior Advisor, applauded Thiessen&#8217;s article and <a href="http://bit.ly/cK61Cx">challenged</a> President Obama to "stop WikiLeaks". He <a href="https://www.youtube.com/watch?v=Lp8a8EWiWls&amp;ab_channel=JookosNews">said</a> he wanted Assange "hunted down and grabbed". Michigan Congressman Mike Rogers, a Republican on the House Intelligence Committee, <a href="https://www.npr.org/sections/thetwo-way/2010/08/03/128957337/congressman-if-bradley-manning-gave-reports-video-to-wikileaks-execute-him">said</a> Private Manning should be executed if it was proved she leaked the documents to WikiLeaks.</p>
+</div>
+<div class="paragraph">
+<p>*</p>
+</div>
+<div class="paragraph">
+<p>WikiLeaks staff were now being actively targeted by the US government. On 29 July 2010, 27-year-old Jacob Appelbaum, a US citizen and close confidant of Assange, was <a href="https://www.rollingstone.com/culture/culture-news/the-american-wikileaks-hacker-238019/">detained</a> by US customs officers at Newark Liberty airport. Officials photocopied his receipts, confiscated his phones and laptop, then interrogated him for three hours. Pressed for information on Assange and WikiLeaks, or his opinions on the wars in Afghanistan and Iraq, Appelbaum refused to talk.</p>
+</div>
+<div class="paragraph">
+<p>A few weeks earlier, Appelbaum had appeared on stage at a a major New York conference called Hackers on Planet Earth (HOPE). Assange had been scheduled to deliver the keynote speech, but following Manning&#8217;s arrest, it was deemed too dangerous for him to enter the USA. On the day before the Wikileaks Editor in Chief was scheduled to speak, five Homeland Security agents <a href="https://web.archive.org/web/20100810002136/http://news.cnet.com/8301-1009_3-20010861-83.html">appeared</a> at the conference.</p>
+</div>
+<div class="quoteblock">
+<blockquote>
+<div class="paragraph">
+<p>A conference security staffer said that after being told they needed search warrants to enter the event, at least two agents paid the $100 admission fee to get in.</p>
+</div>
+</blockquote>
+</div>
+<div class="imageblock text-center">
+<div class="content">
+<img src="201appelbaum.jpg" alt="201appelbaum">
+</div>
+</div>
+<div class="paragraph">
+<p>Appelbaum&#8217;s speech was a perfect example of his scathing humour and passionate concern:</p>
+</div>
+<div class="quoteblock">
+<blockquote>
+<div class="paragraph">
+<p>“Hello to all my friends and fans in domestic and international surveillance,” Appelbaum began. “I am here today because I believe we can make a better world. Julian, unfortunately, can’t make it, because we don’t live in that better world right now, because we haven’t yet made it. I wanted to make a little declaration for the federal agents that are standing in the back of the room and the ones that are standing in the front of the room, and to be very clear about this: I have, on me, in my pocket, some money, the Bill of Rights and a driver’s license, and that’s it. I have no computer system, I have no telephone, I have no keys, no access to anything. There’s absolutely no reason that you should arrest me or bother me. And just in case you were wondering, I’m an American, born and raised, who’s unhappy. I’m unhappy with how things are going.” He paused, interrupted by raucous applause. “To quote from Tron,” he added, “‘I fight for the user.'”</p>
+</div>
+</blockquote>
+</div>
+<div class="paragraph">
+<p>After the speech, Appelbaum slipped out a backstage door, using a decoy to distract the federal agents, and went straight to the airport, where he boarded a flight to Berlin two hours later. Meanwhile, Julian Assange had made a <a href="https://web.archive.org/web/20100810002241/http://blog.ted.com/2010/07/26/surprise_speake/">surprise appearance</a> on stage at a TED Talk in Oxford, where he received a <a href="https://www.ted.com/talks/julian_assange_why_the_world_needs_wikileaks">standing ovation</a>. Assange repeated that he did not know if Chelsea Manning was WikiLeaks' source.</p>
+</div>
+<div class="quoteblock">
+<blockquote>
+<div class="paragraph">
+<p>“We’re using state-of-the-art encryption and anonymizers to get information. And we get submissions by mail, regular postal mail. If we happen to find out the identity of a source, we destroy that information.”</p>
+</div>
+</blockquote>
+</div>
+<div class="paragraph">
+<p>Nevertheless, WikiLeaks continued urging public support for Manning.</p>
+</div>
+<div class="imageblock text-center">
+<div class="content">
+<img src="2010jul7tweet.png" alt="2010jul7tweet">
+</div>
+</div>
+<div class="imageblock text-center">
+<div class="content">
+<img src="2010jul16tweet.png" alt="2010jul16tweet">
+</div>
+</div>
+<div class="paragraph">
+<p>At the same time, FBI agents were in Wales, raiding the house of Manning&#8217;s seriously ill mother, who had speech difficulties following a stroke four years earlier. The story was only <a href="https://www.dailymail.co.uk/news/article-1299311/FBI-question-WikiLeaks-mother-Welsh-home-Agent-interrogate-distressed-woman-search-sons-bedroom.html">revealed</a> a month later.</p>
+</div>
+<div class="quoteblock">
+<blockquote>
+<div class="paragraph">
+<p>Mr Manning’s aunt Sharon Staples told how her sister Susan, 56, pleaded for help down the phone, sobbing: "They’re here, they’re here."</p>
 </div>
 </blockquote>
 </div>
@@ -751,54 +740,596 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <p>*</p>
 </div>
 <div class="paragraph">
-<p>Meanwhile, the world was in turmoil. Tunisia&#8217;s president Zine al-Abidine Ben Ali <a href="https://www.theguardian.com/world/2011/jan/14/tunisian-president-flees-country-protests">fled his country</a> in mid-January 2011 - despite winning 89% of the vote two years earlier - -and became the first dictator to fall in what became known as the Arab Spring. The widespread protests were at least partly triggered by WikiLeaks' Cablegate publications, which provided hard proof of endemic corruption across the Middle East.</p>
+<p>Even prior to the Afghan War Logs release, WikiLeaks was still busy fending off mounting public criticism. The Wau Holland Foundation in Germany was forced to <a href="https://web.archive.org/web/20100810063000/http://www.techeye.net/internet/wau-holland-foundation-sheds-light-on-wikileaks-donations">clarify</a> how they handled donations to Wikileaks. And Assange, who had just been <a href="https://www.theguardian.com/media/2010/jul/16/julian-assange-mediaguardian-100-2010">rated</a> the 58th Most Powerful Person in Global Media, continued demanding more from his media colleagues.</p>
 </div>
 <div class="paragraph">
-<p>The final days of January saw huge protests in Egypt, with US-backed dictator Hosni Mubarak repeatedly shutting down the Internet to stem the flow of information. On 29 January activists began <a href="http://twitter.com/#!/wikileaks/status/31046777343836160">faxing</a> WikiLeaks cables into Egypt to bypass the Internet blockade. Mubarak resigned less than two weeks later.</p>
-</div>
-<div class="paragraph">
-<p>Critics accused Assange of trying to take full credit for these revolutions, although he did no such thing. On 30 January 2011 @wikileaks <a href="https://twitter.com/wikileaks/status/31448923629420544?s=20">tweeted</a>:</p>
+<p>"Journalism should be more like science," he told one Guardian interviewer (who then <a href="https://www.theguardian.com/media/2010/jul/14/julian-assange-whistleblower-wikileaks">described</a> Assange as "a bit odd&#8230;&#8203; cadaverous&#8230;&#8203; like Andy Warhol").</p>
 </div>
 <div class="quoteblock">
 <blockquote>
 <div class="paragraph">
-<p>Yes, we may have helped Tunisia, Egypt. But let us not forget the elephant in the room: Al Jazeera + sat dishes</p>
+<p>"As far as possible, facts should be verifiable," said Assange. "If journalists want long-term credibility for their profession, they have to go in that direction. Have more respect for readers."</p>
 </div>
 </blockquote>
 </div>
 <div class="paragraph">
-<p>The Arab Spring also saw many online activists joining the #Anonymous global collective to bring down government websites with massive Denial of Service (DDos) attacks. Western analysts could hardly complain when such activists helped bring down authoritarian governments in the Middle East, but it was a different story for those who had targetted US and British websites in the previous year. On 28 January the FBI <a href="https://archives.fbi.gov/archives/news/pressrel/press-releases/warrants_012711">announced</a> that it had executed over forty search warrants in response to DDoS attacks, while five people were <a href="https://wlcentral.org/node/1104">arrested</a> in the United Kingdom.</p>
-</div>
-<div class="paragraph">
-<p>Anons reacted to these arrests by publishing an <a href="https://www.indymedia.org.uk/en/2011/01/472905.html">open letter</a> to the UK government, ridiculing the harsh penalties (maximum 10 years imprisonment and a fine of up to £5000) for a crime that temporarily brought down websites but left no permament damage.</p>
+<p>Assange complained that journalists all too frequently burned their sources without taking any personal risks. Rather provocatively, he compare the death rate of Western journalists with media casualties in more authoritarian regimes:</p>
 </div>
 <div class="quoteblock">
 <blockquote>
 <div class="paragraph">
-<p>The fact that thousands of people from all over the world felt the need to participate in these attacks on organisations targeting Wikileaks and treating it as a public threat, rather than a common good, should be something that sets you thinking. You can easily arrest individuals, but you cannot arrest an ideology.</p>
+<p>"I think it&#8217;s an international disgrace that so few western journalists have been killed in the course of duty, or have been arrested in the course of duty. How many journalists were arrested last year in the United States, a country of 300 million people? How many journalists were arrested in the UK last year?"</p>
 </div>
 </blockquote>
+</div>
+<div class="paragraph">
+<p>On the other hand, Assange rushed to support responsible and courageous journalism. When a Professor of Law at Kings College unfairly attacked the BBC over their <a href="https://wikileaks.org/wiki/BBC_Newsnight%27s_%22Dirty_tricks_and_toxic_waste_in_Ivory_Coast%22,_15min_video,_13_May_2009">handling</a> of the Trafigura affair, Assange <a href="https://www.youtube.com/watch?v=yGshmyKhcX4">publicly humiliated</a> him on stage.</p>
+</div>
+<div class="imageblock text-center">
+<div class="content">
+<img src="2010julmedia.png" alt="2010julmedia">
+</div>
+</div>
+<div class="imageblock text-center">
+<div class="content">
+<img src="2010julmediateet.png" alt="2010julmediateet">
+</div>
+</div>
+<div class="paragraph">
+<p>*</p>
+</div>
+<div class="paragraph">
+<p>A <a href="https://www.pewresearch.org/politics/2010/08/03/mixed-reactions-to-leak-of-afghanistan-documents/">Pew Reseach poll</a> conducted between 29 July and 1 August 2010 found that younger US citizens were more likely to approve of WikiLeaks disclosing classified material. Pew reported that "attention to news from Afghanistan spiked following the WikiLeaks report, with 34% following Afghanistan reports very closely, up from 22% the previous week. This is the highest interest in Afghanistan news since December 2009."</p>
+</div>
+<div class="quoteblock">
+<blockquote>
+<div class="paragraph">
+<p>Most Americans have heard either a lot (37%) or a little (36%) about the WikiLeaks story specifically, though 27% say they heard nothing at all about it. Among those who have heard about the leak, 47% say the disclosure of classified documents about the war in Afghanistan harms the public interest while 42% say it serves the public interest.</p>
+</div>
+</blockquote>
+</div>
+<div class="paragraph">
+<p>41% of respondents said the Afghan War Logs had received too little US media coverage in a week where Chelsea Clinton&#8217;s wedding had dominated the headlines.</p>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="2010augpew.png" alt="2010augpew">
+</div>
+</div>
+<div class="paragraph">
+<p>On 3 August 2010 a <a href="https://web.archive.org/web/20100810183014/http://www.nydailynews.com/news/politics/2010/08/04/2010-08-04_bam_sinks_in_polls_over_war_policies.html">USA Today/Gallup poll</a> showed a dramatic 12 percent fall in public support for President Obama&#8217;s handling of the Afghan war:</p>
+</div>
+<div class="quoteblock">
+<blockquote>
+<div class="paragraph">
+<p>Only 36% backed Obama&#8217;s war policies, down from 48% in February&#8230;&#8203; The poll attributed the loss of support for the war to the rising U.S. death toll and last week&#8217;s massive document dump of classified material by WikiLeaks, which highlighted internal disputes on strategy&#8230;&#8203; 43% agree the war in Afghanistan also was a mistake.</p>
+</div>
+</blockquote>
+</div>
+<div class="paragraph">
+<p>*</p>
+</div>
+<div class="paragraph">
+<p>These political shifts vindicated Chelsea Manning&#8217;s decision to turn whistle-blower - but who was going to tell her about them? While the polls above were being conducted, Manning was being <a href="https://edition.cnn.com/2010/POLITICS/07/31/wikileaks.manning/index.html">transferred</a> from her hot prison cage in Kuwait to the US Marines' Quantico detention facility in Virginia. Guards in Kuwait had claimed that she had made a noose from her bedsheets, and repeatedly banged her head against the cage (she later could not remember this) so they placed her on suicide watch and prescribed anti-depression and anti-anxiety drugs. She remained on suicide watch in maximum security conditions at Quantico, but initially <a href="https://web.archive.org/web/20130826013522/https://www.theguardian.com/world/2012/nov/30/bradley-manning-keeping-sane-madness">thought</a> things were getting better:</p>
+</div>
+<div class="quoteblock">
+<blockquote>
+<div class="paragraph">
+<p>"It wasn&#8217;t the ideal environment in Quantico. But it had air conditioning, solid floors, hot and cold running water. It was great to be on continental United States soil again."</p>
+</div>
+</blockquote>
+</div>
+<div class="paragraph">
+<p>In fact Manning would endure conditions amounting to torture for another nine months at Quantico: a guard stationed permanently outside her 6ft by 8ft (180cm by 240cm) cell; a toilet with no toilet paper (she had to shout for it when needed); only 20 minutes per day outside the cell, in full restraint (hands cuffed to a leather belt, legs in irons); nights spent under observation in fluorescent light, with guards regularly banging on the door for "security checks".</p>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="free-brad-lg.jpg" alt="Protestors outside Quantico brig">
+</div>
+<div class="title">Protestors outside Quantico brig in January 2011</div>
+</div>
+<div class="paragraph">
+<p>*</p>
+</div>
+<div class="paragraph">
+<p>The release of the Afghan War Logs was still causing absurd levels of chaos in Washington. Voice of America employees were <a href="https://www.washingtonpost.com/wp-dyn/content/article/2010/08/03/AR2010080306850.html">told</a> that they were not allowed to read or e-mail any of the WikiLeaks material on their government computers - even though they were expected to report on it! US soldiers were also <a href="https://www.washingtontimes.com/news/2010/aug/6/pentagon-bars-staff-from-visiting-wikileaks-site/">ordered</a> not to read or share WikiLeaks documents, with the US Navy&#8217;s Judge Advocate General’s Corp insisting that the leaked information remained officially classified - even though it was now in the public domain. And Democrat Senators Charles Schumer and Dianne Feinstein, who were drafting new legislation to protect journalists from revealing sources, hurriedly authored <a href="https://blogs.journalism.co.uk/2010/08/04/us-source-protection-bill-amended-to-exclude-wikileaks/">amendments</a> to ensure that such protection would never be afforded to WikiLeaks.</p>
+</div>
+<div class="quoteblock">
+<blockquote>
+<div class="paragraph">
+<p>"WikiLeaks should not be spared in any way from the fullest prosecution possible under the law," said Schumer. "Our bill already includes safeguards when a leak impacts national security, and it would never grant protection to a website like this one, but we will take this extra step to remove even a scintilla of doubt."</p>
+</div>
+</blockquote>
+</div>
+<div class="paragraph">
+<p>Not everyone was unhappy with the new leaks. As Daniel Ellsberg <a href="https://web.archive.org/web/20100811182321/http://www.ellsberg.net/archive/daniel-ellsberg-larry-king">told</a> CNN&#8217;s Larry King:</p>
+</div>
+<div class="quoteblock">
+<blockquote>
+<div class="paragraph">
+<p>"There hasn’t been an unauthorized disclosure of this magnitude since the Pentagon Papers 39 years ago. I’ve been waiting for it for a long time."</p>
+</div>
+</blockquote>
+</div>
+<div class="quoteblock">
+<blockquote>
+<div class="paragraph">
+<p><strong>King</strong>: How do you respond to the White House assertion that this leak puts U.S. forces in danger?</p>
+</div>
+</blockquote>
+</div>
+<div class="quoteblock">
+<blockquote>
+<div class="paragraph">
+<p>"You know, the people who put U.S. forces in harm’s way — 100,000 men and women in Afghanistan — are the last two administrations, but particularly this one, with a decision to escalate the war. I think it takes a lot of – I don’t know what to say — chutzpah, effrontery, for people who made the reckless, foolish, and I would say irresponsible decisions to escalate a war that I’m sure they know internally is as hopeless as these new revelations reveal it to be."</p>
+</div>
+</blockquote>
+</div>
+<div class="paragraph">
+<p>The US Department of Defence ominously <a href="https://mashable.com/archive/pentagon-wikileaks-demand">threatened</a> to take action against WikiLeaks if they did not return the leaked data:</p>
+</div>
+<div class="quoteblock">
+<blockquote>
+<div class="paragraph">
+<p>"We want whatever they have returned to us and we want whatever copies they have expunged&#8230;&#8203; We demand that they do the right thing. If doing the right thing is not good enough for them, then we will figure out what alternatives we have to compel them to do the right thing."</p>
+</div>
+</blockquote>
+</div>
+<div class="paragraph">
+<p>WikiLeaks tweeted that the threat was "obnoxious". They said journalists were being fooled by the Pentagon&#8217;s "rhetorical tricks" about their lack of "direct" contact with the US government (after WikiLeaks media partners had agreed to let the New York Times handle contact), and the White House had refused their offer to help redact documents. They also complained that their media partners were not helping with redactions.</p>
+</div>
+<div class="imageblock text-center">
+<div class="content">
+<img src="2010aug9tweet.png" alt="2010aug9tweet">
+</div>
+</div>
+<div class="imageblock text-center">
+<div class="content">
+<img src="2010aug9tweet2.png" alt="2010aug9tweet2">
+</div>
+</div>
+<div class="paragraph">
+<p>This was a sly reference to behind-the-scenes negitiations as WikiLeaks worked on their next big release, the Iraq War Logs (see below). WikiLeaks was demanding more time to redact documents. According to Der Spiegel&#8217;s John Goetz, their media partners were irritated by the delay.</p>
+</div>
+<div class="paragraph">
+<p>On 2 August 2010, senior Guardian editor David Leigh sent the following email to Goetz:</p>
+</div>
+<div class="quoteblock">
+<blockquote>
+<div class="paragraph">
+<p>"WikiLeaks says they require more time because they have a team attempting to redact bad stuff. They&#8217;re not going to publish for quite a while now."</p>
+</div>
+</blockquote>
+</div>
+<div class="paragraph">
+<p>With the benefit of hindsight, this media frustration is supremely ironic: Leigh was just one of many journalists who later falsely accused Assange of "putting lives in danger" by publishing unredacted documents.</p>
+</div>
+<div class="paragraph">
+<p>What to do? WikiLeaks <a href="https://twitter.com/wikileaks/status/20665303524">retweeted</a> a follower who seemed to have the best response: lives were being lost every day on the battlefields of Iraq and Afghanistan; perhaps the best WikiLeaks could do was publish and be damned.</p>
+</div>
+<div class="imageblock text-center">
+<div class="content">
+<img src="2010aug9tweet3.png" alt="2010aug9tweet3">
+</div>
+</div>
+<div class="paragraph">
+<p>On 12 August 2010, Assange <a href="https://www.frontlineclub.com/blogs/theforum/2010/08/how-wikileaks-is-changing-journalism.html">appeared</a> via Skype at an event hosted by London&#8217;s Frontline Club: "How WikiLeaks Is Changing Journalism". Tensions between WikiLeaks and its media partners were immediately apparent. Assange said the New York Times' portrayal of Chelsea Manning was "disgusting". He said WikiLeaks were still only "half way" through the process of redacting the remaining the 15,000 documents that had been withheld from the Afghan War Logs release.</p>
+</div>
+<div class="quoteblock">
+<blockquote>
+<div class="paragraph">
+<p>"So far there has been no help despite repeated requests, from the White House or the Pentagon, or in fact any of the three press organisations we partnered with for this material," said Assange, who added that the cost could be up to £750,000. "They decided not to take responsibility for getting the raw data out to the public, that is in fact what appears our role, to get the raw data out as opposed to the cherries the organisations decided selectively to give out in relation to their stories."</p>
+</div>
+</blockquote>
+</div>
+<div class="paragraph">
+<p>The Guardian&#8217;s Simon Rogers said they had thought "long and hard" about publishing the raw data but "on the legal side we are based in London and you can find us." Media lawyer Mark Stephens suggested the Guardian might need to restructure, like WikiLeaks, moving key resources to more "sympathetic jurisdictions" such as Iceland.</p>
+</div>
+<div class="paragraph">
+<p>Assange asked how the world&#8217;s media was planning to respond to the Pentagon&#8217;s recent threats against WikiLeaks:</p>
+</div>
+<div class="quoteblock">
+<blockquote>
+<div class="paragraph">
+<p>"Is it going to be a serious response or is it going to simply put its head in the sand?"</p>
+</div>
+</blockquote>
+</div>
+<div class="paragraph">
+<p>Within ten days the answer would be obvious. WikiLeaks was about to be hit with a bombshell. And the world&#8217;s media would soon have a perfect excuse to desert Assange en masse.</p>
 </div>
 </div>
 <div class="sect2">
-<h3 id="_february">February</h3>
+<h3 id="_swedish_sex_allegations">Swedish Sex Allegations</h3>
 <div class="paragraph">
-<p>MORE TO COME&#8230;&#8203;!</p>
+<p>Until August 2010, the WikiLeaks website was <a href="https://www.theregister.com/2008/02/21/wikileaks_bulletproof_hosting/">hosted</a> by a Swedish company called PRQ, which provided "highly secure, no-questions-asked hosting services". In keeping with the anarchistic approach to a free Internet, PRQ recorded "almost no information about its clientele" and maintained "few if any of its own logs". Julian Assange still believed that Swedish laws guaranteed the world&#8217;s most secure Internet hosting, but he wanted to move WikiLeaks to another Swedish Internet Service Provider named Bahnhof, who housed their servers in the Pionen facility, a former underground nuclear fall-out shelter. Assange was also <a href="https://twitter.com/wikileaks/status/22633870372">planning</a> to apply for Swedish residency ahead of WikiLeaks’ Iraq War Logs publication.</p>
+</div>
+<div class="paragraph">
+<p>But on the morning of 21 August 201, Julian Assange woke up in Stockholm to find himself <a href="https://www.bbc.com/news/world-11047025">branded</a> a "<a href="https://www.dailykos.com/stories/2010/8/21/895062/-Breaking:-Assange-accused-of-double-rape-in-Sweden">Double Rapist</a>" on media front pages around the world. So how did that happen?</p>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="2010aug21expressen.png" alt="2010aug21expressen">
+</div>
+<div class="title">Sweden&#8217;s Expressen newspaper reported Assange was 'arrested in his absence' for rape</div>
+</div>
+<div class="dlist">
+<dl>
+<dt class="hdlist1">NOTE</dt>
+<dd>
+<p>The information in this section is largely gathered from an excellent investigation by ABC Four Corners, "<a href="http://www.abc.net.au/4corners/stories/2012/07/19/3549280.htm">Sex, Lies And Julian Assange</a>". Also a detailed article by Swedish-speaking Australian journalist Guy Rundle, "<a href="https://www.themonthly.com.au/issue/2011/march/1346725054/guy-rundle/crayfish-summer#mtr">Crayfish Summer</a>", that includes a close reading of Swedish police reports. Plus evidence compiled by retired Swedish businessman <a href="http://www.fsilaw.com/sitecore/content/Global/content/~/media/Files/Publications/IP_Media/Julian%20Assange%20Case%20Papers/Julian%20Assange%20Material/Witness%20Statement%20of%20Goran%20Rudling.ashx">Goran Rudling</a>, a campaigner for rape law reform. Also the <a href="https://www.scribd.com/document/80912442/Agreed-Facts-Assange-Case#download">Agreed Facts</a> and Assange&#8217;s own <a href="https://wikileaks.org/IMG/html/Affidavit_of_Julian_Assange.html#efmNdPOCv">testimony</a> and evidence supplied by his legal team, which unfortunately was never tested in court because Swedish prosecutors never actually charged Assange with any crime.</p>
+</dd>
+</dl>
+</div>
+<div class="paragraph">
+<p>On 11 August 2010, Assange landed in the Swedish capital to negotiate a deal with Bahnhof. He was invited to stay at the empty apartment of a woman named Anna Ardin. Who was Anna Ardin? According to Rundle:</p>
+</div>
+<div class="quoteblock">
+<blockquote>
+<div class="paragraph">
+<p>Anna Ardin, 31, was the press secretary of the Brotherhood Movement, a once-conservative Christian group within the Swedish Social Democratic Party, now a centre for ‘third-worldist’ left liberation theology. Known for her exuberant enthusiasms, Ardin was or had been variously a feminist, a gender equality officer for the Uppsala University student union, an Israel–Palestine peace activist, an animal liberationist and the co-proprietor of Fever, a bisexual fetish nightclub.</p>
+</div>
+</blockquote>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="ardincockshoe.jpg" alt="ardincockshoe">
+</div>
+<div class="title">Anna Ardin with fetish footwear</div>
+</div>
+<div class="paragraph">
+<p>Ardin had also worked with US-backed opposition groups in Cuba and Miami, fleeing from Havana after being <a href="https://proassange.blogspot.com/2012/08/assange-rape-accuser-has-history-with.html">threatened</a> with deportation for "subversivee activities", and wrote anti-Castro articles for a US-linked publication in Sweden.</p>
+</div>
+<div class="paragraph">
+<p>Two nights after Assange arrived, on Friday 13 August, Ardin returned home and had consensual sex with him. Ardin later claimed that Assange had continued having sex with her, against her wishes, after a condom broke. But she continued happily socialising with him for days, and insisted he stay at her house, despite other offers of accommodation.</p>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="ardinsmiles.jpeg" alt="ardinsmiles">
+</div>
+<div class="title">Anna Ardin smiling with Julian Assange and Rick Falkvinge</div>
+</div>
+<div class="paragraph">
+<p>The next day, Saturday 14 August, Assange gave a speech at Stockholm&#8217;s Trade Union Headquarters, where Ardin acted as his press secretary. She later tweeted that Assange wanted to attend a late night crayfish party. In the early hours of Sunday morning she tweeted from the party:</p>
+</div>
+<div class="quoteblock">
+<blockquote>
+<div class="paragraph">
+<p>"Sitting outdoors at 02:00 and hardly freezing with the world&#8217;s coolest smartest people, it&#8217;s amazing!"</p>
+</div>
+</blockquote>
+</div>
+<div class="paragraph">
+<p>Five days later, these tweets had mysteriously been <a href="https://radsoft.net/news/20101001,01.shtml">deleted</a>.</p>
+</div>
+<div class="imageblock text-center">
+<div class="content">
+<img src="2010ardintweets2.png" alt="2010ardintweets2">
+</div>
+</div>
+<div class="paragraph">
+<p>Ardin later tweeted (in Swedish on 22 April 2013) that she was "not raped". That tweet was also deleted.</p>
+</div>
+<div class="imageblock text-center">
+<div class="content">
+<img src="aanotraped.jpeg" alt="aanotraped">
+</div>
+</div>
+<div class="paragraph">
+<p>Another Swedish woman, Sofia Wilén, was in the front row of the Trade Union HQ audience, wearing a pink cashmere sweater and taking photos of Assange. During Assange&#8217;s speech, according to text messages later produced by Assange&#8217;s lawyers, Wilén texted a friend: "He looked at me!" Wilén later told police she had become interested in Assange after seeing him on TV.</p>
+</div>
+<div class="imageblock text-center">
+<div class="content">
+<img src="wilen2.png" alt="wilen2">
+</div>
+</div>
+<div class="paragraph">
+<p>Witnesses said that following Assange&#8217;s speech, Sofia Wilén pressured her way to an invite to the post-event lunch, where she flirted with Assange, who later said "one of the organizers stated that she was a volunteer for their organisation although they would later claim that this was not true". After lunch, Wilén and Assange went to an IMAX cinema together and "canoodled". Assange said she "kissed me and placed my hands on her breasts. She asked whether I was staying with [Anna Ardin] and seemed concerned by it in a manner that I found strange."</p>
+</div>
+<div class="paragraph">
+<p>Two days later, on Monday August 16th 2010, Assange and Wilén caught a train from Stockholm&#8217;s central station to her flat in Enköping. Assange&#8217;s bank cards had been frozen, so Wilén paid for his ticket. They had consensual sex and Assange, who felt he was in a secure location even though Wilén "knew an unusual amount of detail about me", stayed the night.</p>
+</div>
+<div class="quoteblock">
+<blockquote>
+<div class="paragraph">
+<p>"I would later discover that she had collected dozens of photos of me in the weeks before we even met. Her recent FLICKR photo account was filled with pages and pages of photos of me and no other person."</p>
+</div>
+</blockquote>
+</div>
+<div class="paragraph">
+<p>The next morning, according to Rundle&#8217;s version, "something happened".</p>
+</div>
+<div class="quoteblock">
+<blockquote>
+<div class="paragraph">
+<p>Wilén would tell police that Assange began bareback [no condom] sex with her while she was asleep. As she woke, she said, “You better not have HIV,” to which he replied, “Of course not.” And they continued. According to Assange’s version, Wilén was half-asleep when sex began. Assange’s defence team would later allege that in a text message to a friend, Wilén also said she was half-asleep at the time.</p>
+</div>
+</blockquote>
+</div>
+<div class="paragraph">
+<p>According to Assange:</p>
+</div>
+<div class="quoteblock">
+<blockquote>
+<div class="paragraph">
+<p>"I was certain "SW" was not asleep. I was also certain she expressly consented to unprotected sex before such intercourse started."</p>
+</div>
+</blockquote>
+</div>
+<div class="paragraph">
+<p>On Tuesday 17 August, Ardin allegedly texted a friend who was looking for Assange: “He’s not here. He’s planned to have sex with the cashmere girl every evening, but not made it. Maybe he finally found time yesterday?”</p>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="annaardinpriest.jpeg" alt="annaardinpriest">
+</div>
+<div class="title">Anna Ardin</div>
+</div>
+<div class="dlist">
+<dl>
+<dt class="hdlist1">NOTE</dt>
+<dd>
+<p>It&#8217;s worth noting here that in January 2010 Ardin had posted a <a href="https://translate.google.com/?sl=auto&amp;tl=en&amp;text=Sjustegsmodell%20f%C3%B6r%20laglig%20h%C3%A4mnd%0Aen%20tjej%20h%C3%A5ller%20om%20en%20kille%20som%20inte%20h%C3%A5ller%20om%20tillbaka%20utan%20som%20h%C3%A5ller%20annan%20tjej%20i%20handen%20bakom%20ryggen%20p%C3%A5%20den%20f%C3%B6rsta%2C%20i%20en%20soffa%0A%0AEtt%20sk%C3%A4l%20f%C3%B6r%20h%C3%A4mnd%0A%0AJag%20har%20funderat%20en%20del%20%C3%B6ver%20h%C3%A4mnd%20de%20senaste%20dagarna%20och%20kom%20%C3%B6ver%20en%20sida%20som%20fritt%20%C3%B6versatt%20best%C3%A5r%20av%20denna%20sju%20punkters%20h%C3%A4mndinstruktion.%0A%0ASteg%201%0AT%C3%A4nk%20igenom%20v%C3%A4ldigt%20noga%20om%20du%20verkligen%20ska%20h%C3%A4mnas.%20Det%20%C3%A4r%20n%C3%A4stan%20alltid%20b%C3%A4ttre%20att%20f%C3%B6rl%C3%A5ta%20%C3%A4n%20att%20h%C3%A4mnas.%0A%0ASteg%202%0AT%C3%A4nk%20igenom%20varf%C3%B6r%20du%20ska%20h%C3%A4mnas.%20Du%20beh%C3%B6ver%20allts%C3%A5%20inte%20bara%20vara%20p%C3%A5%20det%20klara%20med%20vem%20du%20ska%20h%C3%A4mnas%20p%C3%A5%20utan%20ocks%C3%A5%20varf%C3%B6r.%20H%C3%A4mnd%20ska%20aldrig%20riktas%20mot%20bara%20en%20person%2C%20utan%20%C3%A4ven%20m%C3%B6ta%20en%20viss%20handling.%0A%0ASteg%203%0AProportionalitetsprincipen.%20Kom%20ih%C3%A5g%20att%20h%C3%A4mnden%20inte%20bara%20ska%20matcha%20d%C3%A5det%20i%20storlek%20utan%20%C3%A4ven%20i%20art.%20En%20bra%20h%C3%A4mnd%20%C3%A4r%20kopplad%20till%20det%20som%20gjorts%20mot%20dig.%20Om%20du%20till%20exempel%20vill%20h%C3%A4mnas%20p%C3%A5%20n%C3%A5gon%20som%20varit%20otrogen%20eller%20som%20dumpat%20dig%2C%20s%C3%A5%20b%C3%B6r%20straffet%20ha%20n%C3%A5got%20med%20dejting%2Fsex%2Ftrohet%20att%20g%C3%B6ra.%0A%0ASteg%204%0AG%C3%B6r%20en%20brainstorm%20kring%20l%C3%A4mpliga%20%C3%A5tg%C3%A4rder%20f%C3%B6r%20kategorin%20av%20h%C3%A4mnd%20du%20%C3%A4r%20ute%20efter.%20F%C3%B6r%20att%20forts%C3%A4tta%20exemplet%20ovan%20s%C3%A5%20kan%20du%20paja%20ditt%20offers%20nuvarande%20relation%2C%20fixa%20s%C3%A5%20att%20dennes%20nye%20partner%20%C3%A4r%20otrogen%20eller%20se%20till%20att%20han%20f%C3%A5r%20en%20galning%20efter%20sig.%20Anv%C3%A4nd%20din%20fantasi!%0A%0ASteg%205%0AT%C3%A4nk%20ut%20hur%20du%20kan%20h%C3%A4mnas%20systematiskt.%20Kanske%20kan%20en%20serie%20brev%20och%20foton%20som%20f%C3%A5r%20den%20nya%20att%20tro%20att%20ni%20%C3%A4nnu%20ses%20b%C3%A4ttre%20%C3%A4n%20bara%20en%20stor%20l%C3%B6gn%20vid%20ett%20enstaka%20tillf%C3%A4lle%3F%0A%0ASteg%206%0ARanka%20dina%20systematiska%20h%C3%A4mndscheman%20fr%C3%A5n%20l%C3%A5g%20till%20h%C3%B6g%20i%20termer%20av%20troligt%20lyckat%20genomf%C3%B6rande%2C%20kr%C3%A4vd%20insats%20fr%C3%A5n%20dig%20samt%20grad%20av%20tillfredsst%C3%A4llelse%20om%20du%20lyckas.%20Den%20ideala%20h%C3%A4mnden%20ligger%20givetvis%20s%C3%A5%20h%C3%B6gt%20som%20m%C3%B6jligt%20i%20dessa%20staplar%2C%20men%20ofta%20kan%20en%20%C3%B6kad%20insats%20av%20arbete%20och%20kapital%20ge%20s%C3%A4krare%20output%20f%C3%B6r%20de%20andra%20tv%C3%A5%2C%20egentligen%20viktigare%20parametrarna.%0A%0AStep%207%0ASkrid%20till%20verket.%20Och%20kom%20ih%C3%A5g%20vilket%20ditt%20m%C3%A5l%20%C3%A4r%20medan%20du%20opererar%2C%20se%20till%20att%20ditt%20offer%20f%C3%A5r%20lida%20p%C3%A5%20samma%20s%C3%A4tt%20som%20han%20fick%20dig%20att%20lida.%0A&amp;op=translate">7 Step Guide to Revenge</a> on her <a href="https://web.archive.org/web/20100918005149/http://annaardin.wordpress.com/page/3/">blog</a>, including, for example, sabotaging a victim&#8217;s sexual relationships.</p>
+</dd>
+</dl>
+</div>
+<div class="paragraph">
+<p>After having sex with Julian Assange, Sofia Wilén told friends that she was worried about the possibility of contracting a Sexually Transmitted Disease (STD). She phoned Ardin&#8217;s house, reportedly trying to contact Assange, and the two women began exchanging information. Ardin then introduced Wilén to a friend, Irmeli Krans, who was a former council election colleague and a campaigning feminist police officer. Like Ardin, Krans was also a member of Sweden&#8217;s Social Democratic party (this will be important later).</p>
+</div>
+<div class="paragraph">
+<p>On Friday 20 August, Assange says he phoned Wilén because a friend said she was in hospital and wanted to talk to him. She asked him to meet her and get tested for an STD infection but "I was busy that day attempting to deal with the escalating political and legal threats against me from the Pentagon". Assange offered to get tested the following day (Saturday) but Wilén said she would go to the police and force him to get tested if he did not come to the hospital. After further discussion, Assange said she had agreed to meet at lunch the next day, when he agreed to get tested.</p>
+</div>
+<div class="quoteblock">
+<blockquote>
+<div class="paragraph">
+<p>"You can imagine my disbelief when I woke the next morning to the news that I had been arrested in my absence for "rape" and that police were "hunting" all over Stockholm for me."</p>
+</div>
+</blockquote>
+</div>
+<div class="paragraph">
+<p>So what happened? After speaking on the phone with Assange on 20th August, Wilén went to Klara Police Station with Anna Ardin and policewoman Irmeli Krans, purportedly to force Julian to take an AIDS test. But Wilén said she was "shocked" and "railroaded" by police. Contrary to normal police procedures, Anna Ardin was allowed to sit in throughout Wilén’s police interview, which was also not video recorded (as per police recommendations) although a police report was produced.</p>
+</div>
+<div class="paragraph">
+<p>Krans prepared a statement accusing Assange of rape but Wilén refused to sign it. The police report said she was "upset" by the rape accusation and left the station.</p>
+</div>
+<div class="paragraph">
+<p>Wilén allegedly texted a friend at 14.25 on 20 August: “I did not want to put any charges against JA but the police wanted to get a grip on him.” At 17.26 another text said she was “shocked when they arrested JA because I only wanted him to take a test”. And the next day: “it was the police who fabricated the charges”.</p>
+</div>
+<div class="paragraph">
+<p>These text messages were recorded by Swedish police but never made public. Assange&#8217;s lawyers were never given a copy but were "permitted to see them at the police station and able to note down a number of them":</p>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="2010wilentexts.png" alt="2010wilentexts">
+</div>
+<div class="title">Alleged text messages from Sofia Wilén and Anna Ardin</div>
+</div>
+<div class="paragraph">
+<p>Next day, Saturday 21 August, Ardin made her own statement to the police. When asked to provide additional evidence, Ardin <a href="https://radsoft.net/rants/20210124,00.shtml">allegedly</a> returned to the police station with a torn condom (which would by then have been over a week old). Police later tested the condom and found it had no traces of genomic DNA. In other words, it had never been used.</p>
+</div>
+<div class="imageblock text-center">
+<div class="content">
+<img src="condom.jpeg" alt="condom">
+</div>
+</div>
+<div class="paragraph">
+<p>Most of the details above were never revealed to the public by global media organisations who rushed to condemn Assange as a "rapist" and a "fugitive from justice". The damage to Julian Assange&#8217;s reputation - and WikiLeaks' public standing - was huge, immediate, long-lasting, and monumentally distracting from their other work. As Assange later complained, normal Swedish protections of privacy were simply thrown out the door:</p>
+</div>
+<div class="quoteblock">
+<blockquote>
+<div class="paragraph">
+<p>The press was immediately and unlawfully informed that there was a warrant for my arrest for the “rape of two” women. The Swedish government prosecutor unlawfully, and without any subsequent explanation or remedy, immediately confirmed to the press that there was a live warrant for my arrest. The prosecutor&#8217;s breach triggered an avalanche of news reports. Within days there were millions of references online which associated my name with the word 'rape'. Immediately the police accusations were used to attack WikiLeaks' work and my reputation as its publisher. US Defense Secretary Robert Gates celebrated the news of my arrest warrant with a smile, telling reporters that the arrest “sounds like good news to me”. Various twitter accounts officially associated with the Pentagon spread descriptions of me as a “rapist” and a “fugitive”.</p>
+</div>
+</blockquote>
+</div>
+<div class="imageblock text-center">
+<div class="content">
+<img src="2010aug21tweet.png" alt="2010aug21tweet">
+</div>
+</div>
+<div class="paragraph">
+<p>WikiLeaks attempted to push back against the avalanche of negative press. On 21 August they <a href="https://web.archive.org/web/20100825052044/https://blog.wikileaks.org/">released</a> an "official statement about the latest hot topic".</p>
+</div>
+<div class="imageblock text-center">
+<div class="content">
+<img src="2010aug21blog.png" alt="2010aug21blog">
+</div>
+</div>
+<div class="paragraph">
+<p>WikiLeaks also tweeted: "We were warned to expect 'dirty tricks.' Now, we have the first one." This tweet was later deleted, after complaints that it was not respectful to the women involved.</p>
+</div>
+<div class="imageblock text-center">
+<div class="content">
+<img src="2010aug22tweet1.png" alt="2010aug22tweet1">
+</div>
+</div>
+<div class="paragraph">
+<p>Facing a barrage of questions, the Swedish Prosecution Authority published a FAQ saying that Assange&#8217;s information had reached news media "in a way that the authority does not know" and the prosecutor&#8217;s office "merely confirmed the information". Observers <a href="http://amovingworld.blogspot.com/2010/08/how-was-leak-on-wikileaks-conducted.html">wondered</a> why prosecutors had not given journalists the standard "no comment" response.</p>
+</div>
+<div class="paragraph">
+<p>Then another amazing thing happened. On the next day, Sunday 22 August 2010, the Swedish case against Assange was abruptly <a href="https://www.politico.com/story/2010/08/sweden-clears-assange-of-rape-041333">closed</a>. Swedish authorities cancelled the warrant for Julian Assange&#8217;s arrest.</p>
+</div>
+<div class="quoteblock">
+<blockquote>
+<div class="paragraph">
+<p>A statement from Chief Prosecutor Eva Finne on the Swedish Prosecution Authority website said Finne "has come to the decision that Julian Assange is not suspected of rape" and the arrest warrant against him has been withdrawn.</p>
+</div>
+</blockquote>
+</div>
+<div class="paragraph">
+<p>A former Swedish chief prosecutor, Sven-Erik Alhem, <a href="http://www.skandinaviflorida.com/web/sif.nsf/d6plinks/JEIE-88KHYT">said</a> the the actions of the prosecutors were "bizarre and confusing":</p>
+</div>
+<div class="quoteblock">
+<blockquote>
+<div class="paragraph">
+<p>The arrest order was based on the assumption of probable cause, the strongest grade of suspicion of crime that is required for an arrest order, and later this probable cause suspicion is withdrawn without the appearence of any new information in the case.</p>
+</div>
+</blockquote>
+</div>
+<div class="paragraph">
+<p>In an equally bizarre TV <a href="https://www.youtube.com/watch?v=SLy2UOaA0CU">interview</a>, a spokeswoman for the Swedish Prosecution Authority insisted that no mistakes had been made and the case had been closed because "new evidence" had emerged. But while the arrest warrant had made global headlines, the "new evidence" supposedly proving Assange&#8217;s innocence was kept secret. Al Jazeera&#8217;s host asked if it was "normal procedure to accuse someone of rape and then two hours later say no, it&#8217;s not the case?"</p>
+</div>
+<div class="paragraph">
+<p>Meanwhile, according to the texts provided by Assange&#8217;s lawyers, Anna Ardin was urging Sofia Wilén to go public with her story so they could "shape public opinion" (the women&#8217;s identities were still secret: only Assange&#8217;s identity had been revealed). Ardin texted that they ought to sell their stories for money to a newspaper. Elections were being held in Sweden on 19 September 2010, and Ardin was (for the second time) seeking election to the Stockholm City Council as Social Democrat party candidate. No doubt the extra publicity would have helped her campaign.</p>
+</div>
+<div class="paragraph">
+<p>On 26 August, Chief Prosecutor Eva Finne repeated emphatically that the evidence provided did not constitute a crime and the case was closed:</p>
+</div>
+<div class="quoteblock">
+<blockquote>
+<div class="paragraph">
+<p>“There is no suspicion of any crime whatsoever.”</p>
+</div>
+</blockquote>
+</div>
+<div class="paragraph">
+<p>Then another bizarre thing happened. The next day, Friday 27 August 2010, a full two weeks after Assange first had sex with Ardin, a high profile Social Democrat politician named Claes Borgström was appointed counsel for the two women: he applied to re-open the investigation with a new prosecutor in the Swedish city of Gothenberg (nearly 400 km from Stockholm). On the following day, the two women allegedly confirmed by text that their new lawyer had negotiated a contract with Sweden&#8217;s biggest tabloid.</p>
+</div>
+<div class="paragraph">
+<p>Borgström was also running as Social Democrat party candidate at the coming elections, and could have become a government cabinet member if his party had won (national and local elections are held simultaneously in Sweden). According to Rundle, Claes Borgström was "not only the Social Democratic Party’s gender equality spokesperson, but a major driver of Sweden’s Sexual Offences Act 2005". And the new prosecutor, Marrianne Ny, was a sex crime expert who "had headed a crime development unit whose brief was to explore ways in which sex crime law might be changed or extended". There were clearly political and career gains to be reaped from the high profile Assange case.</p>
+</div>
+<div class="quoteblock">
+<blockquote>
+<div class="paragraph">
+<p>A fortnight later, on 1 September, Ny would not only announce that Wilén’s minor rape accusation had been reinstated, but another one had been added – the physical argy-bargy that Ardin had herself represented as consensual (if disliked) now made Assange liable to a charge of sexual coercion, another specifically Swedish ‘in-between’ law, perhaps comparable to indecent assault.</p>
+</div>
+</blockquote>
+</div>
+<div class="quoteblock">
+<blockquote>
+<div class="paragraph">
+<p>To successfully appeal a non-prosecution in Sweden is not unusual, but the coercion accusation surprised everyone. When journalists asked Borgström how the new accusations squared with earlier statements by the women that confirmed Assange was not a rapist, Borgström replied: “They’re not lawyers. They don’t know what rape is.” In Ardin’s case this was patently untrue. As gender equality officer at Uppsala University, she had literally written the book on the matter – redrafting the union’s gender equality manual.</p>
+</div>
+</blockquote>
+</div>
+<div class="paragraph">
+<p>Although WikiLeaks staff and media partners were still working on the next big release, Julian Assange cancelled his other commitments and remained in Sweden for five weeks, until 27 September 2010, when his lawyer said he had legal permission to leave the country. Nevertheless, for years to come, critics would falsely claim that Assange "fled Sweden to escape sex charges".</p>
+</div>
+<div class="dlist">
+<dl>
+<dt class="hdlist1">NOTE</dt>
+<dd>
+<p>Arrest warrants were issued because Assange was wanted for questioning, but he was never actually "charged" by Sweden with any crime.</p>
+</dd>
+</dl>
+</div>
+<div class="paragraph">
+<p>Assange gave an interview to Swedish police on 30 August 2010 in relation to Anna Ardin&#8217;s claim, which was the only remaining allegation at the time. On 8 September 2010, Bjorn Hurtig, Assange&#8217;s Swedish lawyer, <a href="https://phys.org/news/2010-09-wikileaks-founder-free-sweden.html">confirmed</a> that an investigation was still under way but his client had been given no summons for questioning, meaning Assange was free to do what he liked, including going abroad.</p>
+</div>
+<div class="paragraph">
+<p>On the same day, the head of the Swedish military intelligence service (“MUST”) publicly denounced WikiLeaks in an <a href="https://wikileaks.org/IMG/html/Affidavit_of_Julian_Assange.html#sdfootnote125sym">article</a> titled "WikiLeaks A Threat To Our Soldiers". Assange "became increasingly concerned about Sweden’s <a href="https://rickrozoff.wordpress.com/2010/08/25/2380/">close relationship</a> to the US in military and intelligence matters". A  trusted intelligence source warned him that US intelligence agents had told their Swedish counterparts that intelligence-sharing arrangements could be cut off if Assange was given shelter.</p>
+</div>
+<div class="quoteblock">
+<blockquote>
+<div class="paragraph">
+<p>"I considered my continued presence in Sweden to be a serious risk to my personal safety and a risk to WikiLeaks' continued publications. I asked my lawyer to request permission for me to leave Sweden to attend planned engagements."</p>
+</div>
+</blockquote>
+</div>
+<div class="paragraph">
+<p>Assange said the sex accusations were part of "a clear set-up" and had caused damage to WikiLeaks.</p>
+</div>
+<div class="quoteblock">
+<blockquote>
+<div class="paragraph">
+<p>"This entire rape investigation has been conducted without my input," he complained.</p>
+</div>
+</blockquote>
+</div>
+<div class="paragraph">
+<p>Before leaving Sweden, Assange <a href="https://www.forbes.com/sites/andygreenberg/2010/08/30/wikileaks-servers-move-to-underground-nuclear-bunker/?sh=6d22d8631e32">finalised</a> the movement of WikiLeaks servers to the Pionen nuclear bunker. Bahnhof executive Jon Karlung said he was "proud to have clients like these."</p>
+</div>
+<div class="quoteblock">
+<blockquote>
+<div class="paragraph">
+<p>"The Internet should be an open source for freedom of speech, and the role of an ISP is to be a neutral technological tool of access, not an instrument for collecting information from customers."</p>
+</div>
+</blockquote>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="2010pionen.jpg" alt="2010pionen">
+</div>
+<div class="title">The Bahnhof ISP&#8217;s Pionen foyer</div>
+</div>
+<div class="paragraph">
+<p>Julian Assange&#8217;s dramatic soujourn in Sweden had one final twist: when he finally boarded a flight from Sweden to Germany, his "suitcase, laptops, privileged attorney-client communications and other important information belonging to WikiLeaks disappeared". Assange later stated that the disappeared WikiLeaks material "included shocking evidence of a serious war crime; the massacre of
+more than sixty women and children by US military forces in Garani, Afghanistan".</p>
+</div>
+<div class="paragraph">
+<p>Despite frantic efforts by many people over the following days, no trace of the disappeared luggage could be found, even though Assange still had a verified check-in docket. Airport staff said they had "never encountered anything like this before”. The luggage was not just lost; it appeared to have never existed in their systems.</p>
+</div>
+<div class="paragraph">
+<p>*</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_coda">Coda</h3>
+<div class="paragraph">
+<p>Assange continued flying from Germany to London.</p>
+</div>
+<div class="paragraph">
+<p>On 18 November 2010, the new Swedish Prosecutor Marianne Ny ordered the detention of Julian Assange "with probable cause, suspected of rape, three cases of sexual molestation and illegal coercion". A European Arrest Warrant was issued. Although Assange had been interviewed by Swedish police, had remained in Sweden for a month after Marianne Ny took over the case, and had left the country because he was not summoned by Ny for questioning, the Swedish Prosecuting Authority <a href="https://web.archive.org/web/20190502114026/https://www.aklagare.se/en/nyheter&#8212;&#8203;press/media/the-assange-matter/chronology/">insisted</a> that a new warrant was required "as it has been impossible to interview him during the investigation".</p>
+</div>
+<div class="paragraph">
+<p>Astonishingly, Sweden also <a href="https://www.theguardian.com/media/2010/nov/30/interpol-wanted-notice-julian-assange">issued</a> an Interpol Red Notice. Legal observers wondered why Sweden did not simply go and question Assange in Britain, as happened frequently in such European Arrest Warrant cases.</p>
+</div>
+<div class="imageblock text-center">
+<div class="content">
+<img src="2010nov30interpol.png" alt="2010nov30interpol">
+</div>
+</div>
+<div class="quoteblock">
+<blockquote>
+<div class="paragraph">
+<p>Dated 30 November, the entry reads: "SEX CRIMES" and says the warrant has been issued by the international public prosecution office in Gothenburg, Sweden. "If you have any information contact your national or local police." It reads: "Wanted: Assange, Julian Paul," and gives his birthplace as Townsville, Australia.</p>
+</div>
+</blockquote>
+</div>
+<div class="paragraph">
+<p>Assange&#8217;s lawyers appealed the decision all the way to the Swedish Supreme Court, arguing that there was no such thing as "minor rape", that "rape" was a mistranslation from Swedish, and that the allegations did not meet English or European legal definition of "rape".</p>
+</div>
+<div class="paragraph">
+<p>On 2 December 2010, the Swedish Supreme Court decided not to hear Assange&#8217;s case.</p>
 </div>
 <div class="paragraph">
 <p>*</p>
 </div>
 <div class="paragraph">
-<p>Return <a href="https://jaraparilla.xyz">Home</a>.</p>
-</div>
-<div class="paragraph">
-<p>Please <a href="https://www.gofundme.com/f/wikileaks-true-history-book">support the writing of this book</a>. Thank you.</p>
+<p><a href="ch7.html">NEXT CHAPTER: LATE 2010</a></p>
 </div>
 <div class="paragraph">
 <p>*</p>
 </div>
 <div class="paragraph">
-<p>Copyright Gary Lord 2020</p>
+<p>The author of this book has been an active supporter of WikiLeaks since at least 2010. He can be found at:</p>
+</div>
+<div class="paragraph">
+<p>Twitter: <a href="https://twitter.com/jaraparilla" class="bare">https://twitter.com/jaraparilla</a></p>
+</div>
+<div class="paragraph">
+<p>Blog: <a href="https://jaraparilla.blogspot.com" class="bare">https://jaraparilla.blogspot.com</a></p>
+</div>
+<div class="paragraph">
+<p>Patreon: <a href="https://patreon.com/jaraparilla" class="bare">https://patreon.com/jaraparilla</a></p>
+</div>
+<div class="paragraph">
+<p>Paypal: <a href="https://paypal.me/jaraparilla" class="bare">https://paypal.me/jaraparilla</a></p>
+</div>
+<div class="paragraph">
+<p>You can support the writing of this book here: <a href="https://www.gofundme.com/f/wikileaks-true-history-book" class="bare">https://www.gofundme.com/f/wikileaks-true-history-book</a></p>
+</div>
+<div class="paragraph">
+<p>Thank you.</p>
+</div>
+<div class="paragraph">
+<p>*</p>
+</div>
+<div class="paragraph">
+<p><a href="index.html">Home</a> - <a href="ch1.html">Genesis</a> - <a href="ch2.html">2007</a> - <a href="ch3.html">2008</a> - <a href="ch4.html">2009</a> - <a href="ch5.html">Early 2010</a> - <a href="ch6.html">Mid 2010</a> - <a href="ch7.html">Late 2010</a> - <a href="ch8.html">2011</a></p>
+</div>
+<div class="paragraph">
+<p>Copyright Gary Lord 2021</p>
 </div>
 </div>
 </div>
@@ -806,7 +1337,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 </div>
 <div id="footer">
 <div id="footer-text">
-Last updated 2020-02-08 06:29:22 AEST
+Last updated 2021-07-28 10:53:37 +1000
 </div>
 </div>
 </body>
