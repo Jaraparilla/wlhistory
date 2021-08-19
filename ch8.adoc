@@ -1,0 +1,194 @@
+= WikiLeaks: a True History
+:figure-caption!:
+
+by Gary Lord
+
+
+link:index.html[Home] - link:ch1.html[Genesis] - link:ch2.html[2007] - link:ch3.html[2008] - link:ch4.html[2009] - link:ch5.html[Early 2010] - link:ch6.html[Mid 2010] - link:ch7.html[Late 2010] - link:ch8.html[2011] 
+
+
+== Chapter Eight: 2011
+
+The year 2011 began with Chelsea Manning in de facto solitary confinement at the US Marine Corps' Quantico Brig in Virginia, while Julian Assange was under house arrest at Ellingham Hall, the ten-bedroom country mansion of a friend and supporter, Vaughan Smith, in Norfolk, England. 
+
+Smith, a former Army officer and war correspondent, link:https://www.thedailybeast.com/julian-assanges-guardian-angel-frontline-club-founder-vaughan-smith[bristled] at media hostility towards Assange.
+
+> I have seen a human side of him that hasn’t been represented in the press. He is incredibly popular with my children, who see him as sort of an uncle figure. He’s somebody who will listen to you, and he’s somebody who will give you time and give you attention and help you... He’s damn good company.
+
+Smith also ridiculed media claims that the much-vaunted "age of WikiLeaks" was already over.
+
+> I think there are lots of bullies here. I think the British press have been bullying. I think the American government have been bullies. But it’s wider than that... Julian is presented as some sort of slightly nutty proponent of radical transparency. Actually, the truth is, he isn’t anything of the sort. 
+
+> I think it would be foolish to determine WikiLeaks is over. It’s far too premature for that... I don’t think we’ve seen the end of Assange.
+
+Assange's bail conditions included wearing an electronic ankle tag, reporting daily in person to the local police station, and observing a curfew between 10 pm and 8 am. Assange was frequently photographed by the media in the company of link:https://wikileaks.org/Profile-Sarah-Harrison.html[Sarah Harrison], who has modestly link:https://www.standard.co.uk/lifestyle/london-life/sarah-harrison-the-woman-behind-whistblowers-edward-snowden-and-julian-assange-a3342546.html[described herself] as "just a blonde girl" with "the most boring name ever”. Harrison had joined WikiLeaks to help with the Afghan War Diaries after previously working as an investigative researcher for The Bureau of Investigative Journalism and the Centre for Investigative Journalism. Rumours of a romantic relationship were quick to spread. 
+
+=== January
+
+On 6 January 2011 Vanity Fair link:https://www.vanityfair.com/news/2011/02/the-guardian-201102?currentPage=all%3Cbr%20/%3E[published] a lengthy but unreliable account of how WikiLeaks had worked with various media organisations in the previous year. "The Man Who Spilled The Secrets" article included a potted history of the Guardian and treated Guardian journalists, particularly editor-in-chief Alan Rusbridger, with an awed reverence. 
+
+The first week of January 2011 also saw Bianca Jagger publish a link:https://www.huffpost.com/entry/the-julian-assange-trial_b_805299[rebuttal] of Nick Davies' link:https://www.huffpost.com/entry/post_1506_b_802680[rebuttal] of her link:https://www.huffpost.com/entry/trial-by-newspaper_b_800847[rebuttal] of his original Guardian article link:https://www.theguardian.com/media/2010/dec/17/julian-assange-sweden[Ten Days In Sweden], which had provided extensive details from the Swedish police file on the Assange case. Davies, who acknowledged having fallen out with Assange months earlier, had rejected Jagger's claims that his one-sided article, peppered with lurid sexual details, amounted to "trial by newspapers". 
+
+Davies said the Swedish police file, which would normally have remained secret to guarantee a fair trail for all parties concerned, just "happened to make its way quite legitimately into the hands of somebody I have come across in the past". He refused to identify his source, who probably committed a crime by leaking the file, and finally washed his hands of responsibility for the article that bore his name: 
+
+> The reality is that I didn’t write the story which the Guardian published. The copy which I filed was completely re-written in the Guardian office, a commonplace event in a newsroom.
+
+Jagger dismissed Davies' ludicrous claim that he was defending his source just like WikiLeaks defended theirs, noting "there is a profound difference between exposing the deeds of powerful governments, corporations and the rich and throwing mud at those who released the information". She also made an important point which would have profound repercussions for years to come:
+
+> Assange cannot defend himself at this point; all he can do is refute these allegations in the broadest terms. Davies knows that Assange’s lawyers will insist that he does not publicly engage in a rebuttal of the details in these allegations himself, when he is facing extradition and possible criminal charges. He is thoroughly disadvantaged by what Davies has done. 
+
+Assange would never get his "day in court" to publicly refute the Swedish allegations. He would have to wait nearly seven more years before Swedish prosecutors even came to question him in London, as they routinely did in similar cases. And he would eventually learn that UK Crown Prosecutors had secretly link:https://www.theguardian.com/media/2018/feb/11/sweden-tried-to-drop-assange-extradition-in-2013-cps-emails-show[warned] their Swedish counterparts not to "get cold feet" and close the case (and then deleted their emails). Meanwhile, hostile media voices were free to say whatever they liked.
+
+*
+
+On 8 January 2011, while supporters of Assange and WikiLeaks organised more link:https://wlcentral.org/node/868[global protests], WikiLeaks link:http://twitter.com/#!/wikileaks/status/23591796542013441[launched] a new defense fund for Julian Assange, tweeting: "let us see Paypal try to close this one down too!"
+
+On the same day, it was link:https://twitter.com/wikileaks/status/23604032362778625?s=20[revealed] that the US Department of Justice had issued Twitter with a court order, dated 14 December 2010 (link:https://web.archive.org/web/20110108131805/http://www.salon.com/news/opinion/glenn_greenwald/2011/01/07/twitter/subpoena.pdf[PDF]), for "all records" and "correspondence" relating to accounts "registered to or associated with WikiLeaks". These included Julian Assange and Bradley Manning, along with Iceland MP Birgitta Jónsdóttir, Tor developer Jacob Appelbaum, and Dutch hacker Rop Gonggrijp, who had helped work on the Collateral Murder video. 
+
+Twitter advised affected users that they had ten days to oppose the request for information about their accounts.
+
+> "I think I am being given a message, almost like someone breathing in a phone," link:https://web.archive.org/web/20110108092940/http://news.cnet.com/8301-31921_3-20027893-281.html[tweeted] Jónsdóttir.
+
+The New York Times link:https://www.nytimes.com/2011/01/09/world/09wiki.html[reported] that this was "the first public evidence" of the criminal investigation ordered a month earlier by Obama's Attorney General Eric Holder, and said that the investigation would be "fraught with legal and political difficulties". Gonggrijp link:https://rop.gonggri.jp/?p=448[noted] that the affected users only found out about the order "because Twitter did the right thing and successfully fought for a second court order so they were able to tell us". Citing concerns for his young family, Gonggrijp later terminated his public support for WikiLeaks. 
+
+The DoJ court order, which was widely misreported as a "subpoena", caused link:https://wlcentral.org/node/863[outrage] on Twitter, with @wikileaks warning that all 637,000 of their followers were now being targeted by the US government "under section 2.B" of the order. Enraged followers threatened a class action lawsuit against the US government. Others were intimidated into unfollowing @wikileaks, but within a week the account had a link:http://twitter.com/#!/wikileaks/status/25454900083171328[net gain] of 12,000 followers (hello again Streisand Effect). Iceland MPs voiced concerns that a colleague was being targeted and Foreign Minister Oessur Skarphedinsson link:http://www.dw-world.de/dw/article/0,,14758284,00.html[told German media] it was not acceptable that US authorities had demanded such information.
+
+After some deliberation, Jacob Applebaum decided to push ahead with his planned return to the USA on 10 January, but organised for representatives from the American Civil Liberties Union (ACLU) to meet him at the airport. He then link:https://wlcentral.org/node/918[posted] a long series of tweets about the constant harrassment he received when traveling through US airports. 
+
+> The CBP agents in Seattle were nicer than ones in Newark. None of them implied I would be raped in prison for the rest of my life this time.
+
+*
+
+On 11 January 2011 Julian Assange's routine case management hearing at Belmarsh Magistrates Court was swamped with media and supporters. The Guardian's link:https://www.theguardian.com/news/blog/2011/jan/11/wikileaks-latest-developments[live-blog] of the event included continuing global fallout from the US cable publications and highlights from a 35-page link:https://wlcentral.org/node/902[skeleton outline] of court arguments from Assange's lawyers.  
+
+There were valid security concerns around Assange's court appearance, especially following a recent mass shooting in Arizona where a US politician was shot. WikiLeaks published a link:https://www.twitlonger.com/show/82g3kb[statement] condemning violent threats: 
+
+> WikiLeaks staff and contributors have also been the target of unprecedented violent rhetoric by US prominent media personalities, including Sarah Palin, who urged the US administration to “Hunt down the WikiLeaks chief like the Taliban”. Prominent US politician Mike Huckabee called for the execution of WikiLeaks spokesman Julian Assange on his Fox News program last November, and Fox News commentator Bob Beckel, referring to Assange, publicly called for people to "illegally shoot the son of a bitch." US radio personality Rush Limbaugh has called for pressure to "Give [Fox News President Roger] Ailes the order and [then] there is no Assange, I'll guarantee you, and there will be no fingerprints on it.", while the Washington Times columnist Jeffery T. Kuhner titled his column “Assassinate Assange” captioned with a picture Julian Assange overlayed with a gun site, blood spatters, and “WANTED DEAD or ALIVE” with the alive crossed out.
+
+> John Hawkins of Townhall.com has stated "If Julian Assange is shot in the head tomorrow or if his car is blown up when he turns the key, what message do you think that would send about releasing sensitive American data?"
+
+> Christian Whiton in a Fox News opinion piece called for violence against WikiLeaks publishers and editors, saying the US should "designate WikiLeaks and its officers as enemy combatants, paving the way for non-judicial actions against them."
+
+> WikiLeaks spokesman Julian Assange said: "No organisation anywhere in the world is a more devoted advocate of free speech than Wikileaks but when senior politicians and attention seeking media commentators call for specific individuals or groups of people to be killed they should be charged with incitement -- to murder. Those who call for an act of murder deserve as significant share of the guilt as those raising a gun to pull the trigger."
+
+The web addresss julianassangemustdie.com, which was traced to a rightwing US blogger, was deleted soon afterwards. 
+
+Meanwhile the economic threats from US officials continued. On 12 January 2011 WikiLeaks link:https://www.wikileaks.org/WIKILEAKS-PRESS-RELEASE.html[responded] to Rep. Peter T. King's calls for a US embargo of WikiLeaks. 
+
+> WikiLeaks today condemned calls from the chair of the House Committee on Homeland Security to "strangle the viability" of WikiLeaks by placing the publisher and its editor-in-chief, Julian Assange, on a US "enemies list" normally reserved for terrorists and dictators.
+
+King specifically wanted to target Knopf, a New York publisher who had recently agreed to pay Assange for an autobiography. Assange said the book royalties would "keep Wikileaks afloat". An article in link:https://www.theatlantic.com/national/archive/2011/01/blacklisting-wikileaks/69535/[the Atlantic] ridiculed the madness of such a McCarthyist blacklist: "you could conceivably break the law merely by buying his book, or contributing to a WikiLeaks defense fund". 
+
+WikiLeaks was under massive pressure but clearly not going down without a fight. In a 12 January link:https://www.newstatesman.com/blogs/the-staggers/2011/01/china-wikileaks-assange[interview] with John Pilger, Assange mentioned the existence of "insurance files": 
+
+> "WikiLeaks is now mirrored on more than 2,000 websites... If something happens to me or to WikiLeaks, ‘insurance’ files will be released.... There are 504 US embassy cables on one broadcasting organisation and there are cables on Murdoch and News Corp.” 
+
+Was it a bluff? In years to come, WikiLeaks would repeatedly post such encrypted "insurance files" online. This lead to a lot of wild speculation about the contents, and much of that speculation eventually solidified into misguided belief. Uninformed critics still angrily disclaim how WikiLeaks "promised" to post something but never did.  
+
+*
+
+15 January 2011 saw more link:https://wlcentral.org/node/947[global protests]. The rally in Sydney, Australia link:https://wlcentral.org/node/939[drew] around a thousand supporters. This followed another huge Sydney protest on 14 December 2010, with another one planned for 6 February 2011. WikiLeaks supporters around the world were energised, outraged, and working together to support their heroes. 
+
+Such protests always featured prominent support for Chelsea Manning, who had now been kept in jail under turturous conditions at the Quantico brig for over five months. On 24 January, two Manning supporters (including regular visitor David House) were link:https://wlcentral.org/node/1063[turned away] from the facility after they attempted to deliver a petition of support with 42,000 signatures. On the following day, NBC reported that US military officials had placed Manning on suicide watch.  
+
+> The official said that after Manning had allegedly failed to follow orders from his Marine guards, [Brig Commander James] Averhart declared Manning a "suicide risk." Manning was then placed on suicide watch, which meant he was confined to his cell, stripped of most of his clothing and deprived of his reading glasses — anything that Manning could use to harm himself.
+
+Manning later claimed that the guards had created a scene by issuing conflicting demands such as "turn left, don't turn left". An investigation found that the Brig Commander had acted unlawfully, and he was replaced. Manning was removed from suicide watch on January 21 but remained on POI (Prevention Of Injury) status, despite repeated calls from Army health professionals for this to be lifted. Manning's lawyers filed a link:https://web.archive.org/web/20131202233021/http://www.armycourtmartialdefense.info/2011/01/article-138-complaint.html[complaint] explaining exactly what this entailed: 
+
+> Like suicide risk, he is held in solitary confinement. For 23 hours per day, he will sit in his cell. The guards will check on him every five minutes by asking him if he is okay. PFC Manning will be required to respond in some affirmative manner. At night, if the guards cannot see him clearly, because he has a blanket over his head or is curled up towards the wall, they will wake him in order to ensure that he is okay. He will receive each of his meals in his cell. He will not be allowed to have a pillow or sheets. He will not be allowed to have any personal items in his cell. He will only be allowed to have one book or one magazine at any given time to read. The book or magazine will be taken away from him at the end of the day before he goes to sleep. He will be prevented from exercising in his cell. If he attempts to do push-ups, sit-ups, or any other form of exercise he will be forced to stop. He will receive one hour of exercise outside of his cell daily. The guards will take him to an empty room and allow him to walk. He will usually just walk in figure eights around the room until his hour is complete. When he goes to sleep, he will be required to strip down to his underwear and surrender his clothing to the guards. 
+
+On 24 January 2011 Amnesty International link:https://blog.amnestyusa.org/waronterror/inhumane-treatment-of-wikileaks-soldier-bradley-manning/[issued a call] for the USA to "alleviate the harsh pre-trial detention conditions of Bradley Manning." They link:https://www.amnestyusa.org/qa-wikileaks-and-freedom-of-expression/[ignored] pleas to show similar support for Julian Assange. 
+
+> We are unaware of any legal action having yet been taken against Julian Assange for releasing the documents. As such, Amnesty International is not in a position to comment on any possible case against him specifically, as there are no charges to comment on. 
+
+Amnesty also refused to comment on the Swedish allegations, arguing only that "due process should be followed". Their strange lack of interest in the Assange case was to endure many years, with only very occasional and limited mentions. 
+
+*
+
+The US government may not yet have charged Assange, but they already had a sealed indictment waiting for him, which meant they could file a charge whenever they chose to unseal the indictment. A 26 January 2011 email from Fred Burton, a Vice President at private intelligence firm Stratfor, link:https://wikileaks.org/gifiles/docs/13/1352579_fw-ct-assange-manning-link-not-key-to-wikileaks-case-.html[stated]:
+
+> Not for Pub --
+
+> We have a sealed indictment on Assange.
+
+> Pls protect
+
+Fred Burton was Stratfor's Vice-President for Counterterrorism and Corporate Security, and a former Deputy Chief of the Department of State's counterterrorism division for the Diplomatic Security Service. Stratfor's business model relies on close communication with US intelligence agencies, and many Stratfor staff are former CIA agents. Burton's email was not uninformed gossip - Assange’s own lawyers had already warned of a possible indictment - but it remained secret until February 2012, when WikiLeaks link:https://wikileaks.org/Stratfor-Emails-US-Has-Issued.html[released] the link:http://wikileaks.org/the-gifiles.html[Global Intelligence files]. 
+
+Despite such evidence of a US indictment, media commentators and senior government officials in Britain, Australia, and Sweden - many of whom must have known about the sealed indictment - continued to pretend that Assange's fears of extradition to the USA were entirely baseless. 
+
+In August 2012, Reuters falsely link:https://uk.reuters.com/article/us-wikileaks-assange-usa/despite-assange-claims-u-s-has-no-current-case-against-him-idUSBRE87L12W20120822[reported] that the USA had "no current case" against Assange and State Department spokeswoman Victoria Nuland dismissed his extradition concerns as "wild assertions". 
+
+> “He is clearly trying to deflect attention away from the real issue,” Nuland said.
+
+In November 2013 the Washington Post went even further, falsely link:https://web.archive.org/web/20131121011138/https://www.washingtonpost.com/world/national-security/assange-not-under-sealed-indictment-us-officials-say/2013/11/18/8a3cb2da-506c-11e3-a7f0-b790929232e1_story.html[reporting] that Assange was "not under sealed indictment" based on comments from anonymous US officials. 
+
+> “We will treat this news with skepticism,” said WikiLeaks spokesman Kristinn Hrafnsson. “Unfortunately, the U.S. government has a track record of being deceptive.”
+
+*
+
+Also on 26 January 2011, the New York Times' executive editor Bill Keller published a link:https://wlcentral.org/node/1126[ridiculously long] article about his dealings with WikiLeaks during the previous year. Keller was intent on establishing his own narrative of events, thus insulating his newspaper from allegations of irresponsible reporting, but he also provided qualified support for Assange and WikiLeaks in the face of US government threats:
+
+> But while I do not regard Assange as a partner, and I would hesitate to describe what WikiLeaks does as journalism, it is chilling to contemplate the possible government prosecution of WikiLeaks for making secrets public, let alone the passage of new laws to punish the dissemination of classified information, as some have advocated. Taking legal recourse against a government official who violates his trust by divulging secrets he is sworn to protect is one thing. But criminalizing the publication of such secrets by someone who has no official obligation seems to me to run up against the First Amendment and the best traditions of this country.
+
+Five days later, 60 Minutes aired a lengthy link:http://is.gd/7Ll9ZM[interview] with Assange were he claimed "our founding values are those of the U.S. revolution".
+
+> 60 Mins: Someone in the Australian government said that, “Look, if you play outside the rules you can’t expect to be protected by the rules.” And you played outside the rules. You’ve played outside the United States’ rules.
+
+> Assange: No. We’ve actually played inside the rules. We didn’t go out to get the material. We operated just like any U.S. publisher operates. We didn’t play outside the rules. We played inside the rules.
+
+> 60 Mins: There’s a special set of rules in the United States for disclosing classified information. There is longstanding -
+
+> Assange: There’s a special set of rules for soldiers. For members of the State Department, who are disclosing classified information. There’s not a special set of rules for publishers to disclose classified information. There is the First Amendment. It covers the case. And there’s been no precedent that I’m aware of in the past 50 years of prosecuting a publisher for espionage. It is just not done. Those are the rules. You do not do it.
+
+Assange insisted that WikiLeaks's 2010 releases would in fact be "encouragement to every other publisher to publish fearlessly."
+
+> If we’re talking about creating threats to small publishers to stop them publishing, the U.S. has lost its way. It has abrogated its founding traditions. It has thrown the First Amendment in the bin. Because publishers must be free to publish.
+
+*
+
+Meanwhile, the world was in turmoil. Tunisia's president Zine al-Abidine Ben Ali link:https://www.theguardian.com/world/2011/jan/14/tunisian-president-flees-country-protests[fled his country] in mid-January 2011 - despite winning 89% of the vote two years earlier - -and became the first dictator to fall in what became known as the Arab Spring. The widespread protests were at least partly triggered by WikiLeaks' Cablegate publications, which provided hard proof of endemic corruption across the Middle East. 
+
+The final days of January saw huge protests in Egypt, with US-backed dictator Hosni Mubarak repeatedly shutting down the Internet to stem the flow of information. On 29 January activists began link:http://twitter.com/#!/wikileaks/status/31046777343836160[faxing] WikiLeaks cables into Egypt to bypass the Internet blockade. Mubarak resigned less than two weeks later. 
+
+Critics accused Assange of trying to take full credit for these revolutions, although he did no such thing. On 30 January 2011 @wikileaks link:https://twitter.com/wikileaks/status/31448923629420544?s=20[tweeted]:
+
+> Yes, we may have helped Tunisia, Egypt. But let us not forget the elephant in the room: Al Jazeera + sat dishes
+
+The Arab Spring also saw many online activists joining the #Anonymous global collective to bring down government websites with massive Denial of Service (DDos) attacks. Western analysts could hardly complain when such activists helped bring down authoritarian governments in the Middle East, but it was a different story for those who had targetted US and British websites in the previous year. On 28 January the FBI link:https://archives.fbi.gov/archives/news/pressrel/press-releases/warrants_012711[announced] that it had executed over forty search warrants in response to DDoS attacks, while five people were link:https://wlcentral.org/node/1104[arrested] in the United Kingdom. 
+
+Anons reacted to these arrests by publishing an link:https://www.indymedia.org.uk/en/2011/01/472905.html[open letter] to the UK government, ridiculing the harsh penalties (maximum 10 years imprisonment and a fine of up to £5000) for a crime that temporarily brought down websites but left no permament damage. 
+
+> The fact that thousands of people from all over the world felt the need to participate in these attacks on organisations targeting Wikileaks and treating it as a public threat, rather than a common good, should be something that sets you thinking. You can easily arrest individuals, but you cannot arrest an ideology. 
+
+=== February
+
+MORE TO COME...!
+
+*
+
+link:ch9.html[NEXT CHAPTER: TBA]
+
+*
+
+The author of this book has been an active supporter of WikiLeaks since at least 2010. He can be found at: 
+
+Twitter: https://twitter.com/jaraparilla
+
+Blog: https://jaraparilla.blogspot.com
+
+Patreon: https://patreon.com/jaraparilla
+
+Paypal: https://paypal.me/jaraparilla
+ 
+You can support the writing of this book here: https://www.gofundme.com/f/wikileaks-true-history-book
+
+Thank you.
+ 
+*
+
+link:index.html[Home] - link:ch1.html[Genesis] - link:ch2.html[2007] - link:ch3.html[2008] - link:ch4.html[2009] - link:ch5.html[Early 2010] - link:ch6.html[Mid 2010] - link:ch7.html[Late 2010] - link:ch8.html[2011] 
+
+Copyright Gary Lord 2021
+
+
